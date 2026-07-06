@@ -1,7 +1,7 @@
 /* New York, in Time — timeline engine */
 (function(){
   'use strict';
-  var EVENTS = (window.NYC_EVENTS || []).slice().sort(function(a,b){return a.sortKey-b.sortKey;});
+  var EVENTS = (window.NYC_EVENTS || []).slice();
 
   // ----- Era definitions (order + color) -----
   var ERAS = [
@@ -13,6 +13,8 @@
     {name:"21st Century (2001–present)",             short:"21st C.",      rn:"VI",  range:"2001–now",    color:"#3aa0b0"}
   ];
   function eraIndex(name){for(var i=0;i<ERAS.length;i++){if(ERAS[i].name===name)return i;}return 2;}
+  // sort by era order first, then chronologically within the era
+  EVENTS.sort(function(a,b){var d=eraIndex(a.era)-eraIndex(b.era);return d!==0?d:(a.sortKey-b.sortKey);});
 
   // Category palette
   var CATCOLOR = {
@@ -145,17 +147,30 @@
       var side = (sideCounter%2===0)?'left':'right'; sideCounter++;
       var conf = (e.confidence==='medium')?'<span class="conf medium">≈ approximate</span>':'';
       var color = CATCOLOR[e.category]||er.color;
-      html+='<article class="event '+side+'" data-cat="'+esc(e.category)+'" data-search="'+esc((e.title+' '+e.blurb+' '+e.date).toLowerCase())+'" style="--era:'+er.color+'">'
+      // sources: prefer array, fall back to single source/sourceUrl
+      var srcArr = (e.sources && e.sources.length) ? e.sources
+                 : (e.sourceUrl ? [{name:e.source||'Source', url:e.sourceUrl}] : []);
+      var srcHtml = srcArr.map(function(s){
+        return '<a class="src" href="'+esc(s.url)+'" target="_blank" rel="noopener">▸ '+esc(s.name)+'</a>';
+      }).join('');
+      var hasDetail = !!e.detail;
+      var detailHtml = hasDetail ? '<div class="detail"><p>'+esc(e.detail)+'</p></div>' : '';
+      var moreBtn = hasDetail ? '<button class="more" type="button">Read more <span class="chev">↓</span></button>' : '';
+      var searchTxt = (e.title+' '+e.blurb+' '+(e.detail||'')+' '+e.date+' '+e.category).toLowerCase();
+      var pd = parseDate(e.date);
+      html+='<article class="event '+side+(hasDetail?' has-detail':'')+'" data-cat="'+esc(e.category)+'" data-search="'+esc(searchTxt)+'" data-month="'+pd.mo+'" data-day="'+pd.day+'" data-year="'+(pd.yr||e.sortKey)+'" data-weight="'+(e.weight||2)+'" style="--era:'+er.color+'">'
         +'<span class="node"></span>'
         +'<div class="card" tabindex="0">'
           +'<div class="yr"><span class="ic">'+(e.icon||'•')+'</span><span>'+esc(String(e.date).match(/\d{3,4}|c\.\s?\d+/)?displayYear(e):e.date)+'</span></div>'
           +'<div class="date">'+esc(e.date)+'</div>'
           +'<h3>'+esc(e.title)+'</h3>'
           +'<p>'+esc(e.blurb)+'</p>'
+          + detailHtml
           +'<div class="meta">'
             +'<span class="tag" style="background:'+color+'">'+esc(shortCat(e.category))+'</span>'
-            + (e.sourceUrl?'<a class="src" href="'+esc(e.sourceUrl)+'" target="_blank" rel="noopener">▸ '+esc(e.source||'Source')+'</a>':'')
+            + srcHtml
             + conf
+            + moreBtn
           +'</div>'
         +'</div>'
       +'</article>';
@@ -167,6 +182,16 @@
   }
   function shortCat(c){ return c.split(' & ')[0]; }
   function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g,function(m){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m];}); }
+  var MONTHS={january:1,february:2,march:3,april:4,may:5,june:6,july:7,august:8,september:9,october:10,november:11,december:12};
+  var MONTH_NAMES=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  function parseDate(d){
+    d=String(d); var mo='',day='',yr='';
+    var mm=d.match(/(january|february|march|april|may|june|july|august|september|october|november|december)/i);
+    if(mm) mo=MONTHS[mm[1].toLowerCase()];
+    var dm=d.match(/\b([0-3]?\d),/); if(dm) day=parseInt(dm[1],10);
+    var ym=d.match(/(\d{3,4})(?!.*\d)/); if(ym) yr=parseInt(ym[1],10);
+    return {mo:mo,day:day,yr:yr};
+  }
 
   // ---------- Scroll reveal ----------
   function observe(){
@@ -221,15 +246,88 @@
   // ---------- Filters ----------
   function applyFilters(){
     var q=($("#search").value||'').trim().toLowerCase();
-    var shown=0;
+    var mo=$("#otdMonth")?$("#otdMonth").value:'';
+    var day=$("#otdDay")?$("#otdDay").value:'';
+    var shown=0, firstMatch=null;
+    var narrowed = q || mo || day;
     $$(".event").forEach(function(el){
       var catOk=activeCats[el.dataset.cat];
       var qOk=!q || el.dataset.search.indexOf(q)>=0;
-      var ok=catOk&&qOk;
+      var moOk=!mo || el.dataset.month===mo;
+      var dayOk=!day || el.dataset.day===day;
+      var ok=catOk&&qOk&&moOk&&dayOk;
       el.classList.toggle('dim',!ok);
       el.style.pointerEvents=ok?'':'none';
-      if(ok) shown++;
+      if(ok){ shown++; if(!firstMatch) firstMatch=el; }
     });
+    // hit count
+    var hc=$("#hitcount");
+    if(hc){
+      var active = narrowed || Object.keys(activeCats).some(function(k){return !activeCats[k];});
+      hc.textContent = active ? (shown+' of '+EVENTS.length) : '';
+    }
+    // if an "on this day" query is set, scroll to the first match
+    if((mo||day) && firstMatch){
+      var y=firstMatch.getBoundingClientRect().top+window.scrollY-window.innerHeight*0.35;
+      window.scrollTo({top:y,behavior:'smooth'});
+      flash(firstMatch);
+    }
+  }
+  function flash(el){
+    if(!el) return; el.classList.add('in','flash');
+    setTimeout(function(){el.classList.remove('flash');},1900);
+  }
+  // ----- On this day / year jump / surprise me tools -----
+  function setupTools(){
+    var ms=$("#otdMonth"); if(ms){
+      MONTH_NAMES.forEach(function(n,i){var o=document.createElement('option');o.value=String(i+1);o.textContent=n;ms.appendChild(o);});
+    }
+    var ds=$("#otdDay"); if(ds){
+      for(var d=1;d<=31;d++){var o=document.createElement('option');o.value=String(d);o.textContent=d;ds.appendChild(o);}
+    }
+    if(ms) ms.addEventListener('change',applyFilters);
+    if(ds) ds.addEventListener('change',applyFilters);
+    var today=$("#otdToday"); if(today) today.addEventListener('click',function(){
+      var now=new Date();
+      $("#otdMonth").value=String(now.getMonth()+1);
+      $("#otdDay").value=String(now.getDate());
+      applyFilters();
+    });
+    var yj=$("#yearJump"); if(yj) yj.addEventListener('change',function(){ jumpToYear(parseInt(yj.value,10)); });
+    var reset=$("#clearTools"); if(reset) reset.addEventListener('click',function(){
+      $("#otdMonth").value=''; $("#otdDay").value=''; $("#yearJump").value=''; $("#search").value='';
+      Object.keys(activeCats).forEach(function(k){activeCats[k]=true;});
+      $$(".chip").forEach(function(c){c.classList.remove('off');});
+      applyFilters();
+    });
+    ['#luckyBtn'].forEach(function(id){var b=$(id); if(b) b.addEventListener('click',surpriseMe);});
+  }
+  function jumpToYear(yr){
+    if(!yr) return;
+    var best=null, bestDiff=1e9;
+    $$(".event").forEach(function(el){
+      var y=parseInt(el.dataset.year,10); if(isNaN(y)) return;
+      var diff=Math.abs(y-yr);
+      if(diff<bestDiff){bestDiff=diff;best=el;}
+    });
+    if(best){
+      var y=best.getBoundingClientRect().top+window.scrollY-window.innerHeight*0.35;
+      window.scrollTo({top:y,behavior:'smooth'});
+      flash(best);
+      toast('Nearest moment to '+yr+': '+best.querySelector('h3').textContent);
+    }
+  }
+  function surpriseMe(){
+    var pool=$$(".event:not(.dim)"); if(!pool.length) pool=$$(".event");
+    if(!pool.length) return;
+    // pseudo-random without Math.random dependency issues in-page (Math.random is fine in browser)
+    var el=pool[Math.floor(Math.random()*pool.length)];
+    var y=el.getBoundingClientRect().top+window.scrollY-window.innerHeight*0.32;
+    window.scrollTo({top:y,behavior:'smooth'});
+    el.classList.add('in');
+    if(el.classList.contains('has-detail')) el.classList.add('expanded');
+    flash(el);
+    toast('🎲 '+el.querySelector('h3').textContent);
   }
 
   // ---------- Guided tour ----------
@@ -273,9 +371,10 @@
   function buildModal(){
     $("#srcList").innerHTML = EVENTS.map(function(e){
       var y=String(e.date);
+      var s=(e.sources&&e.sources.length)?e.sources[0]:(e.sourceUrl?{name:e.source,url:e.sourceUrl}:null);
       return '<li><span class="y">'+esc(y.match(/c\.\s?\d+|\d{3,4}/)?y.match(/c\.\s?\d+|\d{3,4}/)[0]:y)+'</span>'
         +'<span>'+esc(e.title)+' — '
-        +(e.sourceUrl?'<a href="'+esc(e.sourceUrl)+'" target="_blank" rel="noopener">'+esc(e.source||'source')+'</a>':esc(e.source||''))
+        +(s&&s.url?'<a href="'+esc(s.url)+'" target="_blank" rel="noopener">'+esc(s.name||'source')+'</a>':esc((s&&s.name)||''))
         +'</span></li>';
     }).join("");
   }
@@ -285,6 +384,20 @@
   // ---------- Wire up ----------
   function wire(){
     controls=$("#controls"); timeline=$("#timeline"); spineFill=$("#spineFill"); comet=$("#comet");
+
+    // click a card to expand its detail (ignore clicks on source links)
+    $("#events").addEventListener('click',function(e){
+      if(e.target.closest('a')) return;
+      var card=e.target.closest('.card'); if(!card) return;
+      var ev=card.parentNode;
+      if(!ev.classList.contains('has-detail')) return;
+      ev.classList.toggle('expanded');
+    });
+    $("#events").addEventListener('keydown',function(e){
+      if((e.key==='Enter'||e.key===' ')&&e.target.classList.contains('card')){
+        e.preventDefault(); e.target.parentNode.classList.toggle('expanded');
+      }
+    });
 
     $("#filterBtn").addEventListener('click',function(){$("#filters").classList.toggle('open');});
     $("#search").addEventListener('input',applyFilters);
@@ -317,7 +430,7 @@
       return;
     }
     buildStars(); heroStats(); animateTitle(); buildPills(); buildChips();
-    render(); observe(); buildModal(); wire();
+    render(); observe(); buildModal(); wire(); setupTools();
   }
   if(document.readyState!=='loading') init(); else document.addEventListener('DOMContentLoaded',init);
 })();

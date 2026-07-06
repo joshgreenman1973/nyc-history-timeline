@@ -1,0 +1,1127 @@
+[
+  {
+    "date": "1784",
+    "sortKey": 1784,
+    "title": "The Bank of New York is founded",
+    "blurb": "A group of merchants and lawyers led by Alexander Hamilton founded the Bank of New York, the city's first bank and the seed of its future as a financial capital.",
+    "detail": "Founded in June 1784 to help the city recover from the Revolutionary War, it was among the first banks in the new nation, when only two other banks existed in North America. Hamilton wrote its constitution, which became a model for later American banks. The institution provided the U.S. government its first loan in 1789 and survives today within BNY.",
+    "category": "Economy & Money",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "New-York Historical Society", "url": "https://www.nyhistory.org/blogs/alexander-hamilton-new-york-citys-financial-founding-father"},
+      {"name": "BNY – History", "url": "https://www.bny.com/corporate/global/en/about-us/history.html"}
+    ],
+    "confidence": "high",
+    "icon": "🏦"
+  },
+  {
+    "date": "January 11, 1785",
+    "sortKey": 1785,
+    "title": "New York becomes the national capital",
+    "blurb": "The Confederation Congress began meeting in New York, making the city the seat of the young United States government.",
+    "detail": "In December 1784 Congress voted to designate New York the capital, and on January 18, 1785 it accepted the city's offer of City Hall as a meeting place. The city spent about $65,000 remodeling the building, with Pierre Charles L'Enfant directing the work. New York served as capital until the government moved to Philadelphia in 1790.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Library of Congress", "url": "https://www.loc.gov/collections/continental-congress-and-constitutional-convention-from-1774-to-1789/articles-and-essays/to-form-a-more-perfect-union/new-york-city/"},
+      {"name": "U.S. Senate", "url": "https://www.senate.gov/about/historic-buildings-spaces/past-chambers/federal-hall.htm"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "1785",
+    "sortKey": 1785,
+    "title": "New York Manumission Society is formed",
+    "blurb": "Prominent New Yorkers including John Jay and Alexander Hamilton founded the Manumission Society to promote gradual abolition and aid free Black residents.",
+    "detail": "The society lobbied against slavery in a state where it was still deeply entrenched and defended free Black New Yorkers from kidnapping into bondage. It went on to found the African Free School in 1787 and pressed for the gradual-abolition legislation that followed. Its records are a key source on early Black life in the city.",
+    "category": "Civil Rights & Protest",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/New-York-Manumission-Society"},
+      {"name": "New-York Historical Society", "url": "https://www.nyhistory.org/web/africanfreeschool/history/manumission-society.html"}
+    ],
+    "confidence": "high",
+    "icon": "⛓️"
+  },
+  {
+    "date": "November 2, 1787",
+    "sortKey": 1787,
+    "title": "The African Free School opens",
+    "blurb": "The Manumission Society opened the African Free School, the first school in New York for the children of enslaved and free Black families.",
+    "detail": "Founded by members including Hamilton and Jay, it began with a single teacher and about 40 students and grew into a network of schools. Its graduates included future leaders such as the actor Ira Aldridge and the minister Henry Highland Garnet. The school later merged into the city's public system.",
+    "category": "Civil Rights & Protest",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "African Free School – Wikipedia", "url": "https://en.wikipedia.org/wiki/African_Free_School"},
+      {"name": "Village Preservation", "url": "https://www.villagepreservation.org/2017/11/02/african-free-school-first-in-america-for-blacks-found-a-home-in-greenwich-village/"}
+    ],
+    "confidence": "high",
+    "icon": "📚"
+  },
+  {
+    "date": "July 26, 1788",
+    "sortKey": 1788,
+    "title": "New York ratifies the U.S. Constitution",
+    "blurb": "Meeting in Poughkeepsie, the state convention voted 30 to 27 to ratify the Constitution, making New York the 11th state.",
+    "detail": "Anti-Federalists outnumbered Federalists at the convention, and ratification came only after intense debate and news that Virginia had joined the union. Days earlier, on July 23, 1788, a Grand Federal Procession of thousands marched through Manhattan to celebrate the Constitution. The narrow vote cleared the way for New York to host the new federal government.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Avalon Project, Yale Law School", "url": "https://avalon.law.yale.edu/18th_century/ratny.asp"},
+      {"name": "Library of Congress", "url": "https://www.loc.gov/item/today-in-history/july-26/"}
+    ],
+    "confidence": "high",
+    "icon": "📜"
+  },
+  {
+    "date": "April 30, 1789",
+    "sortKey": 1789,
+    "title": "Washington inaugurated at Federal Hall",
+    "blurb": "George Washington took the oath as the first president on the balcony of Federal Hall in Lower Manhattan.",
+    "detail": "New York Chancellor Robert Livingston administered the oath around one o'clock so the crowd below could witness it, then Washington delivered his inaugural address inside the Senate Chamber. Federal Hall, remodeled by Pierre L'Enfant, was the nation's first capitol and home to the First Congress. The city remained the seat of government for barely a year afterward.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "National Archives", "url": "https://www.archives.gov/legislative/features/gw-inauguration"},
+      {"name": "U.S. House of Representatives History", "url": "https://history.house.gov/Historical-Highlights/1700s/The-first-inauguration-at-Federal-Hall-in-New-York-City/"}
+    ],
+    "confidence": "high",
+    "icon": "🇺🇸"
+  },
+  {
+    "date": "September 25, 1789",
+    "sortKey": 1789,
+    "title": "Congress proposes the Bill of Rights",
+    "blurb": "At Federal Hall in New York, the First Congress approved 12 constitutional amendments and sent them to the states.",
+    "detail": "Ten of the proposed amendments were ratified by 1791 and became the Bill of Rights, guaranteeing freedoms of speech, religion and assembly among other protections. James Madison shepherded the amendments through the House meeting in New York. The work was among the last major acts of government done in the city before the capital moved.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "National Archives – Bill of Rights", "url": "https://www.archives.gov/founding-docs/bill-of-rights"},
+      {"name": "U.S. Senate", "url": "https://www.senate.gov/about/historic-buildings-spaces/past-chambers/federal-hall.htm"}
+    ],
+    "confidence": "high",
+    "icon": "📜"
+  },
+  {
+    "date": "1790",
+    "sortKey": 1790,
+    "title": "The federal capital moves to Philadelphia",
+    "blurb": "After the Residence Act, the seat of the U.S. government left New York for Philadelphia, ending the city's brief run as national capital.",
+    "detail": "The move followed the 1790 Compromise, in which Hamilton's plan for federal assumption of state debts was traded for a southern site for the permanent capital. Philadelphia served as an interim capital while Washington, D.C. was built. New York, freed of its political role, turned fully toward commerce and finance.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "U.S. Senate – Farewell to New York", "url": "https://www.senate.gov/artandhistory/history/minute/Farewell_NY.htm"},
+      {"name": "History of New York City (1784–1854) – Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1784-1854)"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "May 17, 1792",
+    "sortKey": 1792,
+    "title": "The Buttonwood Agreement founds the NYSE",
+    "blurb": "Twenty-four brokers signed a pact on Wall Street to trade securities only among themselves, the origin of the New York Stock Exchange.",
+    "detail": "Signed outside 68 Wall Street, reputedly under a buttonwood tree, the two-sentence agreement set a minimum commission and gave members preference over outside dealers. It came in the wake of the Panic of 1792, touched off by speculator William Duer's collapse. In 1817 the group formalized as the New York Stock and Exchange Board.",
+    "category": "Economy & Money",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Buttonwood Agreement – Wikipedia", "url": "https://en.wikipedia.org/wiki/Buttonwood_Agreement"},
+      {"name": "TIME", "url": "https://time.com/4777959/buttonwood-agreement-stock-exchange/"}
+    ],
+    "confidence": "high",
+    "icon": "📈"
+  },
+  {
+    "date": "1795",
+    "sortKey": 1795,
+    "title": "Yellow fever strikes New York",
+    "blurb": "A yellow fever epidemic swept the city between July and October 1795, killing roughly 730 people.",
+    "detail": "The mosquito-borne disease, its cause then unknown, terrified residents and emptied entire neighborhoods as those who could afford to fled north. Physicians blamed miasmas and filth, spurring early debates over sanitation and clean water. It was the first of several deadly epidemics that battered the city over the next decade.",
+    "category": "Disaster & Crisis",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Baruch College / NYCdata", "url": "https://www.baruch.cuny.edu/nycdata/disasters/yellow_fever.html"},
+      {"name": "PBS American Experience", "url": "https://www.pbs.org/wgbh/americanexperience/features/fever-major-american-epidemics-of-yellow-fever/"}
+    ],
+    "confidence": "high",
+    "icon": "🦠"
+  },
+  {
+    "date": "1798",
+    "sortKey": 1798,
+    "title": "The worst yellow fever epidemic",
+    "blurb": "The 1798 yellow fever epidemic was the city's deadliest of the era, killing about 2,080 people, roughly four percent of the population.",
+    "detail": "The scale of death fueled demands for a reliable clean-water supply, a cause seized on the following year by Aaron Burr's Manhattan Company. Business ground to a halt as merchants and residents abandoned the city for the season. Yellow fever returned repeatedly until the early 1800s before receding.",
+    "category": "Disaster & Crisis",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Museum of American Finance", "url": "https://www.moaf.org/exhibits/pandemics/yellow-fever-1798"},
+      {"name": "Baruch College / NYCdata", "url": "https://www.baruch.cuny.edu/nycdata/disasters/yellow_fever.html"}
+    ],
+    "confidence": "high",
+    "icon": "🦠"
+  },
+  {
+    "date": "1799",
+    "sortKey": 1799,
+    "title": "New York passes gradual abolition",
+    "blurb": "Governor John Jay signed the Act for the Gradual Abolition of Slavery, freeing children born to enslaved mothers after July 4, 1799.",
+    "detail": "The law did not free anyone immediately; instead, children born into slavery had to serve lengthy indentures into their twenties. It set New York on a decades-long path that ended slavery in the state in 1827. New York City, with its many enslaved households, was central to the debate.",
+    "category": "Civil Rights & Protest",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Historical Society of the New York Courts", "url": "https://history.nycourts.gov/when-did-slavery-end-in-new-york/"},
+      {"name": "New York Manumission Society – Wikipedia", "url": "https://en.wikipedia.org/wiki/New_York_Manumission_Society"}
+    ],
+    "confidence": "high",
+    "icon": "⛓️"
+  },
+  {
+    "date": "April 2, 1799",
+    "sortKey": 1799,
+    "title": "Aaron Burr charters the Manhattan Company",
+    "blurb": "The state chartered the Manhattan Company to supply water, but a clause let Aaron Burr use its capital to open a bank.",
+    "detail": "Ostensibly created to bring clean water to a city ravaged by yellow fever, the company's real prize was a banking charter that broke Federalist control of city finance. Its Bank of the Manhattan Company opened at 40 Wall Street in September 1799. The waterworks were sold to the city in 1808, and the bank eventually became part of today's JPMorgan Chase.",
+    "category": "Economy & Money",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Manhattan Company – Wikipedia", "url": "https://en.wikipedia.org/wiki/Manhattan_Company"},
+      {"name": "JPMorgan Chase – History", "url": "https://www.jpmorganchase.com/about/our-history"}
+    ],
+    "confidence": "high",
+    "icon": "💧"
+  },
+  {
+    "date": "1803",
+    "sortKey": 1803,
+    "title": "Yellow fever returns",
+    "blurb": "Yellow fever struck New York again in 1803, causing roughly 700 deaths and renewing panic over the city's sanitary conditions.",
+    "detail": "It was among the last of the era's major yellow fever epidemics before the disease faded from the city. The recurring outbreaks pushed officials to establish quarantine and health measures at the harbor. They also strengthened the case for the Croton water system built decades later.",
+    "category": "Disaster & Crisis",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Baruch College / NYCdata", "url": "https://www.baruch.cuny.edu/nycdata/disasters/yellow_fever.html"},
+      {"name": "Museum of the City of New York", "url": "https://www.mcny.org/story/germ-city-epidemics-throughout-new-yorks-history"}
+    ],
+    "confidence": "high",
+    "icon": "🦠"
+  },
+  {
+    "date": "November 20, 1804",
+    "sortKey": 1804,
+    "title": "The New-York Historical Society is founded",
+    "blurb": "Eleven prominent citizens, including Mayor DeWitt Clinton, founded the New-York Historical Society, the city's first museum.",
+    "detail": "Organized largely through the efforts of John Pintard, it set out to collect and preserve the records of the young nation and state. It is the oldest museum in New York City and holds one of the country's important research libraries. The institution shortened its name to New York Historical in 2024.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "New York Historical – Wikipedia", "url": "https://en.wikipedia.org/wiki/New_York_Historical"},
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/New-York-Historical-Society"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "August 17, 1807",
+    "sortKey": 1807,
+    "title": "Fulton's steamboat sails the Hudson",
+    "blurb": "Robert Fulton's steamboat, later known as the Clermont, made its first voyage from New York City to Albany.",
+    "detail": "Skeptics called the vessel \"Fulton's Folly,\" but it steamed 150 miles up the Hudson at about five miles per hour, proving steam navigation commercially viable. The success launched regular passenger service on the river and remade travel and commerce along the Hudson. It cemented New York's advantage as the gateway between the ocean and the interior.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/Clermont-steamboat"},
+      {"name": "Robert Fulton – Wikipedia", "url": "https://en.wikipedia.org/wiki/Robert_Fulton"}
+    ],
+    "confidence": "high",
+    "icon": "🚢"
+  },
+  {
+    "date": "March 22, 1811",
+    "sortKey": 1811,
+    "title": "The Commissioners' Plan grids Manhattan",
+    "blurb": "State commissioners filed the plan that imposed Manhattan's numbered rectilinear grid of streets and avenues above roughly Houston Street.",
+    "detail": "Gouverneur Morris, Simeon De Witt and John Rutherfurd laid out 12 avenues and 155 cross streets on an eight-foot map, ignoring the island's hills and streams in favor of uniform blocks. The plan shaped New York's growth for two centuries and made real estate easy to survey and sell. It is among the most consequential urban-planning decisions in American history.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Commissioners' Plan of 1811 – Wikipedia", "url": "https://en.wikipedia.org/wiki/Commissioners'_Plan_of_1811"},
+      {"name": "NYPL Archives", "url": "https://archives.nypl.org/mss/605"}
+    ],
+    "confidence": "high",
+    "icon": "🗺️"
+  },
+  {
+    "date": "1811",
+    "sortKey": 1811,
+    "title": "Harbor forts rise before the War of 1812",
+    "blurb": "New York ringed its harbor with new forts, including the West Battery (later Castle Clinton) and Castle Williams, completed in 1811.",
+    "detail": "Built as war with Britain loomed, the West Battery stood on a manmade island off Manhattan's tip while Castle Williams guarded Governors Island with 40-foot walls. The defenses were formidable enough that the British fleet never attacked the city during the War of 1812. Castle Clinton later served as an immigrant depot, aquarium and national monument.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "National Park Service", "url": "https://www.nps.gov/articles/castleclinton.htm"},
+      {"name": "Castle Clinton – Wikipedia", "url": "https://en.wikipedia.org/wiki/Castle_Clinton"}
+    ],
+    "confidence": "high",
+    "icon": "🏰"
+  },
+  {
+    "date": "May 10, 1814",
+    "sortKey": 1814,
+    "title": "Fulton's steam ferry links Brooklyn",
+    "blurb": "Robert Fulton's steam ferry Nassau began the first reliable powered crossing between Brooklyn and Manhattan.",
+    "detail": "The ferry crossed the East River in about 12 minutes regardless of wind or tide, transforming a slow, weather-dependent trip into a routine commute. Predictable service helped turn Brooklyn Heights into one of America's first commuter suburbs. The Fulton Ferry landing anchored Brooklyn's waterfront for generations.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Fulton Ferry – Wikipedia", "url": "https://en.wikipedia.org/wiki/Fulton_Ferry_(ferry)"},
+      {"name": "South Street Seaport Museum", "url": "https://southstreetseaportmuseum.org/naming-new-york-ferries/"}
+    ],
+    "confidence": "high",
+    "icon": "⛴️"
+  },
+  {
+    "date": "March 16, 1819",
+    "sortKey": 1819,
+    "title": "The city's first savings bank opens",
+    "blurb": "The Bank for Savings in the City of New-York, the first savings bank in the state, opened to encourage thrift among working people.",
+    "detail": "Incorporated on March 16, 1819 and opened that July, it was organized by philanthropists including Thomas Eddy, John Pintard and DeWitt Clinton as \"a bank for the poor.\" It offered ordinary New Yorkers a safe place to deposit small sums and earn interest. The model spread quickly across the growing city.",
+    "category": "Economy & Money",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Bank for Savings – Wikipedia", "url": "https://en.wikipedia.org/wiki/Bank_for_Savings_in_the_City_of_New-York"},
+      {"name": "Historic Districts Council", "url": "https://6tocelebrate.org/site/bank-for-savings/"}
+    ],
+    "confidence": "high",
+    "icon": "🏦"
+  },
+  {
+    "date": "1825",
+    "sortKey": 1825,
+    "title": "Gas lamps light up Broadway",
+    "blurb": "The New York Gas Light Company completed gas lighting along Broadway from the Battery to Grand Street, the city's first gas-lit street.",
+    "detail": "The company, chartered in 1823, laid cast-iron mains and won the first franchise to manufacture and distribute gas in Manhattan. Broadway's lighting was finished on May 11, 1825, replacing dim oil lamps with a brighter, steadier glow. Gas lines soon spread across Lower Manhattan, extending the city's working and social hours into the night.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Today in Science History", "url": "https://todayinsci.com/Events/Technology/GasLightingNewYork.htm"},
+      {"name": "CultureNow", "url": "https://culturenow.org/site/first-gas-lighting-in-new-york-city"}
+    ],
+    "confidence": "medium",
+    "icon": "💡"
+  },
+  {
+    "date": "October 26, 1825",
+    "sortKey": 1825,
+    "title": "The Erie Canal opens",
+    "blurb": "The 363-mile Erie Canal opened, linking the Great Lakes to the Hudson and securing New York's rise as the nation's premier port.",
+    "detail": "Governor DeWitt Clinton marked the opening with the \"Wedding of the Waters,\" pouring Lake Erie water into New York Harbor after a triumphal voyage from Buffalo. Freight costs between Buffalo and New York collapsed from about $100 to $10 a ton, funneling the commerce of the interior through the city. The canal made New York the undisputed economic capital of the United States.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "History.com", "url": "https://www.history.com/this-day-in-history/july-4/construction-begins-erie-canal"},
+      {"name": "Erie Canal – eriecanal.org", "url": "https://www.eriecanal.org/general-1.html"}
+    ],
+    "confidence": "high",
+    "icon": "🚣"
+  },
+  {
+    "date": "December 13, 1827",
+    "sortKey": 1827,
+    "title": "Delmonico's opens",
+    "blurb": "The Swiss-born Delmonico brothers opened a small café on William Street that grew into America's pioneering fine-dining restaurant.",
+    "detail": "John and Peter Delmonico began with pastries and coffee at 23 William Street, then expanded into full-service dining as the city's merchant class prospered. Delmonico's introduced the printed menu, private dining rooms and dishes that became American classics. It set the template for the American restaurant for the rest of the century.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Delmonico's – Wikipedia", "url": "https://en.wikipedia.org/wiki/Delmonico's"},
+      {"name": "Gothamist", "url": "https://gothamist.com/food/a-brief-history-of-delmonicos-new-york-citys-first-restaurant"}
+    ],
+    "confidence": "high",
+    "icon": "🍽️"
+  },
+  {
+    "date": "July 4, 1827",
+    "sortKey": 1827,
+    "title": "Slavery ends in New York State",
+    "blurb": "An 1817 law took full effect on July 4, 1827, ending legal slavery in New York and freeing thousands of remaining enslaved people.",
+    "detail": "The law set Independence Day 1827 as the final date of abolition, completing a process begun by the 1799 gradual-emancipation act. Fearing racist violence on the Fourth, Black New Yorkers held their main celebration on July 5, when thousands marched down Broadway led by a grand marshal on horseback. It marked the legal end of slavery in a state where the city had long been a major slaveholding center.",
+    "category": "Civil Rights & Protest",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Historical Society of the New York Courts", "url": "https://history.nycourts.gov/when-did-slavery-end-in-new-york/"},
+      {"name": "History.com", "url": "https://www.history.com/articles/fifth-of-july-emancipation-day-new-york"}
+    ],
+    "confidence": "high",
+    "icon": "✊"
+  },
+  {
+    "date": "1831",
+    "sortKey": 1831,
+    "title": "New York University is founded",
+    "blurb": "Civic leaders founded the University of the City of New York, later New York University, to educate young men by merit rather than birth.",
+    "detail": "Chartered by the state in April 1831 with backing from figures such as Albert Gallatin, it held its first classes in 1832 in rented rooms near City Hall. It was conceived as a nonsectarian alternative to the era's church-affiliated colleges. The institution took the name New York University in 1896.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "New York University", "url": "https://www.nyu.edu/faculty/governance-policies-and-procedures/faculty-handbook/the-university/history-and-traditions-of-new-york-university/a-brief-history-of-new-york-university.html"},
+      {"name": "History of NYU – Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_New_York_University"}
+    ],
+    "confidence": "high",
+    "icon": "🎓"
+  },
+  {
+    "date": "1832",
+    "sortKey": 1832,
+    "title": "Cholera devastates the city",
+    "blurb": "The first cholera epidemic reached New York in the summer of 1832, killing more than 3,500 people.",
+    "detail": "The disease traveled down the Hudson from Canada and struck hardest in the crowded Five Points district. About a third of the city's residents fled, and physicians who wrongly blamed foul air were largely helpless. The epidemic exposed the dangers of the city's tainted water and lack of sanitation.",
+    "category": "Disaster & Crisis",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Baruch College / NYCdata", "url": "https://www.baruch.cuny.edu/nycdata/disasters/cholera-1832.html"},
+      {"name": "New York Academy of Medicine", "url": "https://nyamcenterforhistory.org/2015/02/03/cholera-comes-to-new-york-city/"}
+    ],
+    "confidence": "high",
+    "icon": "🦠"
+  },
+  {
+    "date": "November 26, 1832",
+    "sortKey": 1832,
+    "title": "The city's first railroad begins running",
+    "blurb": "The New York and Harlem Railroad began carrying paying passengers, the first railroad in the city and the world's first street railway.",
+    "detail": "Incorporated in 1831, it opened in stages along the Bowery from Prince Street to 14th Street, using horse-drawn cars on rails set into the street. The fare was 12.5 cents, and the line gradually extended north toward Harlem. Street railways would soon transform how New Yorkers moved through a rapidly growing city.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "New York and Harlem Railroad – Wikipedia", "url": "https://en.wikipedia.org/wiki/New_York_and_Harlem_Railroad"},
+      {"name": "Hagley Museum", "url": "https://www.hagley.org/research/news/hagley-vault/new-york-and-harlem-worlds-first-street-railroad-began-rolling-week"}
+    ],
+    "confidence": "high",
+    "icon": "🚃"
+  },
+  {
+    "date": "July 1834",
+    "sortKey": 1834,
+    "title": "Anti-abolitionist riots grip the city",
+    "blurb": "A week of anti-abolitionist rioting targeted abolitionists and Black New Yorkers until militia restored order on July 11.",
+    "detail": "Mobs enraged by the growing abolitionist movement of Arthur and Lewis Tappan attacked the Chatham Street Chapel and ransacked Lewis Tappan's home, burning his furniture in the street. More than seven churches and a dozen houses, many belonging to Black residents, were damaged. The violence revealed how bitterly the city was divided over slavery and race.",
+    "category": "Civil Rights & Protest",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Anti-abolitionist riots – Wikipedia", "url": "https://en.wikipedia.org/wiki/New_York_anti-abolitionist_riots_(1834)"},
+      {"name": "Museum of the City of New York", "url": "https://blog.mcny.org/2012/04/03/the-abolitionist-riots-of-1834/"}
+    ],
+    "confidence": "high",
+    "icon": "✊"
+  },
+  {
+    "date": "December 16, 1835",
+    "sortKey": 1835,
+    "title": "The Great Fire destroys Lower Manhattan",
+    "blurb": "A fire that broke out on a frigid December night destroyed roughly 674 buildings across 17 blocks of the commercial district.",
+    "detail": "Bitter cold froze the water sources, leaving firefighters nearly powerless as flames spread through the district around Wall Street, consuming the Merchants' Exchange. Property losses reached about $20 million and bankrupted 23 of the city's 26 insurance companies. The disaster spurred new building practices and eventually the push for a reliable water supply.",
+    "category": "Disaster & Crisis",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Great Fire of New York – Wikipedia", "url": "https://en.wikipedia.org/wiki/Great_Fire_of_New_York"},
+      {"name": "NYC Landmarks Preservation Commission", "url": "https://archaeology.cityofnewyork.us/collection/nyc-timeline/great-fire-of-1835"}
+    ],
+    "confidence": "high",
+    "icon": "🔥"
+  },
+  {
+    "date": "May 1837",
+    "sortKey": 1837,
+    "title": "The Panic of 1837 hits Wall Street",
+    "blurb": "New York banks ran out of gold and silver and suspended payments in May 1837, triggering a long national depression.",
+    "detail": "Reckless land speculation, a flood of state banknotes and federal policies draining specie from the city set off runs that emptied bank vaults. New York banks stopped redeeming notes in coin on May 10, 1837, and the crisis spread across the country. The depression that followed lasted years and reshaped American politics.",
+    "category": "Economy & Money",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Panic of 1837 – Wikipedia", "url": "https://en.wikipedia.org/wiki/Panic_of_1837"},
+      {"name": "Liberty Street Economics, NY Fed", "url": "https://libertystreeteconomics.newyorkfed.org/panic/"}
+    ],
+    "confidence": "high",
+    "icon": "📉"
+  },
+  {
+    "date": "1841",
+    "sortKey": 1841,
+    "title": "Horace Greeley founds the New-York Tribune",
+    "blurb": "Horace Greeley launched the New-York Tribune, which became one of the most influential newspapers in 19th-century America.",
+    "detail": "First published in April 1841, the Tribune championed reform causes from antislavery to labor and reached a huge national audience through its weekly edition. Greeley made it a platform for his crusading, opinionated brand of journalism. It stood alongside the Herald and later the Times in New York's fiercely competitive press.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "New-York Tribune – Wikipedia", "url": "https://en.wikipedia.org/wiki/New-York_Tribune"},
+      {"name": "Library of Congress", "url": "https://www.loc.gov/item/sn83030212/"}
+    ],
+    "confidence": "high",
+    "icon": "📰"
+  },
+  {
+    "date": "January 1, 1842",
+    "sortKey": 1842,
+    "title": "Barnum opens his American Museum",
+    "blurb": "P.T. Barnum opened his American Museum at Broadway and Ann Street, a wildly popular blend of zoo, spectacle and hoax.",
+    "detail": "Barnum drew huge crowds with attractions such as Tom Thumb, the \"Feejee Mermaid\" and a rotating cast of curiosities and performers. The museum operated at the site until fire destroyed it in 1865. It made Barnum famous and helped define American mass entertainment.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Barnum's American Museum – Wikipedia", "url": "https://en.wikipedia.org/wiki/Barnum's_American_Museum"},
+      {"name": "Lost Museum, CUNY", "url": "https://lostmuseum.cuny.edu/archive/barnums-american-museum"}
+    ],
+    "confidence": "high",
+    "icon": "🎪"
+  },
+  {
+    "date": "1842",
+    "sortKey": 1842,
+    "title": "Croton water reaches Manhattan",
+    "blurb": "The Croton Aqueduct delivered the city's first reliable supply of clean water, ending its dependence on fouled wells.",
+    "detail": "Water flowed by gravity 41 miles from the Croton River, reaching the receiving reservoir on June 27 and the Murray Hill distributing reservoir on July 4, 1842. The distributing reservoir stood on Fifth Avenue between 40th and 42nd Streets, where the New York Public Library and Bryant Park sit today. A grand citywide celebration in October marked the end of the cholera-and-fire era of bad water.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "ASCE", "url": "https://www.asce.org/publications-and-news/civil-engineering-source/civil-engineering-magazine/issues/magazine-issue/article/2023/03/aqueduct-met-new-york-citys-need-for-clean-water-in-1842"},
+      {"name": "Croton Aqueduct – Wikipedia", "url": "https://en.wikipedia.org/wiki/Croton_Aqueduct"}
+    ],
+    "confidence": "high",
+    "icon": "💧"
+  },
+  {
+    "date": "1845",
+    "sortKey": 1845,
+    "title": "Famine Irish transform the city",
+    "blurb": "The Great Famine in Ireland drove a wave of impoverished immigrants to New York, reshaping its population and politics.",
+    "detail": "Beginning with the potato blight of 1845, hundreds of thousands of Irish arrived over the next decade, crowding into Lower Manhattan neighborhoods such as Five Points. By 1855 the Irish-born made up more than a quarter of the city's residents. Their arrival fueled nativist backlash but also built the base of the powerful Tammany Hall political machine.",
+    "category": "Immigration & People",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "National Archives", "url": "https://www.archives.gov/files/research/immigration/port/nyc-1846-1851.pdf"},
+      {"name": "History Place", "url": "https://www.historyplace.com/worldhistory/famine/america.htm"}
+    ],
+    "confidence": "high",
+    "icon": "☘️"
+  },
+  {
+    "date": "May 10, 1849",
+    "sortKey": 1849,
+    "title": "The Astor Place Riot turns deadly",
+    "blurb": "A feud between rival Shakespearean actors erupted into a riot at the Astor Opera House that left at least 22 people dead.",
+    "detail": "The clash between supporters of American actor Edwin Forrest and English actor William Macready reflected deeper tensions of class and nativism. Militia fired into a crowd of thousands outside the opera house, one of the first times American troops killed civilians in a domestic disturbance. The riot marked a turning point in how the city policed public disorder.",
+    "category": "Civil Rights & Protest",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Astor Place Riot – Wikipedia", "url": "https://en.wikipedia.org/wiki/Astor_Place_Riot"},
+      {"name": "Smithsonian Magazine", "url": "https://www.smithsonianmag.com/history/when-new-york-rivalry-over-shakespeare-boiled-over-deadly-melee-180964102/"}
+    ],
+    "confidence": "high",
+    "icon": "🎭"
+  },
+  {
+    "date": "1849",
+    "sortKey": 1849,
+    "title": "Cholera strikes again",
+    "blurb": "A second major cholera epidemic swept New York in 1849, killing more than 5,000 people.",
+    "detail": "The disease again hit hardest in the poorest, most crowded districts, striking immigrant neighborhoods swollen by famine migration. As in 1832, ignorance of how cholera spread left the city nearly defenseless. The repeated epidemics strengthened arguments for sweeping sanitary reform.",
+    "category": "Disaster & Crisis",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Baruch College / NYCdata", "url": "https://www.baruch.cuny.edu/nycdata/disasters/cholera-1849.html"},
+      {"name": "The Villager", "url": "https://thevillagesun.com/remembering-new-yorks-cholera-pandemic-of-1832and-1849"}
+    ],
+    "confidence": "high",
+    "icon": "🦠"
+  },
+  {
+    "date": "September 18, 1851",
+    "sortKey": 1851,
+    "title": "The New-York Daily Times debuts",
+    "blurb": "Henry Raymond and George Jones published the first issue of the New-York Daily Times, later The New York Times.",
+    "detail": "It sold for a penny and promised sober, fact-based reporting in a market crowded with sensational papers. The Times built a reputation for reliability and would later help topple the Tweed Ring with its investigations. It grew into one of the most influential newspapers in the world.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "History of The New York Times – Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_The_New_York_Times_(1851%E2%80%931896)"},
+      {"name": "Britannica – Henry J. Raymond", "url": "https://www.britannica.com/biography/Henry-Jarvis-Raymond"}
+    ],
+    "confidence": "high",
+    "icon": "📰"
+  },
+  {
+    "date": "1853",
+    "sortKey": 1853,
+    "title": "The Crystal Palace hosts America's first world's fair",
+    "blurb": "New York's Crystal Palace opened as the site of the Exhibition of the Industry of All Nations, the first world's fair in the United States.",
+    "detail": "The soaring iron-and-glass hall stood at the site of today's Bryant Park and dazzled visitors with displays of industry, art and invention. It embodied the city's growing confidence as a center of commerce and technology. The building burned down in 1858, but the fair signaled New York's arrival on the world stage.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Exhibition of the Industry of All Nations – Wikipedia", "url": "https://en.wikipedia.org/wiki/Exhibition_of_the_Industry_of_All_Nations"},
+      {"name": "Bard Graduate Center", "url": "https://www.bgc.bard.edu/exhibitions/exhibitions/3/new-york-crystal-palace-1853"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "1853",
+    "sortKey": 1853,
+    "title": "The state sets aside land for Central Park",
+    "blurb": "The legislature authorized the acquisition of more than 700 acres in the middle of Manhattan for a great public park.",
+    "detail": "The state used eminent domain to take the land, displacing existing communities including Seneca Village, a settlement of Black landowners. The purchase set the stage for the design competition won by Olmsted and Vaux five years later. Central Park would become the model for urban parks across America.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Central Park Conservancy", "url": "https://www.centralparknyc.org/articles/central-park-history"},
+      {"name": "NYC Department of Records", "url": "https://www.archives.nyc/blog/2022/4/8/the-greensward"}
+    ],
+    "confidence": "high",
+    "icon": "🌳"
+  },
+  {
+    "date": "August 3, 1855",
+    "sortKey": 1855,
+    "title": "Castle Garden becomes an immigrant depot",
+    "blurb": "The old harbor fort Castle Garden opened as America's first official immigrant processing station.",
+    "detail": "Run by the state, it screened and aided newcomers arriving by ship before the federal government took over immigration decades later. Roughly eight million immigrants passed through before it closed in 1890. It was the forerunner of the federal station at Ellis Island.",
+    "category": "Immigration & People",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "National Park Service", "url": "https://www.nps.gov/cacl/learn/historyculture/castle-garden-emigrant-depot.htm"},
+      {"name": "New-York Historical Society", "url": "https://www.nyhistory.org/blogs/castle-garden-where-immigrants-first-came-to-america"}
+    ],
+    "confidence": "high",
+    "icon": "⛴️"
+  },
+  {
+    "date": "August 1857",
+    "sortKey": 1857,
+    "title": "The Panic of 1857 rattles New York",
+    "blurb": "The failure of the Ohio Life Insurance and Trust Company set off a financial panic that hammered New York banks and businesses.",
+    "detail": "News of the August 1857 collapse spread by the new telegraph, accelerating runs on New York institutions and freezing credit. Thousands of workers lost jobs as the crisis rippled through the port economy. The downturn deepened sectional tensions in the years before the Civil War.",
+    "category": "Economy & Money",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Panic of 1857 – Wikipedia", "url": "https://en.wikipedia.org/wiki/Panic_of_1857"},
+      {"name": "Library of Congress", "url": "https://www.loc.gov/item/today-in-history/august-24/"}
+    ],
+    "confidence": "high",
+    "icon": "📉"
+  },
+  {
+    "date": "1857",
+    "sortKey": 1857,
+    "title": "Two police forces battle in the streets",
+    "blurb": "A power struggle between the city's Municipal Police and a state-created Metropolitan Police erupted into a riot at City Hall.",
+    "detail": "The Republican-controlled legislature abolished the Tammany-aligned Municipal force and replaced it with a state-run Metropolitan Police, but Mayor Fernando Wood refused to disband his men. The rival forces brawled on the City Hall steps in June 1857 until the state prevailed. The episode exposed the raw conflict between city and state control that shaped New York governance.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "New York City Police Riot – Wikipedia", "url": "https://en.wikipedia.org/wiki/New_York_City_Police_riot"},
+      {"name": "New York Almanack", "url": "https://www.newyorkalmanack.com/2017/01/the-new-york-city-police-riot-of-1857/"}
+    ],
+    "confidence": "high",
+    "icon": "👮"
+  },
+  {
+    "date": "April 28, 1858",
+    "sortKey": 1858,
+    "title": "The Greensward Plan wins Central Park",
+    "blurb": "Commissioners selected Frederick Law Olmsted and Calvert Vaux's Greensward Plan as the design for Central Park.",
+    "detail": "Chosen from 33 entries, the plan wove meadows, woodlands, lakes and sunken transverse roads into a naturalistic landscape in the heart of the city. Construction employed thousands of laborers and stretched through the Civil War years. The finished park became the template for the American urban-park movement.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Central Park Conservancy", "url": "https://www.centralparknyc.org/articles/plans-for-central-park"},
+      {"name": "NYC Municipal Archives", "url": "https://a860-collectionguides.nyc.gov/repositories/2/accessions/385"}
+    ],
+    "confidence": "high",
+    "icon": "🌳"
+  },
+  {
+    "date": "1859",
+    "sortKey": 1859,
+    "title": "Peter Cooper founds Cooper Union",
+    "blurb": "Industrialist Peter Cooper founded the Cooper Union for the Advancement of Science and Art, offering free education to the working class.",
+    "detail": "Cooper opened the tuition-free college in an Astor Place building whose Great Hall became a famous public forum. It admitted students regardless of race, gender or wealth, a radical stance for the era. Within a year the hall would host one of the most consequential speeches in American history.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Cooper Union", "url": "https://cooper.edu/about/abraham-lincoln-cooper-union"},
+      {"name": "Cooper Union – Wikipedia", "url": "https://en.wikipedia.org/wiki/Cooper_Union"}
+    ],
+    "confidence": "high",
+    "icon": "🎓"
+  },
+  {
+    "date": "February 27, 1860",
+    "sortKey": 1860,
+    "title": "Lincoln speaks at Cooper Union",
+    "blurb": "Abraham Lincoln delivered a landmark antislavery address in the Great Hall at Cooper Union that helped propel him to the presidency.",
+    "detail": "Speaking to a skeptical New York audience, the little-known western politician laid out a careful constitutional case against the expansion of slavery. The speech, widely reprinted, introduced Lincoln to eastern Republicans and boosted his candidacy months before the 1860 convention. Lincoln later said the address, along with a Mathew Brady portrait taken that day, made him president.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Cooper Union", "url": "https://cooper.edu/about/abraham-lincoln-cooper-union"},
+      {"name": "House Divided, Dickinson College", "url": "https://housedivided.dickinson.edu/sites/lincoln/cooper-union-speech-february-27-1860/"}
+    ],
+    "confidence": "high",
+    "icon": "🎤"
+  },
+  {
+    "date": "July 13, 1863",
+    "sortKey": 1863,
+    "title": "The Draft Riots convulse the city",
+    "blurb": "Resentment over Civil War conscription exploded into four days of rioting that became the deadliest civil disturbance in American history.",
+    "detail": "Mobs, largely Irish immigrants angered by a draft the wealthy could buy their way out of, attacked draft offices, government buildings and Black New Yorkers. Rioters burned the Colored Orphan Asylum and lynched Black men in the streets; estimates of the dead range past a hundred. Union troops fresh from Gettysburg were sent to crush the uprising.",
+    "category": "Civil Rights & Protest",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "NYC Municipal Archives", "url": "https://a860-collectionguides.nyc.gov/repositories/2/resources/107"},
+      {"name": "New York City draft riots – Wikipedia", "url": "https://en.wikipedia.org/wiki/New_York_City_draft_riots"}
+    ],
+    "confidence": "high",
+    "icon": "🔥"
+  },
+  {
+    "date": "1865",
+    "sortKey": 1865,
+    "title": "A professional fire department is born",
+    "blurb": "The state replaced New York's volunteer companies with the Metropolitan Fire Department, the city's first full-time paid force.",
+    "detail": "Legislation in 1865 abolished the politically powerful volunteer system, and the first professional company entered service that July. The reform brought steam engines, discipline and central command to firefighting. Control returned to the city in 1870 under the name that endures today, the FDNY.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "FDNY – nyc.gov", "url": "https://www.nyc.gov/site/fdny/about/overview/history/history.page"},
+      {"name": "New York City Fire Museum", "url": "https://www.nycfiremuseum.org/the-paid-department"}
+    ],
+    "confidence": "high",
+    "icon": "🚒"
+  },
+  {
+    "date": "February 26, 1866",
+    "sortKey": 1866,
+    "title": "The Metropolitan Health Act reforms sanitation",
+    "blurb": "New York created the Metropolitan Board of Health, the first modern municipal health agency in the United States.",
+    "detail": "The law grew out of an 1865 Citizens' Association report that inspected the city's housing and found most residents living in squalid, disease-ridden conditions. The new board could compel cleanups, regulate tenements and respond to epidemics with real authority. It became a national model for public health governance.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Metropolitan Health Bill – Wikipedia", "url": "https://en.wikipedia.org/wiki/Metropolitan_Health_Bill"},
+      {"name": "New-York Historical Society", "url": "https://www.nyhistory.org/blogs/new-york-attempts-to-clean-up-its-act-the-150th-anniversary-of-tenement-reform"}
+    ],
+    "confidence": "high",
+    "icon": "🩺"
+  },
+  {
+    "date": "1867",
+    "sortKey": 1867,
+    "title": "The first Tenement House Act",
+    "blurb": "New York passed the state's first housing law, an early attempt to regulate the crowded tenements packing the growing city.",
+    "detail": "The 1867 act required fire escapes, a window in every room and one water closet for roughly every 20 residents. Enforcement was weak, and a stronger 1879 law would produce the notorious \"dumbbell\" tenement with its dark airshafts. These early codes began the long fight over how the poor were housed.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "NYC Landmarks Preservation Commission", "url": "https://archaeology.cityofnewyork.us/collection/nyc-timeline/tenement-house-act"},
+      {"name": "New York State Tenement House Act – Wikipedia", "url": "https://en.wikipedia.org/wiki/New_York_State_Tenement_House_Act"}
+    ],
+    "confidence": "high",
+    "icon": "🏚️"
+  },
+  {
+    "date": "October 19, 1867",
+    "sortKey": 1867,
+    "title": "Prospect Park opens in Brooklyn",
+    "blurb": "The first section of Prospect Park, designed by Olmsted and Vaux, opened to the public in Brooklyn.",
+    "detail": "Many critics, and the designers themselves, considered it finer than their Central Park, with its sweeping Long Meadow and picturesque ravine. The park opened in stages and was largely complete by 1873. It anchored the civic identity of Brooklyn, then a great city in its own right.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Prospect Park Alliance", "url": "https://www.prospectpark.org/creation-prospect-park/"},
+      {"name": "Prospect Park – Wikipedia", "url": "https://en.wikipedia.org/wiki/Prospect_Park_(Brooklyn)"}
+    ],
+    "confidence": "high",
+    "icon": "🌳"
+  },
+  {
+    "date": "July 1, 1868",
+    "sortKey": 1868,
+    "title": "The first elevated railway opens",
+    "blurb": "Charles Harvey's cable-powered West Side and Yonkers Patent Railway began running above Greenwich Street, the city's first elevated railroad.",
+    "detail": "The experimental single-track line lifted trains above the congested streets, pointing the way to mass rapid transit. Cable power proved unreliable, and new owners switched to steam locomotives in 1871. It was the ancestor of the elevated networks that would soon crisscross Manhattan.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "IRT Ninth Avenue Line – Wikipedia", "url": "https://en.wikipedia.org/wiki/IRT_Ninth_Avenue_Line"},
+      {"name": "NYPL Archives", "url": "https://archives.nypl.org/mss/3294"}
+    ],
+    "confidence": "high",
+    "icon": "🚊"
+  },
+  {
+    "date": "April 6, 1869",
+    "sortKey": 1869,
+    "title": "The Museum of Natural History is founded",
+    "blurb": "The American Museum of Natural History was chartered, launching one of the world's great scientific institutions.",
+    "detail": "A group led by Albert Bickmore secured the charter, and the museum first opened to the public in the Central Park Arsenal in 1871. Its purpose-built home on the Upper West Side followed in 1877. The museum grew into a global center for research and public science education.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "American Museum of Natural History", "url": "https://www.amnh.org/about"},
+      {"name": "AMNH – Wikipedia", "url": "https://en.wikipedia.org/wiki/American_Museum_of_Natural_History"}
+    ],
+    "confidence": "high",
+    "icon": "🦕"
+  },
+  {
+    "date": "April 13, 1870",
+    "sortKey": 1870,
+    "title": "The Metropolitan Museum of Art is founded",
+    "blurb": "The Metropolitan Museum of Art was incorporated to build a great art museum and library for the city.",
+    "detail": "The idea sprang from an 1866 proposal by John Jay's grandson, and the museum opened its first exhibition in temporary quarters in 1872. It moved through several homes before its permanent Central Park building opened in 1880. The Met became the largest art museum in the United States.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "The Met – History", "url": "https://www.metmuseum.org/about-the-met/history"},
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/Metropolitan-Museum-of-Art"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "July 1871",
+    "sortKey": 1871,
+    "title": "The Tweed Ring is exposed",
+    "blurb": "The New York Times published secret ledgers proving that Boss Tweed's Tammany ring had looted the city treasury.",
+    "detail": "Beginning in July 1871, the Times printed leaked account books while Thomas Nast's Harper's Weekly cartoons hammered Tweed before a mass audience. Public outrage led to Tweed's arrest that October and the collapse of his machine. The scandal became the defining example of Gilded Age municipal corruption.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Britannica – Boss Tweed", "url": "https://www.britannica.com/biography/Boss-Tweed"},
+      {"name": "Thomas Nast – Wikipedia", "url": "https://en.wikipedia.org/wiki/Thomas_Nast"}
+    ],
+    "confidence": "high",
+    "icon": "🗞️"
+  },
+  {
+    "date": "September 18, 1873",
+    "sortKey": 1873,
+    "title": "The Panic of 1873 shuts the exchange",
+    "blurb": "The failure of Jay Cooke and Company triggered a panic that forced the first-ever closure of the New York Stock Exchange.",
+    "detail": "Cooke's firm collapsed under bad railroad debt, setting off a cascade of bank failures, and the NYSE suspended trading for ten days. The crisis began the Long Depression, which dragged on for years and halted major public works. It was one of the defining financial disasters of the Gilded Age.",
+    "category": "Economy & Money",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Library of Congress", "url": "https://guides.loc.gov/this-month-in-business-history/september/panic-of-1873"},
+      {"name": "Panic of 1873 – Wikipedia", "url": "https://en.wikipedia.org/wiki/Panic_of_1873"}
+    ],
+    "confidence": "high",
+    "icon": "📉"
+  },
+  {
+    "date": "November 19, 1873",
+    "sortKey": 1873,
+    "title": "Boss Tweed is convicted",
+    "blurb": "After an earlier hung jury, William \"Boss\" Tweed was found guilty in his retrial and sentenced to prison.",
+    "detail": "The conviction on scores of counts capped the downfall of the Tammany leader who had plundered millions from the city. A court later limited his sentence, and Tweed escaped custody and fled abroad before being recaptured. He died in a New York jail in 1878.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Encyclopedia.com", "url": "https://www.encyclopedia.com/law/law-magazines/boss-tweed-trials-1873"},
+      {"name": "Britannica – Boss Tweed", "url": "https://www.britannica.com/biography/Boss-Tweed"}
+    ],
+    "confidence": "high",
+    "icon": "⚖️"
+  },
+  {
+    "date": "December 22, 1877",
+    "sortKey": 1877,
+    "title": "The Natural History Museum opens its home",
+    "blurb": "The American Museum of Natural History's first purpose-built building opened on the Upper West Side.",
+    "detail": "President Rutherford B. Hayes attended the dedication of the High Victorian Gothic building by Calvert Vaux and Jacob Wrey Mould. President Ulysses S. Grant had laid its cornerstone in 1874. The structure became the nucleus of the museum's now-sprawling complex facing Central Park.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "AMNH Research Library", "url": "https://data.library.amnh.org/archives-authorities/id/amnhc_7000001"},
+      {"name": "AMNH – Wikipedia", "url": "https://en.wikipedia.org/wiki/American_Museum_of_Natural_History"}
+    ],
+    "confidence": "high",
+    "icon": "🦕"
+  },
+  {
+    "date": "1878",
+    "sortKey": 1878,
+    "title": "Elevated railroads spread across Manhattan",
+    "blurb": "Steam-powered elevated lines opened above Third and Sixth Avenues, launching the network that reshaped where New Yorkers lived and worked.",
+    "detail": "The Manhattan Railway Company rapidly extended \"El\" lines up the Second, Third, Sixth and Ninth Avenues by the early 1880s. The trains let workers live farther from downtown and commute in, pushing the city's population northward. They also darkened the streets below with soot, noise and shadow.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "IRT Ninth Avenue Line – Wikipedia", "url": "https://en.wikipedia.org/wiki/IRT_Ninth_Avenue_Line"},
+      {"name": "Elevated railway – Wikipedia", "url": "https://en.wikipedia.org/wiki/Elevated_railway"}
+    ],
+    "confidence": "medium",
+    "icon": "🚊"
+  },
+  {
+    "date": "1879",
+    "sortKey": 1879,
+    "title": "The dumbbell tenement law",
+    "blurb": "The Tenement House Act of 1879 required a window in every room, producing the narrow-airshaft \"dumbbell\" tenement.",
+    "detail": "The law aimed to bring light and air into dark interior rooms, but its cramped airshafts filled with garbage and disease. Buildings put up under it are known as \"Old Law\" tenements, and their failures drove the reform law of 1901. The dumbbell became the emblem of Lower East Side overcrowding.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Old Law Tenement – Wikipedia", "url": "https://en.wikipedia.org/wiki/Old_Law_Tenement"},
+      {"name": "NYC Landmarks Preservation Commission", "url": "https://archaeology.cityofnewyork.us/collection/nyc-timeline/tenement-house-act"}
+    ],
+    "confidence": "high",
+    "icon": "🏚️"
+  },
+  {
+    "date": "March 30, 1880",
+    "sortKey": 1880,
+    "title": "The Met opens on Fifth Avenue",
+    "blurb": "The Metropolitan Museum of Art opened its permanent home at the edge of Central Park on Fifth Avenue.",
+    "detail": "President Rutherford B. Hayes dedicated the red-brick Victorian Gothic building by Calvert Vaux and Jacob Wrey Mould. That first structure still survives, encased within the vastly expanded modern museum. The famous Beaux-Arts front facade by Richard Morris Hunt was added in 1902.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "The Met – The Museum, Constructed", "url": "https://www.metmuseum.org/perspectives/the-museum-constructed"},
+      {"name": "The Met Fifth Avenue – Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Met_Fifth_Avenue"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "September 4, 1882",
+    "sortKey": 1882,
+    "title": "Edison lights up Lower Manhattan",
+    "blurb": "Thomas Edison's Pearl Street Station switched on, the world's first commercial central electric power plant.",
+    "detail": "From coal-fired dynamos at 255 Pearl Street, Edison lit about 400 lamps for dozens of customers in the surrounding district, flipping the switch from J.P. Morgan's office. The direct-current plant demonstrated that electric light could be sold to a whole neighborhood. It ushered in the age of urban electricity.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Pearl Street Station – Wikipedia", "url": "https://en.wikipedia.org/wiki/Pearl_Street_Station"},
+      {"name": "IEEE ETHW", "url": "https://ethw.org/Milestones:Pearl_Street_Station,_1882"}
+    ],
+    "confidence": "high",
+    "icon": "💡"
+  },
+  {
+    "date": "May 24, 1883",
+    "sortKey": 1883,
+    "title": "The Brooklyn Bridge opens",
+    "blurb": "After 14 years of construction, the Brooklyn Bridge opened as the longest suspension bridge in the world.",
+    "detail": "Designed by John Roebling, who died from an injury early on, it was completed by his son Washington Roebling with the crucial on-site direction of Emily Warren Roebling. President Chester Arthur and Governor Grover Cleveland presided, and some 150,000 people crossed on opening day. The bridge stitched together the era's two greatest American cities.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "ASCE Metropolitan Section", "url": "https://ascemetsection.org/committees/history-and-heritage/landmarks/brooklyn-bridge"},
+      {"name": "Brooklyn Bridge – Wikipedia", "url": "https://en.wikipedia.org/wiki/Brooklyn_Bridge"}
+    ],
+    "confidence": "high",
+    "icon": "🌉"
+  },
+  {
+    "date": "October 22, 1883",
+    "sortKey": 1883,
+    "title": "The Metropolitan Opera opens",
+    "blurb": "The original Metropolitan Opera House opened at Broadway and 39th Street with a performance of Gounod's Faust.",
+    "detail": "Built by wealthy New Yorkers shut out of the older Academy of Music, the house seated more than 3,600 and quickly became a symbol of the city's Gilded Age elite. Nicknamed the \"Yellow Brick Brewery,\" it served as the Met's home until the company moved to Lincoln Center in 1966. The building was demolished soon after.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Library of Congress", "url": "https://guides.loc.gov/chronicling-america-metropolitan-opera-house"},
+      {"name": "Metropolitan Opera House (39th Street) – Wikipedia", "url": "https://en.wikipedia.org/wiki/Metropolitan_Opera_House_(39th_Street)"}
+    ],
+    "confidence": "high",
+    "icon": "🎼"
+  },
+  {
+    "date": "October 28, 1886",
+    "sortKey": 1886,
+    "title": "The Statue of Liberty is dedicated",
+    "blurb": "President Grover Cleveland dedicated the Statue of Liberty on Bedloe's Island in New York Harbor.",
+    "detail": "A gift from France, the colossal statue capped years of fundraising, including Joseph Pulitzer's newspaper campaign to pay for the pedestal. More than a million people watched the harbor ceremonies and a parade through Manhattan. \"Liberty Enlightening the World\" became an enduring symbol of immigration and the nation itself.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "National Park Service", "url": "https://www.nps.gov/museum/exhibits/statue_liberty/opening_ceremony.html"},
+      {"name": "Statue of Liberty – Wikipedia", "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty"}
+    ],
+    "confidence": "high",
+    "icon": "🗽"
+  },
+  {
+    "date": "March 11, 1888",
+    "sortKey": 1888,
+    "title": "The Great Blizzard of 1888",
+    "blurb": "A ferocious blizzard buried New York in snow and drifts, paralyzing the city for days and killing roughly 200 people.",
+    "detail": "The \"Great White Hurricane\" stranded elevated trains, snapped telegraph and telephone lines and cut the city off from the outside world. The chaos, with wires down everywhere, accelerated the drive to bury utility lines and eventually move transit underground. It remains one of the most severe storms in the city's history.",
+    "category": "Disaster & Crisis",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Library of Congress", "url": "https://guides.loc.gov/chronicling-america-great-blizzard-1888"},
+      {"name": "Britannica", "url": "https://www.britannica.com/event/Great-Blizzard-of-1888"}
+    ],
+    "confidence": "high",
+    "icon": "❄️"
+  },
+  {
+    "date": "1890",
+    "sortKey": 1890,
+    "title": "Riis publishes How the Other Half Lives",
+    "blurb": "Jacob Riis's photo-illustrated exposé of tenement life shocked middle-class readers and galvanized housing reform.",
+    "detail": "Using early flash photography, Riis documented the squalor of Lower East Side tenements that respectable New York rarely saw. The book became a landmark of muckraking journalism and influenced reformers including Theodore Roosevelt. It helped drive the tenement laws and settlement movement of the following decades.",
+    "category": "Immigration & People",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Library of Congress", "url": "https://www.loc.gov/exhibits/jacob-riis/riis-and-reform.html"},
+      {"name": "National Endowment for the Humanities", "url": "https://www.neh.gov/news/jacob-riis-and-the-other-half"}
+    ],
+    "confidence": "high",
+    "icon": "📷"
+  },
+  {
+    "date": "April 28, 1891",
+    "sortKey": 1891,
+    "title": "The New York Botanical Garden is founded",
+    "blurb": "The state legislature chartered the New York Botanical Garden, modeled on London's Kew Gardens, on 250 acres in the Bronx.",
+    "detail": "Championed by the botanist Nathaniel Lord Britton, its incorporators included Cornelius Vanderbilt, Andrew Carnegie and J.P. Morgan. The garden opened to the public in 1900 and became a leading center for plant science. It anchored the northern reaches of the soon-to-be-consolidated city.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Britannica", "url": "https://www.britannica.com/place/New-York-Botanical-Garden"},
+      {"name": "New York Botanical Garden – Wikipedia", "url": "https://en.wikipedia.org/wiki/New_York_Botanical_Garden"}
+    ],
+    "confidence": "high",
+    "icon": "🌿"
+  },
+  {
+    "date": "May 5, 1891",
+    "sortKey": 1891,
+    "title": "Carnegie Hall opens",
+    "blurb": "Andrew Carnegie's Music Hall opened with a festival featuring Pyotr Ilyich Tchaikovsky as a guest conductor.",
+    "detail": "On opening night Walter Damrosch led the New York Symphony and Tchaikovsky conducted his own work before the city's elite. Renamed Carnegie Hall in 1893, it became the premier American concert venue, prized for its acoustics. It cemented New York's standing as a capital of classical music.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Carnegie Hall", "url": "https://www.carnegiehall.org/Explore/Articles/2020/09/30/Five-Facts-About-Opening-Night"},
+      {"name": "Carnegie Hall – Tchaikovsky", "url": "https://www.carnegiehall.org/About/History/Carnegie-Hall-Icons/Pyotr-Ilyich-Tchaikovsky"}
+    ],
+    "confidence": "high",
+    "icon": "🎵"
+  },
+  {
+    "date": "January 1, 1892",
+    "sortKey": 1892,
+    "title": "Ellis Island opens",
+    "blurb": "The federal immigration station at Ellis Island opened, and Annie Moore of County Cork became the first immigrant processed.",
+    "detail": "The 17-year-old Moore, arriving on the SS Nevada, received a $10 gold piece as the first through the new \"golden door.\" The station handled about 700 people its first day and would process some 12 million immigrants over the following decades. It replaced the state-run Castle Garden as the nation's gateway.",
+    "category": "Immigration & People",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Statue of Liberty–Ellis Island Foundation", "url": "https://www.statueofliberty.org/ellis-island/overview-history/"},
+      {"name": "Library of Congress", "url": "https://www.loc.gov/item/today-in-history/january-01/"}
+    ],
+    "confidence": "high",
+    "icon": "🛳"
+  },
+  {
+    "date": "1892",
+    "sortKey": 1892,
+    "title": "A cholera scare shuts the harbor",
+    "blurb": "Cholera arriving on ships from Hamburg forced a sweeping quarantine of New York Harbor in the late summer of 1892.",
+    "detail": "The steamer Moravia reached quarantine with cholera deaths aboard on August 30, followed by other Hamburg-America ships, and President Cleveland imposed a 20-day quarantine on steerage passengers. Immigrants were stranded on infected ships in the harbor amid a panic often aimed at East European Jews. The crisis led to the federal Quarantine Act of 1893.",
+    "category": "Disaster & Crisis",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "1881–1896 cholera pandemic – Wikipedia", "url": "https://en.wikipedia.org/wiki/1881%E2%80%931896_cholera_pandemic"},
+      {"name": "New York Academy of Medicine", "url": "https://nyamcenterforhistory.org/2020/04/14/quarantine-in-nineteenth-century-new-york/"}
+    ],
+    "confidence": "high",
+    "icon": "🦠"
+  },
+  {
+    "date": "1893",
+    "sortKey": 1893,
+    "title": "The Panic of 1893 sparks depression",
+    "blurb": "A financial panic that peaked in New York in May 1893 touched off the worst economic depression the nation had seen.",
+    "detail": "The collapse of overextended railroads, capped by the National Cordage Company's failure on May 4, drove hundreds of bank and business failures. Unemployment climbed toward 20 percent, and breadlines and labor unrest spread through the city. The depression reshaped national politics heading into the 1896 election.",
+    "category": "Economy & Money",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Federal Reserve History", "url": "https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age"},
+      {"name": "EH.net", "url": "https://eh.net/encyclopedia/the-depression-of-1893/"}
+    ],
+    "confidence": "high",
+    "icon": "📉"
+  },
+  {
+    "date": "May 22, 1894",
+    "sortKey": 1894,
+    "title": "The Rapid Transit Act plans a subway",
+    "blurb": "New York created a Board of Rapid Transit Railroad Commissioners, the legal foundation for the future subway.",
+    "detail": "The act empowered the city to plan and, after a referendum, publicly own a rapid-transit line beneath the streets. Chief engineer William Barclay Parsons designed the first route, construction began in 1900, and the IRT opened in 1904. Earlier schemes, including Alfred Beach's 1870 pneumatic demonstration, had come to nothing.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "nycsubway.org", "url": "https://nycsubway.org/wiki/Chapter_11:_Commission_of_1894"},
+      {"name": "Early history of the IRT subway – Wikipedia", "url": "https://en.wikipedia.org/wiki/Early_history_of_the_IRT_subway"}
+    ],
+    "confidence": "high",
+    "icon": "🚇"
+  },
+  {
+    "date": "November 6, 1894",
+    "sortKey": 1894,
+    "title": "Voters approve consolidation",
+    "blurb": "In an advisory referendum, voters across the future five boroughs approved joining together as a single Greater New York.",
+    "detail": "The measure passed comfortably in most areas but squeaked through in Brooklyn, then the nation's fourth-largest city, by only 277 votes. Opponents feared losing their identity to Manhattan, a worry later dubbed \"the Great Mistake.\" The vote built momentum toward the charter that would create the modern city.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "NYC125 – Consolidation Timeline", "url": "https://nyc125.org/consolidation-timeline"},
+      {"name": "City of Greater New York – Wikipedia", "url": "https://en.wikipedia.org/wiki/City_of_Greater_New_York"}
+    ],
+    "confidence": "high",
+    "icon": "🗳️"
+  },
+  {
+    "date": "1895",
+    "sortKey": 1895,
+    "title": "Waring's \"White Wings\" clean the streets",
+    "blurb": "Colonel George Waring became street-cleaning commissioner and put his white-uniformed sweepers to work clearing the filthy streets.",
+    "detail": "Appointed by reform Mayor William Strong, Waring militarized and professionalized sanitation, introducing systematic collection and early recycling. His \"White Wings\" dramatically cleaned a city long buried in horse manure, garbage and ash. The reforms were a showcase of Progressive-era municipal government.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "New-York Historical Society", "url": "https://www.nyhistory.org/community/white-wings"},
+      {"name": "George E. Waring Jr. – Wikipedia", "url": "https://en.wikipedia.org/wiki/George_E._Waring_Jr."}
+    ],
+    "confidence": "high",
+    "icon": "🧹"
+  },
+  {
+    "date": "May 4, 1897",
+    "sortKey": 1897,
+    "title": "The Greater New York charter is signed",
+    "blurb": "Governor Frank Black signed the charter merging Manhattan, Brooklyn, Queens, the Bronx and Staten Island into one city.",
+    "detail": "The roughly 900-page charter, passed by the legislature in March 1897, created the framework for the consolidated municipality. It set the boundaries and government of the five-borough city that took effect the following January. Tammany's Robert Van Wyck would become the first mayor of Greater New York.",
+    "category": "Politics & Government",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Untapped New York", "url": "https://untappedcities.com/2020/05/04/today-in-1897-the-consolidation-of-new-york-city-was-approved/"},
+      {"name": "NYC.gov – Consolidation press release", "url": "https://www.nyc.gov/html/om/html/97/sp249-97.html"}
+    ],
+    "confidence": "high",
+    "icon": "📜"
+  }
+]

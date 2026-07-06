@@ -1,0 +1,437 @@
+[
+  {
+    "date": "c. 1000",
+    "sortKey": 1000,
+    "title": "The Lenape make Lenapehoking their homeland",
+    "blurb": "Munsee-speaking Lenape peoples inhabited the region they called Lenapehoking, including the islands that became New York City, for centuries before European contact. Bands such as the Canarsee, Rockaway, Manhattes and Weckquaesgeek lived by fishing, hunting and farming maize, beans and squash.",
+    "detail": "Human presence in the region dates back thousands of years, but by roughly a millennium ago the Lenape had established the seasonal, riverine lifeways Europeans would later encounter. Lenapehoking spanned present-day New York City, western Long Island, the lower Hudson Valley and much of New Jersey. The Lenape moved between coastal and inland sites through the year, leaving shell middens, trails and place-names still embedded in the landscape. Their society was organized around kinship and reciprocity rather than European notions of fixed land ownership, a difference central to later disputes over the 1626 'purchase.'",
+    "category": "Immigration & People",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "National Museum of the American Indian (Smithsonian)", "url": "https://americanindian.si.edu/nk360/resources/lenapehoking"},
+      {"name": "Britannica – Lenni Lenape", "url": "https://www.britannica.com/topic/Lenni-Lenape"}
+    ],
+    "confidence": "medium",
+    "icon": "🌾"
+  },
+  {
+    "date": "1524",
+    "sortKey": 1524,
+    "title": "Verrazzano sails into New York Harbor",
+    "blurb": "The Florentine navigator Giovanni da Verrazzano, sailing for France, became the first documented European to enter New York Harbor. He anchored in the Narrows and briefly encountered Lenape people before sailing on.",
+    "detail": "Commanding the ship La Dauphine, Verrazzano was exploring the North American coast in search of a passage to Asia. He described a wide bay and a large river mouth, almost certainly the Hudson, but did not go ashore or linger. His visit left no settlement, and the harbor would not draw sustained European interest for another 85 years. The Verrazzano-Narrows Bridge, opened in 1964, later took his name.",
+    "category": "Founding & Colonial",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "National Park Service – Verrazzano", "url": "https://www.nps.gov/articles/000/giovanni-da-verrazzano.htm"},
+      {"name": "Britannica – Giovanni da Verrazzano", "url": "https://www.britannica.com/biography/Giovanni-da-Verrazzano"}
+    ],
+    "confidence": "high",
+    "icon": "⛵"
+  },
+  {
+    "date": "1525",
+    "sortKey": 1525,
+    "title": "Estêvão Gomes charts the coast for Spain",
+    "blurb": "The Portuguese navigator Estêvão Gomes, sailing under the Spanish crown, explored the northeastern coast and the river he called the Río de San Antonio, likely the Hudson. His voyage added the region to early Spanish maps.",
+    "detail": "Gomes had sailed with Ferdinand Magellan before commanding his own expedition in search of a northwest passage. Reaching the New York area around 1525, he mapped stretches of coast and, by some accounts, seized Native people to sell as slaves in Spain. His observations informed the 1529 Diogo Ribeiro world map, one of the earliest to depict the region. Like Verrazzano, he founded no settlement.",
+    "category": "Founding & Colonial",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "Britannica – Estêvão Gomes", "url": "https://www.britannica.com/biography/Estevao-Gomes"},
+      {"name": "Wikipedia – Estêvão Gomes", "url": "https://en.wikipedia.org/wiki/Est%C3%AAv%C3%A3o_Gomes"}
+    ],
+    "confidence": "medium",
+    "icon": "🗺️"
+  },
+  {
+    "date": "September 1609",
+    "sortKey": 1609,
+    "title": "Henry Hudson explores the river that bears his name",
+    "blurb": "The English navigator Henry Hudson, employed by the Dutch East India Company, sailed the Halve Maen (Half Moon) into the harbor and up the river later named for him. His voyage established the Dutch claim to the region.",
+    "detail": "Hudson was seeking a northeast passage to Asia when he turned west and, in September 1609, probed the great river as far north as present-day Albany before concluding it was not the sought-after strait. His crew traded with and clashed with Native people along the way, and the reports of abundant furs spurred Dutch commercial interest. Within a few years Dutch traders were returning regularly to the Hudson. The voyage laid the foundation for the colony of New Netherland.",
+    "category": "Founding & Colonial",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – Henry Hudson", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/henry-hudson/"},
+      {"name": "Library of Congress – Today in History", "url": "https://www.loc.gov/item/today-in-history/september-03/"}
+    ],
+    "confidence": "high",
+    "icon": "🚢"
+  },
+  {
+    "date": "c. 1613",
+    "sortKey": 1613,
+    "title": "Adriaen Block winters on Manhattan after the Tyger burns",
+    "blurb": "The Dutch trader Adriaen Block lost his ship Tyger to fire off Manhattan and, with his crew, built a new vessel, the Onrust, the first European ship constructed in the region. The episode marks one of the earliest sustained European stays on the island.",
+    "detail": "Block was among the fur traders returning to the Hudson in the years after Hudson's voyage. Over the winter of 1613–1614 his party sheltered on lower Manhattan and, aided by Lenape neighbors, built the small Onrust to continue exploring. Block went on to chart Long Island Sound and the surrounding waters, producing a 1614 map that first labeled the territory 'Nieu Nederlandt.' Charred remains of a ship long thought to be the Tyger were unearthed near Greenwich and Dey Streets during subway construction in 1916.",
+    "category": "Founding & Colonial",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – Adriaen Block", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/adriaen-block/"},
+      {"name": "Wikipedia – Adriaen Block", "url": "https://en.wikipedia.org/wiki/Adriaen_Block"}
+    ],
+    "confidence": "medium",
+    "icon": "🔥"
+  },
+  {
+    "date": "1614",
+    "sortKey": 1614,
+    "title": "New Netherland Company chartered; Fort Nassau built",
+    "blurb": "Dutch merchants received a three-year trading monopoly as the New Netherland Company and built Fort Nassau, a small trading post near present-day Albany. It was the first Dutch fortified outpost in the region.",
+    "detail": "Following the mapping voyages of Block and others, the States General granted the company exclusive fur-trading rights in 1614. Fort Nassau, on Castle Island in the upper Hudson, gave the Dutch a foothold in the lucrative beaver trade with the Mahican and later the Mohawk. Prone to flooding, it was abandoned within a few years and eventually replaced by Fort Orange in 1624. The venture set the commercial pattern that would define New Netherland.",
+    "category": "Economy & Money",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – A Tour of New Netherland", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/digital-exhibitions/a-tour-of-new-netherland/"},
+      {"name": "Wikipedia – Fort Nassau (North River)", "url": "https://en.wikipedia.org/wiki/Fort_Nassau_(North_River)"}
+    ],
+    "confidence": "high",
+    "icon": "🏰"
+  },
+  {
+    "date": "June 3, 1621",
+    "sortKey": 1621,
+    "title": "Dutch West India Company is chartered",
+    "blurb": "The States General of the Netherlands granted the Dutch West India Company a monopoly over trade and colonization in the Americas and West Africa. The company would govern New Netherland, including the settlement that became New York City.",
+    "detail": "Chartered on June 3, 1621, the company was organized much like the Dutch East India Company but focused on the Atlantic world, blending commerce, colonization and warfare against Spain and Portugal. It took control of New Netherland in 1623 and directed the settlement, defense and administration of the colony for decades. The company also organized the transatlantic slave trade that brought the first enslaved Africans to New Amsterdam. Its priorities were commercial, and New Netherland long remained a trading enterprise more than a settler colony.",
+    "category": "Economy & Money",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – Dutch West India Company", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/additional-resources/dutch-treats/the-dutch-west-india-company/"},
+      {"name": "Britannica – Dutch West India Company", "url": "https://www.britannica.com/topic/Dutch-West-India-Company"}
+    ],
+    "confidence": "high",
+    "icon": "🏢"
+  },
+  {
+    "date": "1624",
+    "sortKey": 1624,
+    "title": "First settlers arrive aboard the Nieu Nederlandt",
+    "blurb": "The Dutch West India Company brought roughly 30 families, many of them Walloon refugees, to New Netherland aboard the ship Nieu Nederlandt. A handful settled briefly on Governors Island, then called Noten Eylandt.",
+    "detail": "The 1624 arrivals were the first permanent European settlers of the colony, dispatched by the company to secure its claim by planting people on the land. Most were sent to outposts up the Hudson and elsewhere, while a small group camped on Noten Eylandt (Governors Island) at the mouth of the harbor. Settlement soon shifted to the southern tip of Manhattan, which offered better defense and access to trade. These Walloon and Dutch families formed the seed of the community that became New Amsterdam.",
+    "category": "Immigration & People",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "National Park Service – Governors Island history", "url": "https://www.nps.gov/gois/learn/historyculture/index.htm"},
+      {"name": "New Netherland Institute – Dutch Americans", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/"}
+    ],
+    "confidence": "high",
+    "icon": "👨‍👩‍👧‍👦"
+  },
+  {
+    "date": "1625",
+    "sortKey": 1625,
+    "title": "Fort Amsterdam rises at the tip of Manhattan",
+    "blurb": "Company engineers laid out Fort Amsterdam at the southern end of Manhattan, anchoring the new town of New Amsterdam. The fort became the administrative and military heart of New Netherland.",
+    "detail": "Work on the fort began around 1625 under early company officials and continued for years, using earthen walls that were long in poor repair. The settlement clustered around it grew into New Amsterdam, the capital of the colony. The fort's site sits at what is now the area of Bowling Green and the U.S. Custom House near Battery Park. It would remain the seat of government through the Dutch period and into English rule, when it was renamed Fort James.",
+    "category": "Infrastructure & Building",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – A Tour of New Netherland: Fort Amsterdam", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/digital-exhibitions/a-tour-of-new-netherland/manhattan/fort-amsterdam/"},
+      {"name": "Wikipedia – Fort Amsterdam", "url": "https://en.wikipedia.org/wiki/Fort_Amsterdam"}
+    ],
+    "confidence": "high",
+    "icon": "🏰"
+  },
+  {
+    "date": "November 5, 1626",
+    "sortKey": 1626,
+    "title": "The Schaghen letter records the 'purchase' of Manhattan",
+    "blurb": "A letter by Dutch official Pieter Schaghen, dated Nov. 5, 1626, reported that colonists had 'purchased' the island of Manhattan from its Native inhabitants for goods worth 60 guilders. It is the only contemporary document of the transaction.",
+    "detail": "Director Peter Minuit oversaw the exchange, which the Lenape almost certainly understood as an agreement to share use of the land rather than surrender it permanently, as European property law assumed. The famous '60 guilders' figure comes solely from Schaghen's brief note to the States General; the popular '$24' equivalent is a much later and misleading conversion. The letter survives in the Dutch national archives and is the founding document of European New York. Scholars stress the deep gap between Dutch and Lenape concepts of ownership at the heart of the deal.",
+    "category": "Founding & Colonial",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – Peter Schaghen Letter", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/additional-resources/dutch-treats/peter-schaghen-letter/"},
+      {"name": "Library of Congress – Today in History", "url": "https://www.loc.gov/item/today-in-history/may-04/"}
+    ],
+    "confidence": "high",
+    "icon": "📜"
+  },
+  {
+    "date": "c. 1627",
+    "sortKey": 1627,
+    "title": "First enslaved Africans brought to New Amsterdam",
+    "blurb": "The Dutch West India Company brought the first enslaved Africans to New Amsterdam around 1626–1627, among them men later known by names such as Paulo Angola and Simon Congo. Their forced labor helped build the young settlement.",
+    "detail": "The company owned these men and put them to work clearing land, building roads and erecting the fort's defenses. Over the following decades some won a conditional 'half-freedom' and small land grants north of the town, in an area that became part of today's Greenwich Village and Washington Square. Slavery under the Dutch was somewhat more fluid than the rigid chattel system that followed under the English, but it was bondage nonetheless. These arrivals mark the beginning of a Black presence in New York that predates the English city.",
+    "category": "Immigration & People",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New-York Historical Society – Slavery in New York", "url": "https://www.nyhistory.org/web/slaveryinnewyork/"},
+      {"name": "Wikipedia – History of slavery in New York (city)", "url": "https://en.wikipedia.org/wiki/History_of_slavery_in_New_York_(state)"}
+    ],
+    "confidence": "medium",
+    "icon": "⛓️"
+  },
+  {
+    "date": "1629",
+    "sortKey": 1629,
+    "title": "Charter of Freedoms and Exemptions creates patroonships",
+    "blurb": "The Dutch West India Company issued the Charter of Freedoms and Exemptions, offering large feudal-style estates called patroonships to investors who brought settlers to New Netherland. It aimed to accelerate colonization.",
+    "detail": "Under the charter, a patroon who transported at least 50 colonists received a huge tract of land and near-manorial powers over the tenants who worked it. The most successful was Kiliaen van Rensselaer's Rensselaerswyck near Fort Orange; most other patroonships failed. The system entrenched a pattern of large landholding that shaped the Hudson Valley for generations. It also reflected the company's struggle to attract enough voluntary settlers to its trading colony.",
+    "category": "Politics & Government",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – Charter of Freedoms and Exemptions", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/additional-resources/dutch-treats/charter-of-freedoms-and-exemptions/"},
+      {"name": "Britannica – Patroon", "url": "https://www.britannica.com/topic/patroon"}
+    ],
+    "confidence": "high",
+    "icon": "🏞️"
+  },
+  {
+    "date": "c. 1628",
+    "sortKey": 1628,
+    "title": "Dutch colonists found the first church and school",
+    "blurb": "The Dutch Reformed community established the town's first congregation and formal schooling, the lineage claimed by today's Collegiate School. It represents the earliest European church and education in what became New York City.",
+    "detail": "The Reverend Jonas Michaëlius organized the first Dutch Reformed congregation in New Amsterdam in 1628, and Adam Roelantsen is traditionally credited with running a company-supported school by 1638. Collegiate School traces its origin to this Dutch Reformed schooling and, on the strength of a 1628 Michaëlius letter, dates its founding to 1628, making it a contender for the oldest school in the United States. The exact founding year is genuinely contested among 1628, 1633 and 1638. The church and school together anchored civic and religious life in the young town.",
+    "category": "Culture & Landmarks",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "Collegiate School – Our History", "url": "https://www.collegiateschool.org/explore/timeline"},
+      {"name": "Wikipedia – Collegiate School (New York City)", "url": "https://en.wikipedia.org/wiki/Collegiate_School_(New_York_City)"}
+    ],
+    "confidence": "medium",
+    "icon": "📖"
+  },
+  {
+    "date": "1633",
+    "sortKey": 1633,
+    "title": "Wouter van Twiller becomes director-general",
+    "blurb": "Wouter van Twiller took over as director-general of New Netherland, presiding over early public building in New Amsterdam. His tenure saw the town's first church, mills and other permanent structures.",
+    "detail": "A young company man and nephew of the patroon Van Rensselaer, Van Twiller arrived in 1633 with soldiers and settlers. Under his administration New Amsterdam gained its first substantial buildings, and the company acquired farms and land on Manhattan and nearby islands. Critics accused him of enriching himself and neglecting the colony's defenses, and he was recalled in 1638. He nonetheless oversaw the settlement's transition from rough outpost toward an organized town.",
+    "category": "Politics & Government",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – Wouter van Twiller", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/wouter-van-twiller/"},
+      {"name": "Wikipedia – Wouter van Twiller", "url": "https://en.wikipedia.org/wiki/Wouter_van_Twiller"}
+    ],
+    "confidence": "high",
+    "icon": "🎩"
+  },
+  {
+    "date": "c. 1639",
+    "sortKey": 1639,
+    "title": "Jonas Bronck settles the land that became the Bronx",
+    "blurb": "The Scandinavian-born settler Jonas Bronck established a farm on the mainland north of Manhattan around 1639. His name endures in the borough of the Bronx and the Bronx River.",
+    "detail": "Bronck acquired roughly 500 acres between the Harlem and Aquahung (Bronx) rivers and built a homestead there under Dutch auspices. His was among the first European farms in the area, and neighbors spoke of visiting 'the Broncks,' fixing the name to the land. He died only a few years later, but the toponym survived every subsequent change of rule. The borough remains the only one of New York City's five named for a person.",
+    "category": "Immigration & People",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "Bronx County Historical Society – Jonas Bronck", "url": "https://bronxhistoricalsociety.org/jonas-bronck/"},
+      {"name": "Wikipedia – Jonas Bronck", "url": "https://en.wikipedia.org/wiki/Jonas_Bronck"}
+    ],
+    "confidence": "medium",
+    "icon": "🚜"
+  },
+  {
+    "date": "c. 1642",
+    "sortKey": 1641,
+    "title": "First ferry links Manhattan and Brooklyn",
+    "blurb": "Around 1642 Cornelis Dircksen began operating a rowboat ferry across the East River between Manhattan and Breuckelen. It was the earliest regular ferry service in what became New York City.",
+    "detail": "Dircksen, a farmer near present-day Peck Slip, would row passengers across the river when summoned by a horn kept on the shore. The crossing followed a long-used Native route and became the ancestor of the Fulton Ferry and, ultimately, the Brooklyn Bridge. The Dutch authorities later regulated and licensed the ferry as traffic grew. It knit the separate Long Island towns to the Manhattan capital.",
+    "category": "Infrastructure & Building",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – A Tour of New Netherland: Breuckelen", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/digital-exhibitions/a-tour-of-new-netherland/long-island/breuckelen/"},
+      {"name": "Wikipedia – Fulton Ferry", "url": "https://en.wikipedia.org/wiki/Fulton_Ferry"}
+    ],
+    "confidence": "medium",
+    "icon": "⛴️"
+  },
+  {
+    "date": "1642",
+    "sortKey": 1642,
+    "title": "The Stadt Herbergh opens, later the city hall",
+    "blurb": "The Dutch West India Company built a stone tavern, the Stadt Herbergh, on Pearl Street in 1642. It became a center of civic life and was converted into New Amsterdam's Stadt Huys, or city hall, in 1653.",
+    "detail": "Located along the East River waterfront, the building served travelers and hosted meetings, courts and public business. When New Amsterdam received municipal government in 1653, the tavern was repurposed as the city hall, the seat of the burgomasters and schepens. It continued as the city's seat of government after the English takeover until being deemed unsafe in 1697 and razed in 1699. Its site was the focus of New York City's first major archaeological dig in 1979–1980.",
+    "category": "Infrastructure & Building",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "Wikipedia – Stadt Huys Site", "url": "https://en.wikipedia.org/wiki/Stadt_Huys_Site"},
+      {"name": "NYC Landmarks Preservation Commission", "url": "https://www.nyc.gov/site/lpc/index.page"}
+    ],
+    "confidence": "medium",
+    "icon": "🍺"
+  },
+  {
+    "date": "February 25, 1643",
+    "sortKey": 1643,
+    "title": "Kieft's War erupts with the Pavonia massacre",
+    "blurb": "On the night of Feb. 25–26, 1643, director-general Willem Kieft ordered Dutch soldiers to attack Lenape refugees camped at Pavonia and Corlears Hook, killing scores of men, women and children. The slaughter ignited a devastating regional war.",
+    "detail": "Kieft had demanded tribute from the Lenape and provoked hostilities; the massacre was retaliation gone genocidal, with soldiers killing and mutilating sleeping families. Native nations across the region united in response, and settlements around New Amsterdam were burned and abandoned as the conflict raged through 1645. Hundreds died on both sides, and colonists blamed Kieft's recklessness, deepening demands for representative government. The war nearly destroyed the young colony.",
+    "category": "Disaster & Crisis",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – Willem Kieft", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/willem-kieft/"},
+      {"name": "Wikipedia – Kieft's War", "url": "https://en.wikipedia.org/wiki/Kieft%27s_War"}
+    ],
+    "confidence": "high",
+    "icon": "⚔️"
+  },
+  {
+    "date": "December 19, 1645",
+    "sortKey": 1645,
+    "title": "Deborah Moody founds Gravesend",
+    "blurb": "Lady Deborah Moody received a patent from director-general Kieft on Dec. 19, 1645, to found the town of Gravesend in what is now Brooklyn. She is regarded as the first woman to hold a land patent in colonial America.",
+    "detail": "An English religious dissenter who had fled Massachusetts, Moody was granted land on southwestern Long Island with a charter guaranteeing self-government and liberty of conscience. Gravesend was laid out on a distinctive square grid, one of the earliest planned town plans in the New World. The charter was written in English and named Moody first among its patentees, an extraordinary status for a woman of the era. The settlement's tolerance later sheltered Quakers and other dissenters.",
+    "category": "Immigration & People",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "NYC Parks – Lady Moody Triangle History", "url": "https://www.nycgovparks.org/parks/lady-moody-triangle/history"},
+      {"name": "Brooklyn Public Library – The Lady of Gravesend", "url": "https://www.bklynlibrary.org/blog/2022/10/25/lady-gravesend-0"}
+    ],
+    "confidence": "high",
+    "icon": "👑"
+  },
+  {
+    "date": "August 30, 1645",
+    "sortKey": 1646,
+    "title": "Treaty ends Kieft's War",
+    "blurb": "Dutch officials and Lenape leaders concluded a peace at Fort Amsterdam on Aug. 30, 1645, ending more than two years of brutal warfare. The exhausted colony began to rebuild.",
+    "detail": "The treaty was brokered with the help of Native mediators after the conflict had devastated both settlers and Indigenous communities. Willem Kieft's disastrous leadership discredited one-man rule and strengthened colonists' calls for a say in government. Blame for the war contributed to his recall, and he drowned in a shipwreck on the voyage home in 1647. His successor, Peter Stuyvesant, inherited a battered but reviving colony.",
+    "category": "Politics & Government",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – Willem Kieft", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/willem-kieft/"},
+      {"name": "Wikipedia – Kieft's War", "url": "https://en.wikipedia.org/wiki/Kieft%27s_War"}
+    ],
+    "confidence": "medium",
+    "icon": "🕊️"
+  },
+  {
+    "date": "May 11, 1647",
+    "sortKey": 1647,
+    "title": "Peter Stuyvesant arrives as director-general",
+    "blurb": "Peter Stuyvesant reached New Amsterdam on May 11, 1647, to take charge of New Netherland. His forceful 17-year rule would reshape the colony until the English conquest.",
+    "detail": "A company veteran who had lost a leg in the Caribbean, Stuyvesant imposed order, curbed the taverns and improved the town's defenses and finances. He clashed repeatedly with colonists over his autocratic style and with religious minorities over his intolerance. Under pressure he granted New Amsterdam municipal government in 1653 but never relinquished ultimate authority. He remained the dominant figure of the late Dutch period until surrendering the colony in 1664.",
+    "category": "Politics & Government",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – Peter Stuyvesant", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/peter-stuyvesant/"},
+      {"name": "Britannica – Peter Stuyvesant", "url": "https://www.britannica.com/biography/Peter-Stuyvesant"}
+    ],
+    "confidence": "high",
+    "icon": "🦿"
+  },
+  {
+    "date": "February 2, 1653",
+    "sortKey": 1653,
+    "title": "New Amsterdam gains a municipal government",
+    "blurb": "On Feb. 2, 1653, New Amsterdam was granted a formal municipal charter, establishing a burgher government of a schout, two burgomasters and five schepens. It was the founding of New York City's civic government.",
+    "detail": "After years of colonists' demands, Stuyvesant reluctantly allowed the town its own court and magistrates, modeled on Dutch cities. The new government met in the former Stadt Herbergh, which became the Stadt Huys or city hall. Though Stuyvesant retained the power to appoint officials and override them, the charter created the institutional ancestor of the modern city. New York City has traced its municipal origins to this 1653 grant.",
+    "category": "Politics & Government",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – A Tour of New Netherland: New Amsterdam", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/digital-exhibitions/a-tour-of-new-netherland/manhattan/new-amsterdam/"},
+      {"name": "Wikipedia – New Amsterdam", "url": "https://en.wikipedia.org/wiki/New_Amsterdam"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "1653",
+    "sortKey": 1654,
+    "title": "A defensive wall gives Wall Street its name",
+    "blurb": "In 1653 the Dutch built a wooden palisade across lower Manhattan to guard against a feared English or Native attack. The path along it became Wall Street.",
+    "detail": "Fearing invasion during the First Anglo-Dutch War, Stuyvesant and the burgher government ordered a wall of wooden planks and earthen ramparts stretching from river to river along the town's northern edge. Enslaved Africans and colonists provided much of the labor. The barrier saw little combat and was eventually dismantled under the English, but the roadway beside it kept the name 'de Waal Straat.' Centuries later the street became the symbolic heart of American finance.",
+    "category": "Infrastructure & Building",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – A Tour of New Netherland: New Amsterdam", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/digital-exhibitions/a-tour-of-new-netherland/manhattan/new-amsterdam/"},
+      {"name": "Wikipedia – Wall Street", "url": "https://en.wikipedia.org/wiki/Wall_Street"}
+    ],
+    "confidence": "high",
+    "icon": "🧱"
+  },
+  {
+    "date": "September 1654",
+    "sortKey": 1655,
+    "title": "First Jewish refugees reach New Amsterdam",
+    "blurb": "In September 1654, 23 Sephardic Jewish refugees fleeing Portuguese-conquered Recife, Brazil, arrived in New Amsterdam. They founded the oldest Jewish community in what became the United States.",
+    "detail": "Stuyvesant tried to expel the impoverished newcomers, calling them a 'deceitful race,' but the Dutch West India Company, which had Jewish investors, overruled him and let them stay. The refugees won limited rights to live, trade and worship, laying the foundation of Congregation Shearith Israel. Their arrival established a precedent for religious pluralism in the future city. It marks the beginning of continuous Jewish life in North America.",
+    "category": "Immigration & People",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "American Jewish Historical Society", "url": "https://ajhs.org/"},
+      {"name": "Library of Congress – From Haven to Home", "url": "https://www.loc.gov/exhibits/haventohome/haven-havens.html"}
+    ],
+    "confidence": "high",
+    "icon": "✡️"
+  },
+  {
+    "date": "September 15, 1655",
+    "sortKey": 1656,
+    "title": "The Peach War strikes New Amsterdam",
+    "blurb": "In September 1655 a large force of Native warriors attacked New Amsterdam and nearby settlements while Stuyvesant was away campaigning against New Sweden. The conflict became known as the Peach War.",
+    "detail": "Tradition holds the fighting was sparked when a colonist killed a Lenape woman for picking peaches from his orchard, though longer-standing grievances underlay the assault. Hundreds of warriors raided Manhattan, Pavonia and Staten Island, killing settlers and taking captives before withdrawing. The undefended town was thrown into panic until Stuyvesant returned and negotiated the release of prisoners. The war exposed how vulnerable the colony remained to the peoples it had displaced.",
+    "category": "Disaster & Crisis",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – Peter Stuyvesant", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/peter-stuyvesant/"},
+      {"name": "Wikipedia – Peach Tree War", "url": "https://en.wikipedia.org/wiki/Peach_Tree_War"}
+    ],
+    "confidence": "medium",
+    "icon": "🍑"
+  },
+  {
+    "date": "December 27, 1657",
+    "sortKey": 1657,
+    "title": "The Flushing Remonstrance defends religious liberty",
+    "blurb": "On Dec. 27, 1657, residents of Vlissingen (Flushing, Queens) signed a petition protesting Stuyvesant's ban on Quakers. The Flushing Remonstrance is celebrated as an early American statement of religious freedom.",
+    "detail": "Thirty townspeople, none of them Quakers themselves, invoked their town charter's promise of liberty of conscience to refuse to bar Quakers from their community. Stuyvesant jailed several signers, but the principle endured. When resident John Bowne was arrested in 1662 for hosting Quaker meetings and banished to the Netherlands, he appealed successfully to the Dutch West India Company, which in 1663 ordered Stuyvesant to stop persecuting dissenters. The remonstrance is often cited as a forerunner of the First Amendment.",
+    "category": "Civil Rights & Protest",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "Bowne House – Trials of John Bowne", "url": "https://www.bownehouse.org/trials-of-john-bowne/live-blogging-john-bownes-trial"},
+      {"name": "Wikipedia – Flushing Remonstrance", "url": "https://en.wikipedia.org/wiki/Flushing_Remonstrance"}
+    ],
+    "confidence": "high",
+    "icon": "✍️"
+  },
+  {
+    "date": "1658",
+    "sortKey": 1658,
+    "title": "Stuyvesant charters Nieuw Haarlem",
+    "blurb": "In 1658 director-general Stuyvesant formally established the farming village of Nieuw Haarlem on northern Manhattan. It gave the future neighborhood of Harlem its name and its start.",
+    "detail": "The Dutch laid out the village to secure and cultivate the fertile flats at the island's upper end, naming it for the Dutch city of Haarlem. Settlers received land grants, and a road, the ancestor of today's routes uptown, was cut to connect it to New Amsterdam. Harlem remained a distinct rural community for two centuries before the growing city engulfed it. Its Dutch founding is preserved in the neighborhood's name.",
+    "category": "Founding & Colonial",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – A Tour of New Netherland: Manhattan", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/digital-exhibitions/a-tour-of-new-netherland/manhattan/"},
+      {"name": "Wikipedia – Harlem", "url": "https://en.wikipedia.org/wiki/Harlem"}
+    ],
+    "confidence": "medium",
+    "icon": "🏘️"
+  },
+  {
+    "date": "1660",
+    "sortKey": 1660,
+    "title": "The Castello Plan maps a town of 1,500",
+    "blurb": "Surveyor Jacques Cortelyou produced the Castello Plan in 1660, the earliest detailed map of New Amsterdam. It depicts a walled town of roughly 1,500 people in about 300 houses at Manhattan's tip.",
+    "detail": "The plan shows every building, street, garden and dock inside the wall, along with Fort Amsterdam and the canal that became Broad Street. Sent to the Netherlands, it survived in a Medici villa near Florence and resurfaced in 1900, giving historians an unmatched snapshot of the Dutch town on the eve of English rule. It reveals a diverse, commercially bustling community drawn from many nations. The map remains the single richest source on the physical form of New Amsterdam.",
+    "category": "Culture & Landmarks",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New-York Historical Society – The Castello Plan", "url": "https://www.nyhistory.org/exhibitions/new-york-before-new-york-the-castello-plan"},
+      {"name": "Wikipedia – Castello Plan", "url": "https://en.wikipedia.org/wiki/Castello_Plan"}
+    ],
+    "confidence": "high",
+    "icon": "🗺️"
+  },
+  {
+    "date": "September 8, 1664",
+    "sortKey": 1664,
+    "title": "The English seize New Amsterdam, renaming it New York",
+    "blurb": "On Sept. 8, 1664, Peter Stuyvesant surrendered New Amsterdam to an English fleet under Col. Richard Nicolls without a fight. The city was renamed New York after James, Duke of York.",
+    "detail": "King Charles II had granted his brother the Duke of York the Dutch territory, and Nicolls arrived in late August 1664 demanding surrender. With weak defenses and townspeople unwilling to resist, Stuyvesant yielded after signing generous Articles of Capitulation that protected residents' property, trade and religious practice. The English takeover ended 40 years of Dutch rule and gave the city the name it still bears. Except for a brief Dutch recapture in 1673–1674, New York remained English until American independence.",
+    "category": "Founding & Colonial",
+    "era": "Lenapehoking & New Amsterdam (pre-1664)",
+    "sources": [
+      {"name": "New Netherland Institute – Peter Stuyvesant", "url": "https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/peter-stuyvesant/"},
+      {"name": "Britannica – New York City: History", "url": "https://www.britannica.com/place/New-York-City/History"}
+    ],
+    "confidence": "high",
+    "icon": "🇬🇧"
+  }
+]

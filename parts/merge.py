@@ -1,0 +1,153 @@
+#!/usr/bin/env python3
+"""Merge era JSON part files into data.js. Decodes HTML entities, dedupes, sorts, validates."""
+import json, glob, os, html, re, sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+
+ERAS = [
+    "Lenapehoking & New Amsterdam (pre-1664)",
+    "Colonial & Revolutionary (1664–1783)",
+    "Empire City Rising (1784–1897)",
+    "Greater New York (1898–1945)",
+    "Modern Metropolis (1946–2000)",
+    "21st Century (2001–present)",
+]
+ERA_ORDER = {e: i for i, e in enumerate(ERAS)}
+CATS = {"Founding & Colonial","Politics & Government","Infrastructure & Building",
+        "Immigration & People","Disaster & Crisis","Culture & Landmarks",
+        "Civil Rights & Protest","Economy & Money"}
+
+# Significance tiers — matched against lowercased titles.
+# weight 1 = pivotal (largest), 3 = lesser (smallest), 2 = default.
+MAJOR = [
+    "lenape settle","lenape make","henry hudson","verrazzano","purchase","manhattan \"purchased",
+    "new amsterdam granted","municipal government","english seize","becomes new york","flushing remonstrance",
+    "first jewish","washington inaugurated","battle of long island","evacuation day","zenger",
+    "commissioners' plan","lays out the grid","erie canal","croton aqueduct","great fire destroys",
+    "central park","greensward","draft riots","brooklyn bridge","statue of liberty","ellis island opens",
+    "tweed ring","consolidate","tenement house act","first subway","triangle shirtwaist","grand central",
+    "woolworth","zoning","harlem renaissance","wall street crash","empire state building opens","chrysler building",
+    "la guardia elected","la guardia became","world's fair opens","un chooses","jackie robinson",
+    "landmarks preservation law","immigration reform","reopens the golden door","stonewall","world trade center",
+    "hip-hop is born","drop dead","fiscal crisis","blackout that broke","dinkins is elected","crown heights",
+    "9/11","september 11 attacks","attacks destroy","miracle on the hudson","high line","same-sex marriage",
+    "occupy wall street","hurricane sandy","one world trade center opens","de blasio elected","covid-19",
+    "george floyd","adams elected","congestion pricing tolls begin","mamdani elected","mamdani wins",
+]
+MINOR = [
+    "estêvão gomes","estevao gomes","adriaen block","new netherland company","dutch west india company is chartered",
+    "charter of freedoms","van twiller","first school","jonas bronck","stadt herbergh","first ferry","nieuw haarlem",
+    "peach war","castello plan","duke's laws","dutch retake","treaty of westminster","bolting act","charter of liberties",
+    "dongan charter","montgomerie","trinity church receives","captain kidd","new-york gazette","mill street synagogue",
+    "bowling green","new york society library","liberty pole","golden hill","new york tea party","kip's bay",
+    "harlem heights","white plains","fort washington","prison ships","farewell at fraunces","bank of new york",
+    "manumission society","african free school","buttonwood","manhattan company","new-york historical society",
+    "fulton","savings bank","gas lamp","first railroad","panic of","barnum","astor place","crystal palace",
+    "castle garden","cooper union","police riot","metropolitan police","paid fire","white wings","elevated rail",
+    "rapid transit act","williamsburg bridge","longacre","general slocum","stanford white","singer building",
+    "hudson-fulton","uprising of the 20,000","metropolitan life","new york public library's","armory show",
+    "equitable building","black tom","birth control clinic","silent parade","malbone","wall street bombing",
+    "cotton club","immigration act imposes","lindbergh","holland tunnel","museum of modern art","george washington bridge",
+    "jimmy walker","rivera mural","triborough","lincoln tunnel","reform city charter","first regular us tv","laguardia airport",
+    "queens-midtown","normandie","wartime dimout","levittown","idlewild","secretariat","puerto rican","containerization",
+    "penn station","verrazzano-narrows","ocean hill","shirley chisholm","son of sam","studio 54","lennon",
+    "goetz","tompkins square","central park jogger","yankees' dynasty","times square is reborn","diallo",
+    "smoke-free","staten island ferry crash","freedom tower cornerstone","republican convention","transit strike",
+    "trans fats","planyc","lehman","term limits","yankee stadium and citi","times square car bomb","9/11 memorial opens",
+    "barclays","citi bike","stop-and-frisk","9/11 memorial museum","officers ambushed","pope francis","chelsea bombing",
+    "second avenue subway","cornell tech","truck attack","amazon scraps","hudson yards","rent-law","hurricane ida",
+    "migrant arrivals","adams indicted","containerization","cross bronx",
+]
+def weight_for(title):
+    t = title.lower()
+    for k in MAJOR:
+        if k in t: return 1
+    for k in MINOR:
+        if k in t: return 3
+    return 2
+
+def clean(s):
+    if not isinstance(s, str): return s
+    # decode HTML entities (&amp; etc.) to real characters
+    return html.unescape(s)
+
+def norm_title(t):
+    return re.sub(r'[^a-z0-9]', '', clean(t).lower())
+
+def main():
+    events = []
+    files = sorted(glob.glob(os.path.join(HERE, "*.json")))
+    if not files:
+        print("No part files found in", HERE); sys.exit(1)
+    for f in files:
+        with open(f) as fh:
+            try:
+                arr = json.load(fh)
+            except Exception as e:
+                print(f"!! {os.path.basename(f)}: JSON error {e}"); sys.exit(1)
+        print(f"  {os.path.basename(f)}: {len(arr)} events")
+        for e in arr:
+            events.append(e)
+
+    # clean strings + validate
+    seen = {}
+    out = []
+    warnings = []
+    for e in events:
+        for k in ("title","blurb","detail","date","category","era","source"):
+            if k in e and isinstance(e[k], str): e[k] = clean(e[k])
+        if "sources" in e and isinstance(e["sources"], list):
+            for s in e["sources"]:
+                if isinstance(s, dict):
+                    if "name" in s: s["name"] = clean(s["name"])
+        # normalize era/category
+        if e.get("era") not in ERA_ORDER:
+            warnings.append(f"bad era: {e.get('era')} :: {e.get('title')}")
+        if e.get("category") not in CATS:
+            warnings.append(f"bad category: {e.get('category')} :: {e.get('title')}")
+        # must have a source
+        has_src = (e.get("sources") and len(e["sources"])>0 and e["sources"][0].get("url")) or e.get("sourceUrl")
+        if not has_src:
+            warnings.append(f"NO SOURCE: {e.get('title')}")
+        # assign significance weight
+        e["weight"] = weight_for(e.get("title",""))
+        # dedupe by normalized title
+        key = norm_title(e.get("title",""))
+        if key in seen:
+            continue
+        seen[key] = True
+        out.append(e)
+
+    # sort by era order, then sortKey, then date
+    def sk(e):
+        return (ERA_ORDER.get(e.get("era"), 99), e.get("sortKey", 0))
+    out.sort(key=sk)
+
+    # write data.js
+    header = ("/* New York, in Time — verified event dataset (expanded)\n"
+              "   {n} turning points across six eras, each with a source link.\n"
+              "   Auto-assembled from per-era research; see METHODOLOGY.md. */\n"
+              "window.NYC_EVENTS = ").format(n=len(out))
+    body = json.dumps(out, ensure_ascii=False, indent=0)
+    # compact: one object per line
+    with open(os.path.join(ROOT, "data.js"), "w") as fh:
+        fh.write(header)
+        fh.write("[\n")
+        for i, e in enumerate(out):
+            fh.write(json.dumps(e, ensure_ascii=False))
+            fh.write(",\n" if i < len(out)-1 else "\n")
+        fh.write("];\n")
+
+    print(f"\nWrote {len(out)} events to data.js (from {len(events)} raw, {len(events)-len(out)} dupes removed)")
+    # per-era counts
+    from collections import Counter
+    c = Counter(e.get("era") for e in out)
+    for era in ERAS:
+        print(f"  {c.get(era,0):>3}  {era}")
+    if warnings:
+        print("\nWARNINGS:")
+        for w in warnings[:40]: print("  -", w)
+
+if __name__ == "__main__":
+    main()

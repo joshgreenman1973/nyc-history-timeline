@@ -1,0 +1,557 @@
+[
+  {
+    "date": "September 8, 1664",
+    "sortKey": 1664,
+    "title": "The English seize New Amsterdam and rename it New York",
+    "blurb": "An English naval squadron under Colonel Richard Nicolls forced Director-General Peter Stuyvesant to surrender New Amsterdam, which was renamed New York for the Duke of York.",
+    "detail": "The bloodless conquest ended Dutch rule of New Netherland. Stuyvesant, unpopular and unsupported by residents, capitulated after the articles of surrender were agreed. The Duke of York, brother of King Charles II and future King James II, had organized the expedition and received the colony as a proprietary grant.",
+    "category": "Founding & Colonial",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Library of Congress", "url": "https://www.loc.gov/item/2021666724/"},
+      {"name": "NYC Department of Records", "url": "https://www.archives.nyc/blog/2017/5/4/the-dutch-the-english-part-4-invasion"}
+    ],
+    "confidence": "high",
+    "icon": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "date": "1665",
+    "sortKey": 1665,
+    "title": "The Duke's Laws codify English rule",
+    "blurb": "Governor Richard Nicolls promulgated the Duke's Laws at a Hempstead convention, establishing the first English legal code for the colony.",
+    "detail": "Compiled largely by colony secretary Matthias Nicoll, the code blended English, Dutch and New England law. It provided for trial by jury and proportional property taxation and governed nearly every facet of colonial life. The Duke's Laws remained in force in New York until repealed by the Assembly of 1683.",
+    "category": "Politics & Government",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Historical Society of the New York Courts", "url": "https://history.nycourts.gov/about_period/hempstead-convention/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Duke's_Laws"}
+    ],
+    "confidence": "high",
+    "icon": "⚖️"
+  },
+  {
+    "date": "August 1673",
+    "sortKey": 1673,
+    "title": "The Dutch retake the city and rename it New Orange",
+    "blurb": "During the Third Anglo-Dutch War a Dutch fleet recaptured New York in August 1673 and rechristened the town New Orange under governor Anthony Colve.",
+    "detail": "The fleet was commanded by Cornelis Evertsen the Younger and Jacob Binckes. New Netherland was briefly re-established as a Dutch colony. The Dutch reoccupation lasted little more than a year before diplomacy reversed it.",
+    "category": "Founding & Colonial",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Reconquest_of_New_Netherland"},
+      {"name": "NYC Department of Records", "url": "https://www.archives.nyc/blog/2017/6/1/the-dutch-the-english-part-5-return-of-the-dutch-what-became-of-the-wall"}
+    ],
+    "confidence": "high",
+    "icon": "🟠"
+  },
+  {
+    "date": "1674",
+    "sortKey": 1674,
+    "title": "The Treaty of Westminster returns New York to England",
+    "blurb": "The 1674 Treaty of Westminster ended the Third Anglo-Dutch War and returned New York to English rule, with governor Edmund Andros taking control that November.",
+    "detail": "The Dutch Republic ceded the colony back to England in exchange for Suriname. Governor Anthony Colve handed authority to Edmund Andros on November 10, 1674. The name New York was permanently restored.",
+    "category": "Politics & Government",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Reconquest_of_New_Netherland"},
+      {"name": "America's Best History", "url": "https://americasbesthistory.com/abhtimeline1674m.html"}
+    ],
+    "confidence": "high",
+    "icon": "📜"
+  },
+  {
+    "date": "1678",
+    "sortKey": 1678,
+    "title": "The Bolting Act hands the city a flour monopoly",
+    "blurb": "A colonial law granted New York City an exclusive monopoly on bolting and milling wheat and exporting flour, fueling decades of economic growth.",
+    "detail": "The monopoly drove a shipping and population boom: the number of houses rose from about 384 to 983 before the act's repeal. Port traffic multiplied from a handful of vessels to scores of ships and sloops. The flour trade helped make New York a leading colonial commercial center.",
+    "category": "Economy & Money",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Wikipedia (History of NYC)", "url": "https://en.wikipedia.org/wiki/History_of_New_York_City"},
+      {"name": "Wikipedia (Frederick Philipse)", "url": "https://en.wikipedia.org/wiki/Frederick_Philipse"}
+    ],
+    "confidence": "medium",
+    "icon": "🌾"
+  },
+  {
+    "date": "October 1683",
+    "sortKey": 1683,
+    "title": "New York's first assembly passes a Charter of Liberties",
+    "blurb": "The colony's first elected General Assembly, convened under Governor Thomas Dongan, passed the Charter of Liberties and Privileges guaranteeing key rights.",
+    "detail": "The charter created 12 counties, set procedures for elections and proclaimed rights including trial by jury, religious liberty and no taxation without the assembly's consent. It established an elected assembly to share legislative power with the governor and council. The framework lapsed when New York was folded into the Dominion of New England in 1686.",
+    "category": "Politics & Government",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Charter_of_Liberties_and_Privileges"},
+      {"name": "Historical Society of the New York Courts", "url": "https://history.nycourts.gov/legal-history-by-era/colonial-new-york-under-british-rule/"}
+    ],
+    "confidence": "high",
+    "icon": "🗳️"
+  },
+  {
+    "date": "1686",
+    "sortKey": 1686,
+    "title": "The Dongan Charter incorporates New York City",
+    "blurb": "Governor Thomas Dongan issued a municipal charter incorporating New York City and defining its government and property rights.",
+    "detail": "The charter granted residents the right to own land beyond the low-tide mark, shaping later waterfront development. It set up a common council of mayor, aldermen, assistants and recorder. Dongan issued a similar, more detailed charter to Albany the same year.",
+    "category": "Politics & Government",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "NYC Landmarks Preservation Commission", "url": "https://archaeology.cityofnewyork.us/collection/nyc-timeline/dongan-charter"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Dongan_Charter"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "1689",
+    "sortKey": 1689,
+    "title": "Leisler's Rebellion seizes control of the colony",
+    "blurb": "Militia captain and merchant Jacob Leisler seized control of southern New York in 1689 amid the upheaval of the Glorious Revolution.",
+    "detail": "Leisler ruled the colony from 1689 to 1691 in the name of the new monarchs William and Mary. His revolt reflected tensions between ordinary colonists and the wealthy elite. The uprising left New York bitterly split into rival factions for years.",
+    "category": "Politics & Government",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Britannica", "url": "https://www.britannica.com/event/Leislers-Rebellion"},
+      {"name": "New-York Historical", "url": "https://www.nyhistory.org/community/leislers-rebellion"}
+    ],
+    "confidence": "high",
+    "icon": "🔥"
+  },
+  {
+    "date": "May 16, 1691",
+    "sortKey": 1691,
+    "title": "Jacob Leisler is executed for treason",
+    "blurb": "Royal authorities convicted Jacob Leisler and his son-in-law Jacob Milborne of treason and executed them by hanging on May 16, 1691.",
+    "detail": "The pair had been convicted on April 17 after repeatedly refusing to enter pleas. Parliament reversed the attainder in 1695 and restored the confiscated estates to the family. The execution deepened the factional divide in colonial politics.",
+    "category": "Politics & Government",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Britannica", "url": "https://www.britannica.com/biography/Jacob-Leisler"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Leisler's_Rebellion"}
+    ],
+    "confidence": "high",
+    "icon": "⚰️"
+  },
+  {
+    "date": "May 6, 1697",
+    "sortKey": 1697,
+    "title": "Trinity Church receives its royal charter",
+    "blurb": "The Anglican parish of Trinity Church was chartered on May 6, 1697, on behalf of King William III by Royal Governor Benjamin Fletcher.",
+    "detail": "The land grant specified an annual rent of 60 bushels of wheat, and Fletcher leased the parish the large King's Farm tract. The first Trinity Church rose on Wall Street in 1698, facing the Hudson. William Vesey, namesake of Vesey Street, served as first rector for 49 years.",
+    "category": "Culture & Landmarks",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Trinity Church", "url": "https://trinitychurchnyc.org/visit-history/places/trinity-church"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Trinity_Church_(Manhattan)"}
+    ],
+    "confidence": "high",
+    "icon": "⛪"
+  },
+  {
+    "date": "May 23, 1701",
+    "sortKey": 1701,
+    "title": "Captain Kidd is hanged for piracy",
+    "blurb": "William Kidd, a onetime respectable New York merchant and privateer, was executed by hanging in London on May 23, 1701, after conviction for piracy and murder.",
+    "detail": "Kidd had married a wealthy widow and settled in Manhattan before sailing to the Indian Ocean under a privateering commission backed by Whig peers and the king. His capture of the Quedagh Merchant, tied to the East India Company, sealed his fate. Many historians consider him a scapegoat of politics whose exculpatory papers were suppressed.",
+    "category": "Disaster & Crisis",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Britannica", "url": "https://www.britannica.com/biography/William-Kidd"},
+      {"name": "History.com", "url": "https://www.history.com/this-day-in-history/may-23/captain-kidd-walks-the-plank"}
+    ],
+    "confidence": "high",
+    "icon": "🏴‍☠️"
+  },
+  {
+    "date": "April 6, 1712",
+    "sortKey": 1712,
+    "title": "The 1712 slave revolt",
+    "blurb": "On the night of April 6, 1712, some two dozen enslaved Africans set fire to a building on Maiden Lane and attacked colonists, killing nine.",
+    "detail": "Armed with guns, hatchets and swords, the rebels struck as whites tried to put out the fire. Governor Robert Hunter's militia arrested about 70 Black New Yorkers; 21 were convicted and executed, most by burning. The city then passed harsher laws governing enslaved people.",
+    "category": "Civil Rights & Protest",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Britannica", "url": "https://www.britannica.com/event/New-York-slave-rebellion-of-1712"},
+      {"name": "BlackPast", "url": "https://blackpast.org/african-american-history/new-york-city-slave-uprising-1712/"}
+    ],
+    "confidence": "high",
+    "icon": "⛓️"
+  },
+  {
+    "date": "November 8, 1725",
+    "sortKey": 1725,
+    "title": "The New-York Gazette, the city's first newspaper",
+    "blurb": "William Bradford issued the New-York Gazette on November 8, 1725, the first newspaper published in the city.",
+    "detail": "Bradford, the province's public printer, was in his 60s when he began the small weekly. It carried mostly months-old foreign news, state papers, shipping lists and a few advertisements. The Gazette ran until Bradford's retirement in 1744.",
+    "category": "Culture & Landmarks",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/New-York_Gazette"},
+      {"name": "Bowery Boys", "url": "https://www.boweryboyshistory.com/2008/04/new-yorks-first-newspaper-gazette.html"}
+    ],
+    "confidence": "high",
+    "icon": "📰"
+  },
+  {
+    "date": "January 15, 1730",
+    "sortKey": 1730,
+    "title": "The Montgomerie Charter reorganizes city government",
+    "blurb": "Governor John Montgomerie sealed the city's third English charter on January 15, 1730, reorganizing New York into seven wards and expanding municipal powers.",
+    "detail": "Largely drafted by James De Lancey, it enhanced the mayor's judicial functions and the city's control over markets, ferries and the waterfront. The charter granted the city an estate of City Hall, docks, wharves and common lands. It served as the basis of municipal government for roughly a century.",
+    "category": "Politics & Government",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "NYPL Archives", "url": "https://archives.nypl.org/mss/2040"},
+      {"name": "NYC DCAS Important Dates", "url": "https://www.nyc.gov/site/dcas/about/green-book-important-nyc-dates.page"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "April 8, 1730",
+    "sortKey": 1730,
+    "title": "The Mill Street Synagogue, first in North America",
+    "blurb": "Congregation Shearith Israel consecrated its Mill Street Synagogue on April 8, 1730, the first purpose-built synagogue in North America.",
+    "detail": "Shearith Israel, founded in 1655, was then the only Jewish congregation in the city and had worshipped in rented quarters. Mill Street is now South William Street in Lower Manhattan. The little synagogue reportedly drew on a nearby spring for its mikveh.",
+    "category": "Immigration & People",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Congregation Shearith Israel", "url": "https://www.shearithisrael.org/about/our-history/synagogue-buildings/"},
+      {"name": "Jewish Women's Archive", "url": "https://jwa.org/thisweek/apr/08/1730/first-north-american-synagogue-building"}
+    ],
+    "confidence": "high",
+    "icon": "🕍"
+  },
+  {
+    "date": "1733",
+    "sortKey": 1733,
+    "title": "Bowling Green, the city's first public park",
+    "blurb": "In 1733 the Common Council leased ground at the foot of Broadway to create Bowling Green, New York's oldest public park.",
+    "detail": "The land was leased to John Chambers, Peter Bayard and Peter Jay for a peppercorn a year on their promise to build a park for the inhabitants' delight. The lease specified a bowling green with walks for beauty and recreation. It remains Manhattan's oldest public park.",
+    "category": "Culture & Landmarks",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "NYC Parks", "url": "https://www.nycgovparks.org/about/history/timeline/oldest-parks"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bowling_Green_(New_York_City)"}
+    ],
+    "confidence": "high",
+    "icon": "🌳"
+  },
+  {
+    "date": "August 4, 1735",
+    "sortKey": 1735,
+    "title": "The Zenger trial and freedom of the press",
+    "blurb": "A New York jury acquitted printer John Peter Zenger of seditious libel on August 4, 1735, a landmark for freedom of the press.",
+    "detail": "Zenger's New York Weekly Journal had attacked Governor William Cosby, leading to his 1734 arrest. Philadelphia attorney Andrew Hamilton argued that a truthful publication could not be libel. The jury's not-guilty verdict influenced later constitutional protections for the press.",
+    "category": "Civil Rights & Protest",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Historical Society of the New York Courts", "url": "https://history.nycourts.gov/case/crown-v-zenger/"},
+      {"name": "National Constitution Center", "url": "https://constitutioncenter.org/blog/a-huge-free-press-victory-by-the-original-philadelphia-lawyer"}
+    ],
+    "confidence": "high",
+    "icon": "🗞️"
+  },
+  {
+    "date": "March 18, 1741",
+    "sortKey": 1741,
+    "title": "The 1741 conspiracy trials",
+    "blurb": "After a fire at Fort George on March 18, 1741, and more blazes that followed, authorities alleged a plot by enslaved people and poor whites to burn the city.",
+    "detail": "Judge Daniel Horsmanden served as both investigator and judge as more than 150 people were arrested and tried. About 30 were executed, including at least 13 enslaved Black men burned at the stake and others hanged, and dozens more were banished. Many historians doubt any real plot existed, likening the panic to the Salem witch trials.",
+    "category": "Disaster & Crisis",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Historical Society of the New York Courts", "url": "https://history.nycourts.gov/case/slave-conspiracy-trials/"},
+      {"name": "Gilder Lehrman Institute", "url": "https://www.gilderlehrman.org/history-resources/spotlight-primary-source/new-york-conspiracy-1741"}
+    ],
+    "confidence": "high",
+    "icon": "🔥"
+  },
+  {
+    "date": "1754",
+    "sortKey": 1754,
+    "title": "The New York Society Library is founded",
+    "blurb": "Six residents founded the New York Society Library in 1754 as a subscription library, the city's oldest cultural institution.",
+    "detail": "They persuaded Governor James De Lancey to grant a room in the original City Hall at Wall and Broad streets. Members paid a fee to access the collection, governed by an elected board of trustees. When New York was the national capital it served as a de facto Library of Congress.",
+    "category": "Culture & Landmarks",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "New York Society Library", "url": "https://www.nysoclib.org/history-library"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/New_York_Society_Library"}
+    ],
+    "confidence": "high",
+    "icon": "📚"
+  },
+  {
+    "date": "October 31, 1754",
+    "sortKey": 1754,
+    "title": "King's College, later Columbia, is founded",
+    "blurb": "King's College, the future Columbia University, was founded by royal charter of King George II on October 31, 1754.",
+    "detail": "Classes had begun that July with Dr. Samuel Johnson teaching a first class of just eight students. It was an Anglican college and the oldest institution of higher learning in New York. Early students and trustees included founders John Jay, Alexander Hamilton and Gouverneur Morris.",
+    "category": "Culture & Landmarks",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Columbia University", "url": "https://www.columbia.edu/content/university-history"},
+      {"name": "Mount Vernon", "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/king-s-college"}
+    ],
+    "confidence": "high",
+    "icon": "🎓"
+  },
+  {
+    "date": "1765",
+    "sortKey": 1765,
+    "title": "The Sons of Liberty organize in New York",
+    "blurb": "The New York Sons of Liberty formed in the fall of 1765 under Isaac Sears and Alexander McDougall to resist the Stamp Act.",
+    "detail": "On October 31, 1765, the day before the Stamp Act took effect, Sears and allies resolved to block distribution of the stamps and boycott British goods. Beginning that November they sent representatives to chapters in other colonies to build intercolonial networks. The group became a driving force of revolutionary agitation in the city.",
+    "category": "Civil Rights & Protest",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Sons_of_Liberty"},
+      {"name": "American History Central", "url": "https://www.americanhistorycentral.com/entries/sons-of-liberty/"}
+    ],
+    "confidence": "high",
+    "icon": "✊"
+  },
+  {
+    "date": "October 7, 1765",
+    "sortKey": 1765,
+    "title": "The Stamp Act Congress meets in New York",
+    "blurb": "Delegates from nine colonies convened the Stamp Act Congress in New York City on October 7, 1765, to protest the Stamp Act.",
+    "detail": "Twenty-seven delegates, including John Dickinson and Christopher Gadsden, met and chose Timothy Ruggles as chairman. By October 19 they had agreed on a Declaration of Rights and Grievances to send to Parliament. It was among the first unified colonial protests against British taxation.",
+    "category": "Politics & Government",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/Stamp-Act-Congress"},
+      {"name": "Historical Society of Pennsylvania", "url": "https://digitalhistory.hsp.org/pafrm/doc/declaration-congress-held-new-york-october-7-1765"}
+    ],
+    "confidence": "high",
+    "icon": "📃"
+  },
+  {
+    "date": "May 21, 1766",
+    "sortKey": 1766,
+    "title": "The first Liberty Pole rises in the Common",
+    "blurb": "New Yorkers raised the first Liberty Pole in City Hall Park on May 21, 1766, to celebrate repeal of the Stamp Act.",
+    "detail": "Over the next four years British soldiers repeatedly cut down or blew up the pole, and the Sons of Liberty as often put up a new one. The running confrontation raised tensions that would boil over at Golden Hill. The Liberty Pole became a durable symbol of colonial defiance.",
+    "category": "Civil Rights & Protest",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Battle_of_Golden_Hill"},
+      {"name": "New York Almanack", "url": "https://www.newyorkalmanack.com/2023/07/the-revolutions-first-bloodshed-new-yorks-liberty-poles-the-battle-of-golden-hill/"}
+    ],
+    "confidence": "high",
+    "icon": "🪵"
+  },
+  {
+    "date": "January 19, 1770",
+    "sortKey": 1770,
+    "title": "The Battle of Golden Hill",
+    "blurb": "British soldiers and Sons of Liberty clashed at Golden Hill on January 19, 1770, an early outbreak of revolutionary violence weeks before the Boston Massacre.",
+    "detail": "Tensions had spiked when soldiers blew up the Liberty Pole days earlier and posted handbills attacking the Sons of Liberty. Led by Isaac Sears, citizens fought Redcoats along present-day John Street. Several were wounded, and a new Liberty Pole was raised on February 6.",
+    "category": "Civil Rights & Protest",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "New-York Historical", "url": "https://www.nyhistory.org/blogs/the-battle-of-golden-hill-new-yorks-opening-act-of-revolutionary-bloodshed"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Battle_of_Golden_Hill"}
+    ],
+    "confidence": "high",
+    "icon": "⚔️"
+  },
+  {
+    "date": "April 22, 1774",
+    "sortKey": 1774,
+    "title": "The New York tea party",
+    "blurb": "New York patriots dumped hidden tea from the ship London into the harbor on April 22, 1774, the city's answer to the Boston Tea Party.",
+    "detail": "Days earlier, the tea ship Nancy had been turned back at Sandy Hook and sent to England. When the London arrived carrying concealed chests, the Sons of Liberty seized the ship, opened the chests and threw the tea overboard. The empty chests were used to light bonfires in the streets.",
+    "category": "Civil Rights & Protest",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Fraunces Tavern Museum", "url": "https://www.frauncestavernmuseum.org/the-new-york-tea-party"},
+      {"name": "New York Almanack", "url": "https://www.newyorkalmanack.com/2018/06/1774-patriots-new-yorks-tea-party/"}
+    ],
+    "confidence": "high",
+    "icon": "🫖"
+  },
+  {
+    "date": "July 9, 1776",
+    "sortKey": 1776,
+    "title": "The Declaration is read to Washington's troops",
+    "blurb": "The Declaration of Independence was read aloud to Continental Army troops assembled on the Common on July 9, 1776, greeted by three cheers.",
+    "detail": "General Washington ordered the brigades to muster at 6 p.m. on the parade ground near today's City Hall. The reading fired revolutionary enthusiasm among the soldiers. It set the stage for the crowd's next act at Bowling Green.",
+    "category": "Politics & Government",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Founders Online (General Orders)", "url": "https://founders.archives.gov/documents/Washington/03-05-02-0176"},
+      {"name": "Gilder Lehrman Institute", "url": "https://www.gilderlehrman.org/history-resources/essays/proclamation-reading-and-immediate-reception-declaration-independence"}
+    ],
+    "confidence": "high",
+    "icon": "📣"
+  },
+  {
+    "date": "July 9, 1776",
+    "sortKey": 1776,
+    "title": "The statue of King George III is toppled",
+    "blurb": "After the Declaration was read, a crowd rushed to Bowling Green and pulled down the gilded lead equestrian statue of King George III.",
+    "detail": "Led by Isaac Sears, soldiers and civilians toppled the statue and much of the lead was later melted into musket balls. The king's severed head reportedly made its way to England. Washington rebuked the destruction of property, urging that such acts be left to proper authorities.",
+    "category": "Civil Rights & Protest",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Gilder Lehrman Institute", "url": "https://www.gilderlehrman.org/history-resources/essays/proclamation-reading-and-immediate-reception-declaration-independence"},
+      {"name": "History (Univ. of Tennessee)", "url": "https://history.utk.edu/1776s-declaration-of-independence-inspired-washingtons-troops-to-fight-against-the-odds-and-also-helped-bring-in-powerful-allies/"}
+    ],
+    "confidence": "high",
+    "icon": "🗿"
+  },
+  {
+    "date": "August 27, 1776",
+    "sortKey": 1776,
+    "title": "The Battle of Long Island",
+    "blurb": "The Battle of Long Island on August 27, 1776, was the largest battle of the Revolution and a British victory that gave them New York for the rest of the war.",
+    "detail": "British forces flanked the American rear, inflicting heavy casualties, though a stand by Maryland and Delaware troops prevented a rout. On the night of August 29–30 Washington evacuated some 9,000 men across the East River to Manhattan under cover of fog without losing a life. It was a narrow escape that preserved the Continental Army.",
+    "category": "Disaster & Crisis",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "American Battlefield Trust", "url": "https://www.battlefields.org/learn/revolutionary-war/battles/brooklyn"},
+      {"name": "Mount Vernon", "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-long-island"}
+    ],
+    "confidence": "high",
+    "icon": "⚔️"
+  },
+  {
+    "date": "September 15, 1776",
+    "sortKey": 1776,
+    "title": "The British land at Kip's Bay",
+    "blurb": "British warships and troops landed at Kip's Bay on Manhattan's East River shore on September 15, 1776, scattering American militia.",
+    "detail": "A thunderous naval barrage broke Connecticut militia deployed in a shallow trench, and panic spread. The landing gave the British control of New York City on the lower half of the island. General Howe's halt at Murray Hill let much of the American army escape north to Harlem Heights.",
+    "category": "Disaster & Crisis",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Mount Vernon", "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-kip-s-bay"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Landing_at_Kip's_Bay"}
+    ],
+    "confidence": "high",
+    "icon": "⛵"
+  },
+  {
+    "date": "September 16, 1776",
+    "sortKey": 1776,
+    "title": "The Battle of Harlem Heights",
+    "blurb": "On September 16, 1776, Washington won his first battlefield victory of the war at Harlem Heights in upper Manhattan.",
+    "detail": "A skirmish involving Knowlton's Rangers grew into a running fight as British buglers taunted the Americans with a fox-hunt call. Infuriated, the Continentals held their ground and pushed the British back in what Washington's men called a sharp skirmish. The success sharply boosted American morale after the Long Island disaster.",
+    "category": "Politics & Government",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Mount Vernon", "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-harlem-heights"},
+      {"name": "American Battlefield Trust", "url": "https://www.battlefields.org/visit/battlefields/harlem-heights"}
+    ],
+    "confidence": "high",
+    "icon": "🎖️"
+  },
+  {
+    "date": "September 21, 1776",
+    "sortKey": 1776,
+    "title": "The Great Fire of 1776",
+    "blurb": "A fire burned through the night into September 21, 1776, destroying a large swath of British-occupied New York including Trinity Church.",
+    "detail": "The blaze consumed between roughly 10 and 25 percent of the city's some 4,000 buildings on the West Side of lower Manhattan. Trinity Church burned while St. Paul's Chapel survived. British commander William Howe suspected deliberate arson by patriots, though the cause was never proven.",
+    "category": "Disaster & Crisis",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Great_Fire_of_New_York_(1776)"},
+      {"name": "Trinity Church", "url": "https://trinitychurchnyc.org/stories-news/1776-trinity-church-and-american-revolution"}
+    ],
+    "confidence": "high",
+    "icon": "🔥"
+  },
+  {
+    "date": "September 22, 1776",
+    "sortKey": 1776,
+    "title": "Nathan Hale is hanged as a spy",
+    "blurb": "The British hanged 21-year-old Continental officer Nathan Hale as a spy in occupied New York on September 22, 1776.",
+    "detail": "A Yale graduate and schoolteacher, Hale had volunteered to gather intelligence behind British lines and was captured with incriminating evidence. He was marched to the Dove Tavern, near today's Third Avenue and 66th Street, and executed. Tradition holds he declared he regretted having but one life to lose for his country.",
+    "category": "Disaster & Crisis",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Connecticut History", "url": "https://connecticuthistory.org/nathan-hale-hanged-in-new-york-today-in-history/"},
+      {"name": "Britannica", "url": "https://www.britannica.com/biography/Nathan-Hale"}
+    ],
+    "confidence": "high",
+    "icon": "🪢"
+  },
+  {
+    "date": "October 28, 1776",
+    "sortKey": 1776,
+    "title": "The Battle of White Plains",
+    "blurb": "British and Hessian forces under Howe defeated Washington at White Plains in Westchester on October 28, 1776.",
+    "detail": "Howe had landed troops in Westchester to cut off the Continental Army's retreat from Manhattan. After heavy fighting on Chatterton's Hill, the Americans withdrew but avoided encirclement. Washington's army escaped to march toward New Jersey.",
+    "category": "Disaster & Crisis",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "American Battlefield Trust", "url": "https://www.battlefields.org/learn/revolutionary-war/battles/white-plains"},
+      {"name": "Britannica", "url": "https://www.britannica.com/event/Battle-of-White-Plains"}
+    ],
+    "confidence": "high",
+    "icon": "⚔️"
+  },
+  {
+    "date": "November 16, 1776",
+    "sortKey": 1776,
+    "title": "The fall of Fort Washington",
+    "blurb": "British and Hessian forces captured Fort Washington, the last American stronghold on Manhattan, on November 16, 1776.",
+    "detail": "Howe attacked from multiple directions, and Colonel Robert Magaw surrendered a garrison of nearly 3,000 men. Only about 800 of the captured troops survived the brutal captivity that followed. The defeat completed British control of Manhattan.",
+    "category": "Disaster & Crisis",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "American Battlefield Trust", "url": "https://www.battlefields.org/learn/revolutionary-war/battles/fort-washington"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Battle_of_Fort_Washington"}
+    ],
+    "confidence": "high",
+    "icon": "🏰"
+  },
+  {
+    "date": "c. 1779",
+    "sortKey": 1779,
+    "title": "The prison ships of Wallabout Bay",
+    "blurb": "Around 1779 the British hulked HMS Jersey in Wallabout Bay off Brooklyn as a prison ship, one of many that held captured Americans in lethal conditions.",
+    "detail": "Prisoners called the Jersey simply Hell, with more than 1,000 crammed below decks and about a dozen dying nightly of disease and starvation. At least 16 hulks served as floating prisons in the bay during the war. An estimated 11,500 people died aboard the ships, more than in all the war's battles combined.",
+    "category": "Disaster & Crisis",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/HMS_Jersey_(1736)"},
+      {"name": "Fraunces Tavern Museum", "url": "https://www.frauncestavernmuseum.org/blogs-posts-prisoners-of-the-deep"}
+    ],
+    "confidence": "high",
+    "icon": "⚓"
+  },
+  {
+    "date": "November 25, 1783",
+    "sortKey": 1783,
+    "title": "Evacuation Day ends British occupation",
+    "blurb": "The last British troops left New York on November 25, 1783, and Washington led the Continental Army into the city.",
+    "detail": "The departure ended a seven-year occupation during which the city was Britain's North American headquarters. Washington marched from north of the city down through Manhattan to the Battery. A veteran, John Van Arsdale, climbed a greased flagstaff at Fort George to replace the British flag with the American one.",
+    "category": "Politics & Government",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Fraunces Tavern Museum", "url": "https://www.frauncestavernmuseum.org/evacuation-day-101"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Evacuation_Day_(New_York)"}
+    ],
+    "confidence": "high",
+    "icon": "🇺🇸"
+  },
+  {
+    "date": "December 4, 1783",
+    "sortKey": 1783,
+    "title": "Washington's farewell at Fraunces Tavern",
+    "blurb": "General Washington bade an emotional farewell to his officers in the Long Room of Fraunces Tavern on December 4, 1783.",
+    "detail": "Nine days after the British departure, Washington told his officers he took leave with a heart full of love and gratitude, then embraced each in turn. Observers described him as suffused in tears. He left afterward for Annapolis to resign his commission before returning to Mount Vernon.",
+    "category": "Politics & Government",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Fraunces Tavern Museum", "url": "https://www.frauncestavernmuseum.org/washingtons-farewell"},
+      {"name": "Library of Congress", "url": "https://www.loc.gov/item/today-in-history/december-04/"}
+    ],
+    "confidence": "high",
+    "icon": "🍺"
+  }
+]
