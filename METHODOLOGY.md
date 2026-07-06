@@ -23,8 +23,14 @@ Every event carries a direct link to a reputable source, surfaced through web re
 
 The full source list, by year, is available in the in-page **"Sources & method"** panel.
 
-## Fact-check pass
-After assembly, every event in all six eras was audited by an independent fact-checking pass that re-verified dates, names, numbers and characterizations against reputable sources. Corrections applied include: the 1907 Ellis Island figure (~1 million processed at the station, not the ~1.28 million total US arrivals that year), the Queens–Midtown Tunnel builder (New York City Tunnel Authority, not Robert Moses's agency), the Cross Bronx Expressway completion year (1963), the 1741 conspiracy-trial arrest count and Fort George fire date (March 18), the Bank of New York's rank among early US banks, and the 2025 Mamdani turnout comparison (highest since 1969). Two high-severity and several low-severity fixes were made; the vast majority of claims verified clean.
+## Fact-check passes (two independent rounds)
+After assembly, every event in all six eras was audited by an independent fact-checking pass that re-verified dates, names, numbers and characterizations against reputable sources — then a **second, fully independent round** re-audited the whole corrected dataset from scratch.
+
+**Round 1** corrections: the 1907 Ellis Island figure (~1 million processed at the station, not the ~1.28 million total US arrivals that year), the Queens–Midtown Tunnel builder (New York City Tunnel Authority, not Robert Moses's agency), the Cross Bronx Expressway completion year (1963), the 1741 conspiracy-trial arrest count and Fort George fire date (March 18), the Bank of New York's rank among early US banks, and the 2025 Mamdani turnout comparison (highest since 1969).
+
+**Round 2** corrections: the 1798 yellow-fever toll as a share of population (~6%, not 4%), the 1892 cholera-scare quarantine (ordered under President Harrison, not Cleveland, who was not yet inaugurated), Congregation Shearith Israel's founding year (1654), the 2003 blackout figure (~50 million, per the cited DOE source), the 2004 RNC arrest count (more than 1,800, a convention record), the Occupy Wall Street opening-march size (~1,000), and the Federal Hall remodeling date (1788–89, distinct from the 1785 capital designation).
+
+Across both rounds, four high-severity and several low-severity fixes were made; eras I, IV and V passed the second round with zero errors, and the vast majority of all claims verified clean.
 
 ## Significance sizing
 Events are rendered at three visual weights so the eye can find the pivotal moments at a glance: **major** turning points (founding events, the 1898 consolidation, the Erie Canal, the Brooklyn Bridge, 9/11, and the like) appear largest and boldest; **notable** events at the default size; **lesser** events in a compact, quieter card. The tier of each event is assigned in `parts/merge.py` and is editorial, not a claim about historical importance in any absolute sense.
