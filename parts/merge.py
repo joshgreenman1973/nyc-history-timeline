@@ -34,6 +34,9 @@ MAJOR = [
     "9/11","september 11 attacks","attacks destroy","miracle on the hudson","high line","same-sex marriage",
     "occupy wall street","hurricane sandy","one world trade center opens","de blasio elected","covid-19",
     "george floyd","adams elected","congestion pricing tolls begin","mamdani elected","mamdani wins",
+    "metropolitan opera house opens","new york philharmonic gives","chinese exclusion act",
+    "great migration remakes harlem","saturday night live","cbgb opens","lincoln center opens",
+    "first passenger elevator","first macy's thanksgiving",
 ]
 MINOR = [
     "estêvão gomes","estevao gomes","adriaen block","new netherland company","dutch west india company is chartered",
@@ -58,6 +61,11 @@ MINOR = [
     "barclays","citi bike","stop-and-frisk","9/11 memorial museum","officers ambushed","pope francis","chelsea bombing",
     "second avenue subway","cornell tech","truck attack","amazon scraps","hudson yards","rent-law","hurricane ida",
     "migrant arrivals","adams indicted","containerization","cross bronx",
+    "western union tower","city fetes the transatlantic","new york stock exchange opens its",
+    "federal reserve bank of new york opens","air conditioning cools","silicon alley","fresh kills recovery",
+    "omny brings","feast of san gennaro","tin pan alley","first tony awards","first new york film festival",
+    "warhol's silver factory","def jam is founded","tenement museum founded","brighton beach","nuyorican poets cafe is born",
+    "us open moves","current madison square garden","mets play their first",
 ]
 def weight_for(title):
     t = title.lower()
@@ -66,6 +74,14 @@ def weight_for(title):
     for k in MINOR:
         if k in t: return 3
     return 2
+
+# Redundant additions to drop (normalized titles) — near-dups of events already present.
+SKIP_TITLES = {
+    "zengeracquittedanearlypressfreedomvictory",   # dup of existing Zenger acquittal
+    "immigrationactof1924emptiesellisisland",        # dup of "Immigration Act imposes national quotas"
+    "nuyoricanpoetscafeopensinloisaida",             # dup of "Nuyorican Poets Cafe is born"
+    "astorplaceriotoverrivalshakespeareans",         # dup of "The Astor Place Riot turns deadly"
+}
 
 def clean(s):
     if not isinstance(s, str): return s
@@ -77,7 +93,13 @@ def norm_title(t):
 
 def main():
     events = []
-    files = sorted(glob.glob(os.path.join(HERE, "*.json")))
+    # optional image cache (from fetch_images.py), keyed by normalized title
+    IMAGES = {}
+    imgpath = os.path.join(HERE, "images.json")
+    if os.path.exists(imgpath):
+        try: IMAGES = json.load(open(imgpath))
+        except Exception: IMAGES = {}
+    files = sorted(glob.glob(os.path.join(HERE, "era*.json")))
     if not files:
         print("No part files found in", HERE); sys.exit(1)
     for f in files:
@@ -110,8 +132,21 @@ def main():
         has_src = (e.get("sources") and len(e["sources"])>0 and e["sources"][0].get("url")) or e.get("sourceUrl")
         if not has_src:
             warnings.append(f"NO SOURCE: {e.get('title')}")
+        # sanitize implausible sortKeys (e.g. 19691) -> derive year from the date
+        sk = e.get("sortKey")
+        if not isinstance(sk, int) or sk < -2000 or sk > 2100:
+            m = re.search(r'\d{3,4}', str(e.get("date","")))
+            e["sortKey"] = int(m.group()) if m else 0
+        # drop known redundant additions
+        if norm_title(e.get("title","")) in SKIP_TITLES:
+            continue
         # assign significance weight
         e["weight"] = weight_for(e.get("title",""))
+        # attach cached image if available
+        img = IMAGES.get(norm_title(e.get("title","")))
+        if img:
+            e["image"] = img.get("src")
+            e["imageCredit"] = img.get("credit","")
         # dedupe by normalized title
         key = norm_title(e.get("title",""))
         if key in seen:

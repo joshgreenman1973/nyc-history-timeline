@@ -154,6 +154,9 @@
         return '<a class="src" href="'+esc(s.url)+'" target="_blank" rel="noopener">▸ '+esc(s.name)+'</a>';
       }).join('');
       var hasDetail = !!e.detail;
+      var imgHtml = (e.image && e.weight!==3)
+        ? '<div class="card-img"><img loading="lazy" src="'+esc(e.image)+'" alt="'+esc(e.title)+'"><span class="img-cr">'+esc(e.imageCredit||'')+' · Wikimedia</span></div>'
+        : '';
       var detailHtml = hasDetail ? '<div class="detail"><p>'+esc(e.detail)+'</p></div>' : '';
       var moreBtn = hasDetail ? '<button class="more" type="button">Read more <span class="chev">↓</span></button>' : '';
       var searchTxt = (e.title+' '+e.blurb+' '+(e.detail||'')+' '+e.date+' '+e.category).toLowerCase();
@@ -161,6 +164,7 @@
       html+='<article class="event '+side+(hasDetail?' has-detail':'')+'" data-cat="'+esc(e.category)+'" data-search="'+esc(searchTxt)+'" data-month="'+pd.mo+'" data-day="'+pd.day+'" data-year="'+(pd.yr||e.sortKey)+'" data-weight="'+(e.weight||2)+'" style="--era:'+er.color+'">'
         +'<span class="node"></span>'
         +'<div class="card" tabindex="0">'
+          + imgHtml
           +'<div class="yr"><span class="ic">'+(e.icon||'•')+'</span><span>'+esc(String(e.date).match(/\d{3,4}|c\.\s?\d+/)?displayYear(e):e.date)+'</span></div>'
           +'<div class="date">'+esc(e.date)+'</div>'
           +'<h3>'+esc(e.title)+'</h3>'

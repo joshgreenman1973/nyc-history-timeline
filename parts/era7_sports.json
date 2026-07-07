@@ -1,0 +1,242 @@
+[
+  {
+    "date": "1882",
+    "sortKey": 1882,
+    "title": "Chinese Exclusion Act freezes Chinatown's growth",
+    "blurb": "The federal Chinese Exclusion Act barred most Chinese immigration and effectively froze Manhattan's young Chinatown in place for decades.",
+    "detail": "In the year the law passed roughly 40,000 people of Chinese origin entered the United States; by 1887 the number admitted had collapsed to about 10. The restriction skewed Chinatown into a largely bachelor society, with only a few dozen to a few hundred women among thousands of Chinese men in Manhattan by 1900. The neighborhood's borders stayed fixed for nearly 80 years until the Immigration and Nationality Act of 1965 allowed it to expand again.",
+    "category": "Immigration & People",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "National Archives", "url": "https://www.archives.gov/milestone-documents/chinese-exclusion-act"},
+      {"name": "National Park Service", "url": "https://www.nps.gov/places/new-york-chinatown-and-little-italy-historic-district.htm"}
+    ],
+    "confidence": "high",
+    "icon": "🏮"
+  },
+  {
+    "date": "c. 1916",
+    "sortKey": 1916,
+    "title": "The Great Migration remakes Harlem",
+    "blurb": "As the Great Migration drew hundreds of thousands of Black Americans north, Harlem became the largest concentration of Black residents in the world.",
+    "detail": "A neighborhood planned in the 1880s as an upper-class white enclave was transformed as African Americans fleeing the rural South settled there. Roughly 175,000 Black residents came to fill Harlem's three square miles. The influx set the stage for the Harlem Renaissance of the 1920s and 1930s, when writers, musicians and artists including Langston Hughes and Duke Ellington built an independent Black cultural movement.",
+    "category": "Immigration & People",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Smithsonian NMAAHC", "url": "https://nmaahc.si.edu/explore/stories/new-african-american-identity-harlem-renaissance"},
+      {"name": "History.com", "url": "https://www.history.com/articles/great-migration"}
+    ],
+    "confidence": "high",
+    "icon": "🎷"
+  },
+  {
+    "date": "1924",
+    "sortKey": 1924,
+    "title": "Immigration Act of 1924 empties Ellis Island",
+    "blurb": "The Johnson-Reed Act imposed strict national-origins quotas and a consular visa system that ended mass immigration through Ellis Island.",
+    "detail": "Quotas were pegged to the 1890 ethnic makeup of the country to limit southern and eastern Europeans, while immigrants from Asia were barred outright. Because migrants now obtained visas abroad, Ellis Island shrank to a detention and deportation station and was eventually abandoned in 1954. Immigration to the United States fell by roughly half in the first year, from about 357,000 to 165,000.",
+    "category": "Immigration & People",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "U.S. State Dept. Office of the Historian", "url": "https://history.state.gov/milestones/1921-1936/immigration-act"},
+      {"name": "Migration Policy Institute", "url": "https://www.migrationpolicy.org/article/1924-us-immigration-act-history"}
+    ],
+    "confidence": "high",
+    "icon": "📜"
+  },
+  {
+    "date": "September 1926",
+    "sortKey": 1926,
+    "title": "First Feast of San Gennaro on Mulberry Street",
+    "blurb": "Neapolitan immigrants on Mulberry Street held the first American Feast of San Gennaro, honoring the patron saint of Naples.",
+    "detail": "In September 1926 immigrants from Naples gathered in Little Italy to continue a tradition from home, erecting a small street chapel for their patron saint. The devoted pinned cash offerings to ribbon streamers hung from the statue, money that was then distributed to poorer neighbors. What began as a one-day religious commemoration grew into an 11-day street festival that draws millions of visitors today.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Feast of San Gennaro (official)", "url": "https://sangennaronyc.org/history/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Feast_of_San_Gennaro"}
+    ],
+    "confidence": "high",
+    "icon": "🎡"
+  },
+  {
+    "date": "April 13, 1962",
+    "sortKey": 1962,
+    "title": "The Mets play their first home game",
+    "blurb": "National League baseball returned to New York City as the expansion Mets opened at the Polo Grounds after the Dodgers and Giants had left in 1957.",
+    "detail": "Managed by former Yankees skipper Casey Stengel, the Mets played at the aging Polo Grounds while Shea Stadium was built in Queens. The team went a dismal 40–120 in 1962, the most losses by a major-league club in a single 20th-century season, cementing its early reputation as lovable losers. Casey Stengel's nickname for the club, the \"Amazin' Mets,\" would take on new meaning by decade's end.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Society for American Baseball Research", "url": "https://sabr.org/gamesproj/game/april-11-1962-new-york-mets-open-inaugural-season-with-loss-to-cardinals/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/1962_New_York_Mets_season"}
+    ],
+    "confidence": "high",
+    "icon": "⚾"
+  },
+  {
+    "date": "February 11, 1968",
+    "sortKey": 1968,
+    "title": "The current Madison Square Garden opens",
+    "blurb": "The fourth Madison Square Garden opened above the platforms of Pennsylvania Station, built on the site of the demolished Beaux-Arts terminal.",
+    "detail": "The arena was among the first built above an active railroad station. Outcry over the earlier demolition of the original Pennsylvania Station helped spur creation of the New York City Landmarks Preservation Commission. The new Garden became home to the Knicks and Rangers and host to the era's biggest boxing and entertainment events.",
+    "category": "Infrastructure & Building",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Madison_Square_Garden"},
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/Madison-Square-Garden"}
+    ],
+    "confidence": "high",
+    "icon": "🏟️"
+  },
+  {
+    "date": "September 1969",
+    "sortKey": 1969,
+    "title": "West Indian Day Parade moves to Eastern Parkway",
+    "blurb": "A Brooklyn committee led by Carlos Lezama won approval to hold the West Indian carnival on Eastern Parkway, launching the parade that anchors Caribbean New York.",
+    "detail": "The carnival tradition began at Harlem indoor gatherings in the 1920s and moved to the streets there in the 1940s, but the Harlem permit was revoked in 1964. Five years later organizers relocated to central Brooklyn, home to Caribbean immigrants in Crown Heights, East Flatbush and Flatbush. The Labor Day parade now draws between one and three million people, making it one of North America's largest celebrations of Caribbean culture.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "West Indian American Day Carnival Association", "url": "https://wiadcacarnival.org/history.html"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/West_Indian_Day_Parade"}
+    ],
+    "confidence": "high",
+    "icon": "🎭"
+  },
+  {
+    "date": "October 16, 1969",
+    "sortKey": 1969,
+    "title": "The Miracle Mets win the World Series",
+    "blurb": "Just seven years after a record-setting 120-loss debut, the Mets beat the Baltimore Orioles to become the first expansion team to win a World Series.",
+    "detail": "The Mets had been baseball's punchline for most of the 1960s and entered the season as 100-to-1 long shots. They defeated a Baltimore club that had won 109 regular-season games, taking the series four games to one and clinching at Shea Stadium. The upset earned the team the enduring nickname the \"Miracle Mets.\"",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Society for American Baseball Research", "url": "https://sabr.org/gamesproj/game/october-16-1969-miracle-mets-become-first-expansion-team-to-win-a-world-series/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/1969_World_Series"}
+    ],
+    "confidence": "high",
+    "icon": "⚾"
+  },
+  {
+    "date": "May 8, 1970",
+    "sortKey": 1970,
+    "title": "Knicks win their first NBA championship",
+    "blurb": "A hobbled Willis Reed limped onto the Madison Square Garden court and the Knicks beat the Los Angeles Lakers in Game 7 for the franchise's first title.",
+    "detail": "Reed, playing through a torn thigh muscle, hit the game's first two baskets and lifted his teammates in one of basketball's most storied moments. Walt Frazier carried the scoring with 36 points and 19 assists as New York won 113–99. The championship, followed by a second in 1973, defined a golden era for New York basketball.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "NBA.com", "url": "https://www.nba.com/news/history-finals-moments-hobbled-willis-reed-inspires-knicks-victory-in-game-7"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/1970_NBA_Finals"}
+    ],
+    "confidence": "high",
+    "icon": "🏀"
+  },
+  {
+    "date": "September 13, 1970",
+    "sortKey": 1970,
+    "title": "The first New York City Marathon is run",
+    "blurb": "Fred Lebow and Vincent Chiappetta staged the first NYC Marathon as laps around Central Park, drawing 127 starters and just 55 finishers.",
+    "detail": "Gary Muhrcke won the inaugural race in 2:31:38 before roughly 100 spectators. The course was a loop of Central Park's drives rather than the citywide route known today. In 1976 Lebow expanded it into the five-borough race that became one of the largest marathons in the world.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "New York Road Runners", "url": "https://www.nyrr.org/about/hall-of-fame/fred-lebow"},
+      {"name": "Central Park Conservancy", "url": "https://www.centralparknyc.org/articles/central-park-and-the-new-york-city-marathon-through-the-years"}
+    ],
+    "confidence": "high",
+    "icon": "🏃"
+  },
+  {
+    "date": "March 8, 1971",
+    "sortKey": 1971,
+    "title": "Ali-Frazier 'Fight of the Century' at the Garden",
+    "blurb": "Joe Frazier and Muhammad Ali met at Madison Square Garden in the first bout between two undefeated heavyweight champions, won by Frazier.",
+    "detail": "A sellout crowd of 20,455 filled the Garden for a bout that became a cultural proxy for a divided nation and marked Ali's return three-and-a-half years after his license was revoked over his refusal to fight in Vietnam. Frazier won by unanimous decision to retain the title. The fight was broadcast to closed-circuit venues and viewers around the world.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "History.com", "url": "https://www.history.com/this-day-in-history/march-8/ali-battles-frazier-for-heavyweight-championship"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Fight_of_the_Century"}
+    ],
+    "confidence": "high",
+    "icon": "🥊"
+  },
+  {
+    "date": "1973",
+    "sortKey": 1973,
+    "title": "Nuyorican Poets Cafe opens in Loisaida",
+    "blurb": "Puerto Rican writers founded the Nuyorican Poets Cafe on the Lower East Side, giving a home to the Nuyorican cultural movement.",
+    "detail": "Co-founders including Miguel Algarín, Miguel Piñero and Pedro Pietri built a countercultural hub in a neighborhood Puerto Ricans called Loisaida. The cafe brought together Beat, Black Arts and Nuyorican poets in an economically marginalized area. It later helped popularize the modern poetry slam and has operated from its East 3rd Street building since 1981.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Nuyorican Poets Cafe", "url": "https://www.nuyorican.org/history-awards"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Nuyorican_Poets_Caf%C3%A9"}
+    ],
+    "confidence": "high",
+    "icon": "🎤"
+  },
+  {
+    "date": "c. 1975",
+    "sortKey": 1975,
+    "title": "Soviet Jews make Brighton Beach 'Little Odessa'",
+    "blurb": "A wave of Soviet Jewish émigrés settled in Brighton Beach after Moscow loosened emigration rules, revitalizing the seaside Brooklyn neighborhood.",
+    "detail": "Nearly 40,000 Soviet Jewish immigrants arrived between 1975 and 1980, forming the largest Russian-speaking population in the city. Because so many came from the Ukrainian port of Odessa, the enclave earned the nickname \"Little Odessa.\" Newcomers were drawn by public housing, affordable co-ops, synagogues and the beach, and their arrival reversed the neighborhood's decline.",
+    "category": "Immigration & People",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "The Brooklyn Jewish Historical Initiative", "url": "https://brooklynjewish.org/neighborhoods/brighton-beach/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Brighton_Beach"}
+    ],
+    "confidence": "high",
+    "icon": "🌊"
+  },
+  {
+    "date": "August 1978",
+    "sortKey": 1978,
+    "title": "US Open moves to Flushing Meadows",
+    "blurb": "The US Open left the West Side Tennis Club for the newly built USTA National Tennis Center in Flushing Meadows, switching from clay to hard courts.",
+    "detail": "USTA president William Hester conceived the complex after eyeing the underused Singer Bowl left from the 1964 World's Fair. The facility, now the USTA Billie Jean King National Tennis Center, opened in August 1978 as the tournament's permanent home. The move gave the Open room to grow into one of the largest annual sporting events in the city.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/USTA_Billie_Jean_King_National_Tennis_Center"},
+      {"name": "Britannica", "url": "https://www.britannica.com/sports/US-Open-tennis"}
+    ],
+    "confidence": "high",
+    "icon": "🎾"
+  },
+  {
+    "date": "1988",
+    "sortKey": 1988,
+    "title": "Tenement Museum founded at 97 Orchard Street",
+    "blurb": "Ruth Abram and Anita Jacobson founded the Lower East Side Tenement Museum in a long-shuttered Orchard Street tenement to tell immigrant stories.",
+    "detail": "The building at 97 Orchard Street had housed an estimated 7,000 people from more than 20 nations between 1863 and 1935 before its upper floors sat sealed for decades. It was designated a National Historic Landmark in 1994. The museum now interprets immigrant and migrant life through restored period apartments across two Orchard Street buildings.",
+    "category": "Immigration & People",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Tenement Museum", "url": "https://www.tenement.org/about-us/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Lower_East_Side_Tenement_Museum"}
+    ],
+    "confidence": "high",
+    "icon": "🏚️"
+  },
+  {
+    "date": "1990",
+    "sortKey": 1990,
+    "title": "A new immigrant wave remakes the city",
+    "blurb": "In the 1990s more than 1.2 million immigrants moved to New York City, pushing the foreign-born share of adults to about 45 percent by 2000.",
+    "detail": "As roughly 1.3 million people left for suburbs and other states, an even larger flow of newcomers sustained the city's population. This post-1965 wave was strikingly diverse and, on average, better educated than earlier arrivals, though English proficiency varied widely by group. The influx reshaped neighborhoods from Jackson Heights, later called perhaps the most diverse place on the planet, to Flushing and Sunset Park.",
+    "category": "Immigration & People",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Federal Reserve Bank of New York", "url": "https://www.newyorkfed.org/newsevents/news/research/2005/rp050707"},
+      {"name": "NYC Dept. of City Planning", "url": "https://www.nyc.gov/assets/planning/download/pdf/data-maps/nyc-population/nny2013/chapter2.pdf"}
+    ],
+    "confidence": "high",
+    "icon": "🌍"
+  }
+]

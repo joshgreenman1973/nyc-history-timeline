@@ -1,0 +1,272 @@
+[
+  {
+    "date": "May 10, 1849",
+    "sortKey": 1849,
+    "title": "Astor Place Riot over rival Shakespeareans",
+    "blurb": "A feud between American actor Edwin Forrest and English actor William Macready over who best played Shakespeare erupted into a deadly riot outside the Astor Opera House. Between 22 and 31 people were killed and more than 120 injured.",
+    "detail": "The clash channeled class and nativist resentment, pitting working-class Forrest partisans against the wealthy patrons of the aristocratic opera house. State militia fired into the crowd, making it one of the deadliest civic disturbances in Manhattan history. The Astor Opera House never recovered its reputation and closed within a few years, earning the nickname the \"Massacre Opera House.\"",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Folger Shakespeare Library", "url": "https://www.folger.edu/blogs/shakespeare-and-beyond/astor-place-riot-macbeth-new-york/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Astor_Place_Riot"}
+    ],
+    "confidence": "high",
+    "icon": "🎭"
+  },
+  {
+    "date": "December 7, 1842",
+    "sortKey": 1842,
+    "title": "New York Philharmonic gives its first concert",
+    "blurb": "The Philharmonic Society of New York, founded by conductor Ureli Corelli Hill, played its debut concert at the Apollo Rooms on lower Broadway before an audience of about 600. It is the oldest symphony orchestra in the United States.",
+    "detail": "The three-hour program opened with Beethoven's Symphony No. 5, led by Hill himself, and mixed chamber music and operatic selections as was the custom. The musicians ran the society as a cooperative, voting on membership, repertoire and who would conduct. The orchestra would later become a resident company of Lincoln Center.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "New York Philharmonic", "url": "https://www.nyphil.org/explore-more/history/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/New_York_Philharmonic"}
+    ],
+    "confidence": "high",
+    "icon": "🎻"
+  },
+  {
+    "date": "October 22, 1883",
+    "sortKey": 1883,
+    "title": "Metropolitan Opera House opens on Broadway",
+    "blurb": "The original Metropolitan Opera House opened at Broadway and 39th Street with a performance of Gounod's Faust starring soprano Christine Nilsson. It was built by newly wealthy families shut out of the older Academy of Music.",
+    "detail": "Designed by J. Cleaveland Cady, the house seated more than 3,000 and was meant to outshine the Academy in every way, including its many private boxes for the city's rising industrialists. The company anchored New York's musical life for generations. It moved to its present home at Lincoln Center in 1966.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "History Today", "url": "https://www.historytoday.com/archive/months-past/opening-new-york%E2%80%99s-metropolitan-opera-house"},
+      {"name": "Library of Congress", "url": "https://guides.loc.gov/chronicling-america-metropolitan-opera-house"}
+    ],
+    "confidence": "high",
+    "icon": "🎶"
+  },
+  {
+    "date": "c. 1893",
+    "sortKey": 1893,
+    "title": "Tin Pan Alley makes 28th Street the sound of America",
+    "blurb": "Beginning around 1893, music publishers clustered on West 28th Street between Fifth and Sixth Avenues, a strip soon nicknamed Tin Pan Alley. It became the engine of American popular song.",
+    "detail": "M. Witmark and Sons was the first to relocate to the block, and by the late 1890s most publishers had followed. Songwriters and \"song pluggers\" pounded pianos in dozens of offices, driving the sheet-music trade that put popular music in American parlors. Largely built by Jewish immigrant and Black American talent, it shaped popular music through the 1920s.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "NYC Landmarks Preservation Commission", "url": "https://www.nyc.gov/site/lpc/about/pr2019/lpc-designates-five-historic-buildings-associated-with-tin-pan-alley.page"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Tin_Pan_Alley"}
+    ],
+    "confidence": "high",
+    "icon": "🎹"
+  },
+  {
+    "date": "November 27, 1924",
+    "sortKey": 1924,
+    "title": "First Macy's Thanksgiving parade steps off",
+    "blurb": "Macy's held its first Thanksgiving morning parade, then billed as the Macy's Christmas Parade, to launch the holiday shopping season at its Herald Square flagship. Employees marched as clowns and cowboys alongside animals borrowed from the Central Park Zoo.",
+    "detail": "Many of the marchers were immigrant workers who modeled the event on festive parades from their home countries. Floats followed a Mother Goose theme to match Macy's store windows and four bands provided the music. It was such a hit that Macy's announced the next morning it would do it again, and the giant balloons arrived in 1927.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Library of Congress", "url": "https://guides.loc.gov/this-month-in-business-history/november/macys-thanksgiving-parade"},
+      {"name": "HISTORY", "url": "https://www.history.com/articles/the-first-macys-thanksgiving-day-parade"}
+    ],
+    "confidence": "high",
+    "icon": "🎈"
+  },
+  {
+    "date": "December 27, 1927",
+    "sortKey": 1927,
+    "title": "\"Show Boat\" premieres and reinvents the musical",
+    "blurb": "Jerome Kern and Oscar Hammerstein II's \"Show Boat\" opened at the Ziegfeld Theatre, weaving serious themes of race and heartbreak into a Broadway musical for the first time. It ran 572 performances.",
+    "detail": "Produced by Florenz Ziegfeld, the show broke from frothy revues by tying songs like \"Ol' Man River\" directly to plot and character. Critics were immediately enthusiastic and it became a landmark in American musical theater. It is widely regarded as the first modern book musical.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "PBS Broadway: The American Musical", "url": "https://www.pbs.org/wnet/broadway/shows/show-boat/"},
+      {"name": "Rodgers & Hammerstein", "url": "https://rodgersandhammerstein.com/production/show-boat/1927-original-broadway/"}
+    ],
+    "confidence": "high",
+    "icon": "🚢"
+  },
+  {
+    "date": "November 18, 1931",
+    "sortKey": 1931,
+    "title": "Whitney Museum of American Art opens",
+    "blurb": "Founded in 1930 by sculptor and heiress Gertrude Vanderbilt Whitney, the museum opened on West Eighth Street in Greenwich Village with some 700 works. It was devoted entirely to living American artists.",
+    "detail": "Whitney created it after the Metropolitan Museum declined her gift of hundreds of American modern works. She appointed her longtime assistant Juliana Force as the first director. The museum championed American art that established institutions still overlooked and later moved to the Meatpacking District.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Whitney Museum", "url": "https://whitney.org/about/history"},
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/Whitney-Museum-of-American-Art"}
+    ],
+    "confidence": "high",
+    "icon": "🖼️"
+  },
+  {
+    "date": "January 26, 1934",
+    "sortKey": 1934,
+    "title": "Apollo Theater opens in Harlem",
+    "blurb": "The 125th Street Apollo Theater opened catering to Harlem's Black community, debuting with \"Jazz a la Carte\" headlined by Benny Carter and his orchestra. Its weekly Amateur Night became a launching pad for generations of performers.",
+    "detail": "Amateur Night began in 1934 and was broadcast by radio, drawing raucous crowds who cheered or jeered contestants. Ella Fitzgerald won one of the early contests in November 1934 at age 17. The stage helped launch stars from Billie Holiday to James Brown and remains a Harlem institution.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Apollo Theater", "url": "https://www.apollotheater.org/history"},
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/Apollo-Theater"}
+    ],
+    "confidence": "high",
+    "icon": "🎤"
+  },
+  {
+    "date": "April 6, 1947",
+    "sortKey": 1947,
+    "title": "First Tony Awards honor Broadway",
+    "blurb": "The American Theatre Wing held the first Antoinette Perry Awards in the Grand Ballroom of the Waldorf-Astoria, honoring excellence on Broadway. The awards were nicknamed the \"Tonys\" during the ceremony itself.",
+    "detail": "They were created in memory of Antoinette \"Tony\" Perry, a Theatre Wing co-founder who had died in 1946. About 1,200 members of the theater community attended, with performances by Mickey Rooney and Ethel Waters. Thirteen winners were named in ten categories, and early recipients received scrolls and cigarette lighters rather than the now-familiar medallion.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Tony Awards", "url": "https://www.tonyawards.com/history/our-history/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/1st_Tony_Awards"}
+    ],
+    "confidence": "high",
+    "icon": "🏆"
+  },
+  {
+    "date": "October 21, 1959",
+    "sortKey": 1959,
+    "title": "Frank Lloyd Wright's Guggenheim opens",
+    "blurb": "The Solomon R. Guggenheim Museum opened on Fifth Avenue, its spiraling white concrete ramp unlike any museum before it. Architect Frank Lloyd Wright had died six months earlier, never seeing it completed.",
+    "detail": "Wright designed a continuous ramp so visitors could view art in one flowing descent, a radical break from the boxy gallery. The building drew criticism that its curved walls fought the paintings, but it became one of America's most beloved and recognizable structures. It remains a landmark of Museum Mile.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Guggenheim Museum", "url": "https://www.guggenheim.org/about-us/history"},
+      {"name": "HISTORY", "url": "https://www.history.com/this-day-in-history/october-21/guggenheim-museum-opens-in-new-york-city"}
+    ],
+    "confidence": "high",
+    "icon": "🐚"
+  },
+  {
+    "date": "June 18, 1962",
+    "sortKey": 1962,
+    "title": "Free Shakespeare opens the Delacorte Theater",
+    "blurb": "Joseph Papp's Delacorte Theater opened in Central Park with a free production of \"The Merchant of Venice\" starring George C. Scott as Shylock. Free Shakespeare in the Park has run nearly every summer since.",
+    "detail": "Papp had founded the New York Shakespeare Festival in 1954 and won use of the park for free performances. The first summer season also featured James Earl Jones as Caliban in \"The Tempest.\" Papp's organization went on to open the Public Theater downtown in 1967.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "The Public Theater", "url": "https://publictheater.org/free-shakespeare-in-the-park/about-fsitp/a-history-of-free-shakespeare-in-the-park/"},
+      {"name": "National Endowment for the Humanities", "url": "https://www.neh.gov/article/joe-papp-and-transformation-american-theater"}
+    ],
+    "confidence": "high",
+    "icon": "🎭"
+  },
+  {
+    "date": "September 23, 1962",
+    "sortKey": 1962,
+    "title": "Lincoln Center opens with Philharmonic Hall",
+    "blurb": "Leonard Bernstein conducted the inaugural concert at Philharmonic Hall, the first building of the new Lincoln Center for the Performing Arts. The event was broadcast live nationally on CBS.",
+    "detail": "The program included the premiere of Aaron Copland's \"Connotations\" alongside Beethoven, Vaughan Williams and Mahler. Built on the Upper West Side over cleared tenement blocks, the campus consolidated the Philharmonic, the Met and other companies in one arts complex. Philharmonic Hall was later renamed for Avery Fisher and then David Geffen.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Jamie Bernstein", "url": "https://www.jamiebernstein.net/in-the-news/kveller-leonard-bernsteins-daughter-2kph3"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/David_Geffen_Hall"}
+    ],
+    "confidence": "high",
+    "icon": "🎼"
+  },
+  {
+    "date": "September 10, 1963",
+    "sortKey": 1963,
+    "title": "First New York Film Festival opens",
+    "blurb": "The inaugural New York Film Festival opened at Lincoln Center with Luis Buñuel's \"The Exterminating Angel,\" programmed by Richard Roud and Amos Vogel. The ten-day event presented 20 new features to near sellout crowds.",
+    "detail": "Unlike competitive festivals, it was curated as a showcase of the best world cinema with no prizes. The first lineup introduced New York to Roman Polanski's debut \"Knife in the Water\" and Yasujiro Ozu's final film. It helped make the city a center of film culture and art-house distribution.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Film at Lincoln Center", "url": "https://www.filmlinc.org/nyff/1st-new-york-film-festival/"},
+      {"name": "Britannica", "url": "https://www.britannica.com/art/New-York-Film-Festival"}
+    ],
+    "confidence": "high",
+    "icon": "🎬"
+  },
+  {
+    "date": "1964",
+    "sortKey": 1964,
+    "title": "Warhol's Silver Factory opens on 47th Street",
+    "blurb": "Andy Warhol moved his studio into a fifth-floor loft at 231 East 47th Street, which assistant Billy Linich soon wrapped in silver foil and paint. The Silver Factory became the hub of 1960s Pop art and downtown celebrity.",
+    "detail": "Warhol found the space in late 1963 and had settled in by January 1964. There he mass-produced silkscreen paintings, shot experimental films and hosted a floating cast of artists, musicians and \"superstars.\" The Velvet Underground rehearsed there, and the Factory helped fuse fine art with pop celebrity.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Factory"},
+      {"name": "Revolver Gallery", "url": "https://revolverwarholgallery.com/about-andy-warhol/the-factory/"}
+    ],
+    "confidence": "high",
+    "icon": "🥫"
+  },
+  {
+    "date": "October 31, 1973",
+    "sortKey": 1973,
+    "title": "Nuyorican Poets Cafe is born",
+    "blurb": "Poet and professor Miguel Algarin opened his Lower East Side apartment to a collective of Puerto Rican writers, founding what became the Nuyorican Poets Cafe. It gave voice to the Nuyorican literary movement and later popularized poetry slams.",
+    "detail": "Co-founders included playwright Miguel Piñero and poets Pedro Pietri, Bimbo Rivas and Lucky Cienfuegos. As crowds outgrew the apartment, Algarin rented a nearby bar and by 1980 the group bought its permanent home at 236 East 3rd Street. The cafe became a landmark of poetry, theater and music for marginalized artists.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Nuyorican Poets Cafe", "url": "https://www.nuyorican.org/history-awards"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Nuyorican_Poets_Caf%C3%A9"}
+    ],
+    "confidence": "high",
+    "icon": "🎙️"
+  },
+  {
+    "date": "December 10, 1973",
+    "sortKey": 1973,
+    "title": "CBGB opens on the Bowery",
+    "blurb": "Hilly Kristal opened CBGB at 315 Bowery, its name standing for Country, Bluegrass and Blues. Within two years it became the birthplace of American punk and new wave.",
+    "detail": "The Ramones, Television, Patti Smith, Blondie and Talking Heads all built their followings on its cramped stage. Kristal's willingness to book bands playing original music turned the dive bar into a scene. Scholars credit CBGB as the venue where punk took root in New York before spreading to Britain.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Village Preservation", "url": "https://villagepreservation.org/2024/08/16/the-beginnings-of-punk-in-the-east-village-how-the-ramones-came-to-cbgb/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/CBGB"}
+    ],
+    "confidence": "high",
+    "icon": "🎸"
+  },
+  {
+    "date": "October 11, 1975",
+    "sortKey": 1975,
+    "title": "\"Saturday Night Live\" debuts on NBC",
+    "blurb": "NBC aired the first episode of the live sketch show, then titled \"NBC's Saturday Night,\" hosted by George Carlin from Studio 8H at Rockefeller Center. It introduced the \"Not Ready for Prime Time Players.\"",
+    "detail": "The original cast included John Belushi, Gilda Radner, Dan Aykroyd, Chevy Chase and Jane Curtin, with Andy Kaufman among the first-night performers. Carlin never appeared in sketches, delivering only stand-up. The show became a durable launchpad for American comedy and a fixture of New York broadcasting.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "NBC Insider", "url": "https://www.nbc.com/nbc-insider/george-carlin-first-snl-episode-wasnt-in-sketches"},
+      {"name": "Open Culture", "url": "https://www.openculture.com/?p=1122246"}
+    ],
+    "confidence": "high",
+    "icon": "📺"
+  },
+  {
+    "date": "1984",
+    "sortKey": 1984,
+    "title": "Def Jam is founded in an NYU dorm",
+    "blurb": "NYU student Rick Rubin and Queens promoter Russell Simmons started Def Jam Recordings out of Rubin's dorm room in Weinstein Hall. It became the most influential hip-hop label of its era.",
+    "detail": "Early releases listed the mailing address as a university dorm and included LL Cool J's \"I Need a Beat\" and the Beastie Boys' \"Rock Hard.\" Rubin's stripped-down production and Simmons's promotional instincts helped carry hip-hop into the mainstream. The label went on to define rap for a generation.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "NPR", "url": "https://www.npr.org/2011/10/09/141181876/rick-rubin-russell-simmons-def-jams-first-25-years"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Def_Jam_Recordings"}
+    ],
+    "confidence": "high",
+    "icon": "💿"
+  }
+]

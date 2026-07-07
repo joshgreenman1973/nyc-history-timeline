@@ -199,6 +199,19 @@ body{
 .event.left .card::before{left:auto;right:0}
 .card:hover{border-color:var(--brass-deep);transform:translateY(-3px);
   box-shadow:0 18px 44px rgba(0,0,0,.45),0 0 0 1px rgba(216,169,75,.15)}
+.card-img{position:relative;margin:-20px -22px 15px;overflow:hidden;border-bottom:2px solid var(--era)}
+.event.left .card-img{margin:-20px -22px 15px}
+.card-img img{display:block;width:100%;height:150px;object-fit:cover;
+  filter:saturate(.72) contrast(1.02) brightness(.82) sepia(.16);transition:.5s;
+  background:var(--panel-2)}
+.card:hover .card-img img{filter:saturate(.95) contrast(1.03) brightness(.98) sepia(.05);transform:scale(1.03)}
+.card-img::after{content:'';position:absolute;inset:0;pointer-events:none;
+  background:linear-gradient(180deg,rgba(10,15,28,.15),rgba(10,15,28,.55))}
+.img-cr{position:absolute;bottom:5px;right:8px;z-index:2;font-family:var(--narrow);font-size:8.5px;
+  letter-spacing:.04em;color:rgba(246,243,234,.62);text-transform:uppercase;max-width:70%;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-align:right}
+.event[data-weight="1"] .card-img{margin:-26px -26px 16px}
+.event[data-weight="1"] .card-img img{height:210px}
 .card .yr{font-family:var(--serif);font-weight:600;font-size:clamp(34px,5vw,46px);line-height:.9;
   color:var(--brass-2);letter-spacing:-.02em;display:flex;align-items:baseline;gap:10px;justify-content:inherit}
 .event.left .card .yr{flex-direction:row-reverse}
@@ -345,7 +358,7 @@ footer .fq{font-family:var(--serif);font-style:italic;font-size:19px;color:var(-
   </div>
   <div class="filters" id="filters">
     <div class="filter-row" style="margin-bottom:9px">
-      <input class="search" id="search" placeholder="Search 287 moments — people, places, events…" />
+      <input class="search" id="search" placeholder="Search 331 moments — people, places, events…" />
       <span class="hitcount" id="hitcount"></span>
     </div>
     <div class="filter-row" style="margin-bottom:9px">
@@ -388,6 +401,8 @@ footer .fq{font-family:var(--serif);font-style:italic;font-size:19px;color:var(-
     <p>Each event was checked against reputable references. Every card carries a direct link to a source — encyclopedic, governmental, archival or scholarly — so you can verify the claim yourself. Dates that are approximate or contested are marked <em>c.</em> and flagged with a "medium" confidence label.</p>
     <h4>Editorial notes</h4>
     <p>Descriptions aim to state facts without editorializing. Where a date is traditionally given but debated by historians, the traditional date is used and noted. This project favors clarity over completeness: many worthy moments were left out to keep the story legible.</p>
+    <h4>Images</h4>
+    <p>Card images are representative lead images drawn from each subject's Wikipedia article via the Wikimedia API — often a period engraving, painting or photograph, and for still-standing landmarks a contemporary photo. Each image is credited in the corner of its card and remains hosted by Wikimedia Commons under its own license.</p>
     <h4>Every source, by year</h4>
     <ul id="srcList"></ul>
   </div>

@@ -1,0 +1,227 @@
+[
+  {
+    "date": "August 4, 1735",
+    "sortKey": 1735,
+    "title": "Zenger acquitted, an early press-freedom victory",
+    "blurb": "A New York jury acquitted printer John Peter Zenger of seditious libel for criticizing the colonial governor, establishing truth as a defense and a landmark for a free press.",
+    "detail": "Zenger printed the New-York Weekly Journal, which attacked Governor William Cosby, and was jailed for eight months before trial. His lawyer Andrew Hamilton argued that a true statement could not be libel, and the jury returned a not-guilty verdict in about ten minutes. The case became a founding symbol of American press freedom decades before the First Amendment.",
+    "category": "Civil Rights & Protest",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "Historical Society of the New York Courts", "url": "https://history.nycourts.gov/case/crown-v-zenger/"},
+      {"name": "Britannica", "url": "https://www.britannica.com/biography/John-Peter-Zenger"}
+    ],
+    "confidence": "high",
+    "icon": "📰"
+  },
+  {
+    "date": "March 31, 1736",
+    "sortKey": 1736,
+    "title": "Bellevue begins, the oldest US public hospital",
+    "blurb": "A six-bed infirmary opened on the second floor of New York's new public almshouse, the seed of Bellevue Hospital and the oldest continuously operating public hospital in the United States.",
+    "detail": "The almshouse stood on the city common, today's City Hall Park, and its infirmary treated the poor and the sick. In 1798 the city bought the Belle Vue farm by the East River to quarantine fever patients, and the hospital took the Bellevue name formally in 1824. It later pioneered the ambulance, the maternity ward and America's first nursing school and children's clinic.",
+    "category": "Founding & Colonial",
+    "era": "Colonial & Revolutionary (1664–1783)",
+    "sources": [
+      {"name": "NYC Health + Hospitals/Bellevue", "url": "https://www.nychealthandhospitals.org/bellevue/about/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bellevue_Hospital"}
+    ],
+    "confidence": "high",
+    "icon": "🏥"
+  },
+  {
+    "date": "March 23, 1857",
+    "sortKey": 1857,
+    "title": "First passenger elevator opens on Broadway",
+    "blurb": "Elisha Otis installed the world's first successful passenger elevator at the E.V. Haughwout store at 488 Broadway, making it safe to lift people between floors and clearing the way for tall buildings.",
+    "detail": "The steam-powered hydraulic lift cost about $300 and carried shoppers between the five-story department store's floors at roughly two-thirds of a foot per second. Otis did not invent the elevator; his innovation was a safety brake that stopped a car from falling if its cable snapped. Paired with steel-frame construction, the safe elevator made the skyscraper possible.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Village Preservation", "url": "https://villagepreservation.org/2021/03/23/the-technological-breakthrough-in-our-midst-that-allowed-buildings-to-grow-tall/"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/E._V._Haughwout_Building"}
+    ],
+    "confidence": "high",
+    "icon": "🛗"
+  },
+  {
+    "date": "September 1, 1858",
+    "sortKey": 1858,
+    "title": "City fetes the transatlantic telegraph cable",
+    "blurb": "New York threw a citywide jubilee for the first transatlantic telegraph cable, with a 100-gun salute, a Trinity Church service and a Broadway parade drawing hundreds of thousands.",
+    "detail": "In August 1858 Queen Victoria and President James Buchanan exchanged the first messages over the new cable, cutting communication between continents from weeks to minutes. Crowds estimated from half a million to a million people jammed the streets, and an evening fireworks display accidentally set City Hall's roof ablaze. The cable failed within weeks, and a durable link was not achieved until 1866.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Atlas Obscura", "url": "https://www.atlasobscura.com/articles/atlantic-cable-carnival-broadway-parade-1858"},
+      {"name": "Atlantic Cable history", "url": "https://atlantic-cable.com/1858NY/"}
+    ],
+    "confidence": "high",
+    "icon": "🎉"
+  },
+  {
+    "date": "February 1875",
+    "sortKey": 1875,
+    "title": "Western Union tower rises over Broadway",
+    "blurb": "The Western Union Telegraph Building opened at Broadway and Dey Street, a 230-foot headquarters that was among the tallest structures in the city and an early ancestor of the skyscraper.",
+    "detail": "Designed by George B. Post after a competition, the eleven-story building carried a clock tower and mansard roof and centralized Western Union's national telegraph network in Lower Manhattan. At its debut only Trinity Church, the Tribune Building and the rising Brooklyn Bridge towers stood taller. It anchored the district that would remain the nerve center of American telecommunications for a century.",
+    "category": "Economy & Money",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Western_Union_Telegraph_Building"},
+      {"name": "Skyscraper Museum via Urban Archive", "url": "https://urbanarchive.org/o/skyscrapermuseum/c/482c9211-4a6f-4ea2-a27d-ab8703811ae2"}
+    ],
+    "confidence": "high",
+    "icon": "📡"
+  },
+  {
+    "date": "1883",
+    "sortKey": 1883,
+    "title": "Pulitzer buys the World, launching a press war",
+    "blurb": "Joseph Pulitzer bought the New York World and drove its circulation from 15,000 to 600,000, setting off the sensational newspaper rivalry with William Randolph Hearst that came to define yellow journalism.",
+    "detail": "Pulitzer paired crusades against corruption with lurid crime and stunt reporting to win the country's largest readership. When Hearst bought the rival New York Journal in 1895 and hired away the World's popular Yellow Kid cartoon, the two papers escalated a circulation battle. Their inflammatory coverage, especially around the 1898 sinking of the USS Maine, helped push the nation toward the Spanish-American War.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/yellow-journalism"},
+      {"name": "The Pulitzer Prizes", "url": "https://www.pulitzer.org/page/biography-joseph-pulitzer"}
+    ],
+    "confidence": "high",
+    "icon": "🗞️"
+  },
+  {
+    "date": "April 22, 1903",
+    "sortKey": 1903,
+    "title": "New York Stock Exchange opens its Broad St. home",
+    "blurb": "The New York Stock Exchange opened its Classical Revival building at 18 Broad Street, a $4 million temple of finance whose columned facade became a global symbol of American capitalism.",
+    "detail": "George B. Post designed the structure, and its trading floor was among the largest interior spaces in the city, lit by a 72-foot skylight. The pediment sculpture by John Quincy Adams Ward depicts commerce and industry. The building was made a National Historic Landmark in 1978 and a city landmark in 1985.",
+    "category": "Economy & Money",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/New_York_Stock_Exchange_Building"},
+      {"name": "National Park Service", "url": "https://www.nps.gov/places/new-york-stock-exchange.htm"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "November 16, 1914",
+    "sortKey": 1914,
+    "title": "Federal Reserve Bank of New York opens",
+    "blurb": "The Federal Reserve Bank of New York opened for business in rented Cedar Street offices, becoming the most powerful of the twelve regional Reserve Banks and the Fed's link to Wall Street.",
+    "detail": "It opened under Benjamin Strong Jr. less than a year after Congress created the Federal Reserve System. On its first day a staff of seven officers and 85 clerks took in nearly $100 million in deposits from 479 member banks. The New York Fed came to conduct the Fed's open-market operations and guard much of the world's monetary gold.",
+    "category": "Economy & Money",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Federal Reserve History", "url": "https://www.federalreservehistory.org/essays/new-york-fed"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_New_York"}
+    ],
+    "confidence": "high",
+    "icon": "🏦"
+  },
+  {
+    "date": "1916",
+    "sortKey": 1916,
+    "title": "Polio epidemic paralyzes the city",
+    "blurb": "A polio epidemic officially declared in Brooklyn in June 1916 caused roughly 9,000 cases and about 2,000 deaths in New York City, most of them young children.",
+    "detail": "At the height of the outbreak in early August the city recorded more than 1,100 cases and 301 deaths in a single week. Officials published the names and addresses of the infected, placarded their homes and quarantined families, while neighboring cities barred New Yorkers at ferry docks and rail stations. The terror of the disease drove decades of research that culminated in the Salk vaccine of 1955.",
+    "category": "Disaster & Crisis",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/1916_New_York_City_polio_epidemic"},
+      {"name": "The Conversation", "url": "https://theconversation.com/how-a-virus-brought-new-york-to-a-standstill-in-the-summer-of-1916-134955"}
+    ],
+    "confidence": "high",
+    "icon": "🦠"
+  },
+  {
+    "date": "May 1925",
+    "sortKey": 1925,
+    "title": "Air conditioning cools the Rivoli Theatre",
+    "blurb": "Willis Carrier installed a centrifugal chiller at the Rivoli Theatre in Times Square, one of the first buildings cooled for public comfort and the start of the air-conditioned summer.",
+    "detail": "Carrier had built the first modern industrial air-conditioning system in a Brooklyn printing plant in 1902, but the Rivoli made cooling a mass public draw. Crowds flocked to the cool movie house on hot days, and rival theaters raced to install their own systems. The result helped invent the summer blockbuster and, over time, reshaped where Americans could live and work.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Willis Carrier history", "url": "https://www.williscarrier.com/timeline/"},
+      {"name": "ACHR News", "url": "https://www.achrnews.com/articles/165867-1925-air-conditioning-comes-to-the-theater"}
+    ],
+    "confidence": "high",
+    "icon": "❄️"
+  },
+  {
+    "date": "October 30, 1975",
+    "sortKey": 1975,
+    "title": "\"Ford to City: Drop Dead\"",
+    "blurb": "The Daily News ran its famous headline after President Gerald Ford signaled he would deny a federal bailout to a New York City on the edge of bankruptcy during its 1975 fiscal crisis.",
+    "detail": "A decade of borrowing to fund payroll and social services had left the city unable to meet its debts, forcing firehouse closures, teacher strikes and uncollected garbage. Ford never spoke the words \"drop dead,\" but the backlash was so strong that he approved $2.3 billion in loans within months. The crisis ushered in austerity, state oversight and a lasting shift in how the city managed its money.",
+    "category": "Economy & Money",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ford_to_City:_Drop_Dead"},
+      {"name": "NPR Planet Money", "url": "https://www.npr.org/2025/10/15/nx-s1-5575106/new-york-city-1975-default"}
+    ],
+    "confidence": "high",
+    "icon": "💸"
+  },
+  {
+    "date": "March 1987",
+    "sortKey": 1987,
+    "title": "ACT UP forms to fight the AIDS crisis",
+    "blurb": "The AIDS Coalition to Unleash Power formed in Greenwich Village and, days later, staged its first Wall Street protest demanding faster access to experimental drugs.",
+    "detail": "The group grew out of a March 12 speech by writer Larry Kramer at the Lesbian and Gay Community Services Center. On March 24 about 250 members shut down traffic at Wall Street and Broadway to demand a national policy and cheaper treatment. ACT UP's confrontational direct action is credited with speeding drug approvals and reshaping how patients influence medical research.",
+    "category": "Civil Rights & Protest",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Museum of the City of New York", "url": "https://www.mcny.org/story/act-hivaids-and-fight-healthcare"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/ACT_UP"}
+    ],
+    "confidence": "high",
+    "icon": "🎗️"
+  },
+  {
+    "date": "c. 1995",
+    "sortKey": 1995,
+    "title": "\"Silicon Alley\" names the city's dot-com boom",
+    "blurb": "The nickname Silicon Alley took hold for the cluster of internet startups rising around the Flatiron district, marking New York's entry into the dot-com boom.",
+    "detail": "The label, coined around 1995, cast the Flatiron and SoHo area as an East Coast answer to Silicon Valley. Firms such as DoubleClick, Razorfish and About.com were founded there, boosted by Columbia and NYU and by trade outlets like @NY. The bubble burst in the early 2000s recession, but the district seeded the tech economy that later spread across the whole city.",
+    "category": "Economy & Money",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Silicon_Alley"},
+      {"name": "The History of the Web", "url": "https://thehistoryoftheweb.com/from-the-valley-to-the-alley/"}
+    ],
+    "confidence": "medium",
+    "icon": "💻"
+  },
+  {
+    "date": "July 2002",
+    "sortKey": 2002,
+    "title": "Fresh Kills recovery operation ends",
+    "blurb": "A ten-month recovery operation at Staten Island's Fresh Kills landfill wound down after workers sifted roughly 1.4 million tons of World Trade Center debris for human remains and evidence.",
+    "detail": "From September 2001 wreckage from Ground Zero was barged to the recently closed landfill, where crews screened material as finely as a quarter-inch sieve. The effort recovered thousands of human remains and tens of thousands of personal items and pieces of evidence. Many workers later suffered lasting health effects, and the site is slowly being transformed into Freshkills Park.",
+    "category": "Disaster & Crisis",
+    "era": "21st Century (2001–present)",
+    "sources": [
+      {"name": "DSNY 9/11 Exhibit", "url": "https://www.dsnyremembers.org/fresh-kills-recovery"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Fresh_Kills_Landfill"}
+    ],
+    "confidence": "high",
+    "icon": "🕯️"
+  },
+  {
+    "date": "May 31, 2019",
+    "sortKey": 2019,
+    "title": "OMNY brings tap-to-pay to the subway",
+    "blurb": "The MTA launched OMNY, its contactless tap-to-pay fare system, at 16 subway stations and on Staten Island buses, beginning the long goodbye to the MetroCard.",
+    "detail": "Riders could tap a contactless bank card, phone or watch instead of swiping a magnetic-stripe card. The system passed a million taps within ten weeks, helped along by Mastercard's \"Fareback Fridays\" promotion. Rollout across all subway stations and buses finished on December 31, 2020, and the MetroCard is being phased out.",
+    "category": "Infrastructure & Building",
+    "era": "21st Century (2001–present)",
+    "sources": [
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/OMNY"},
+      {"name": "MTA", "url": "https://www.mta.info/fares-tolls/subway-bus/tap-and-ride"}
+    ],
+    "confidence": "high",
+    "icon": "📲"
+  }
+]
