@@ -153,13 +153,22 @@
       var srcHtml = srcArr.map(function(s){
         return '<a class="src" href="'+esc(s.url)+'" target="_blank" rel="noopener">▸ '+esc(s.name)+'</a>';
       }).join('');
-      var hasDetail = !!e.detail;
+      var primHtml = (e.primary && e.primary.url)
+        ? '<a class="src primary" href="'+esc(e.primary.url)+'" target="_blank" rel="noopener" title="Verified primary source">▣ '+esc(e.primary.name)+'</a>'
+        : '';
       var imgHtml = (e.image && e.weight!==3)
         ? '<div class="card-img"><img loading="lazy" src="'+esc(e.image)+'" alt="'+esc(e.title)+'"><span class="img-cr">'+esc(e.imageCredit||'')+' · Wikimedia</span></div>'
         : '';
-      var detailHtml = hasDetail ? '<div class="detail"><p>'+esc(e.detail)+'</p></div>' : '';
-      var moreBtn = hasDetail ? '<button class="more" type="button">Read more <span class="chev">↓</span></button>' : '';
-      var searchTxt = (e.title+' '+e.blurb+' '+(e.detail||'')+' '+e.date+' '+e.category).toLowerCase();
+      var h = e.historian;
+      var histHtml = h ? '<div class="hist"><span class="hist-label">Historian’s lens</span>'
+        +'<p class="hist-take">'+esc(h.take)+'</p>'
+        +(h.who ? '<a class="hist-who"'+(h.url?' href="'+esc(h.url)+'" target="_blank" rel="noopener"':'')+'>'+esc(h.who)+(h.work?', <em>'+esc(h.work)+'</em>':'')+'</a>' : '')
+        +'</div>' : '';
+      var hasExpand = !!(e.detail || h);
+      var detailHtml = hasExpand ? '<div class="detail">'+(e.detail?'<p>'+esc(e.detail)+'</p>':'')+histHtml+'</div>' : '';
+      var moreBtn = hasExpand ? '<button class="more" type="button">Read more <span class="chev">↓</span></button>' : '';
+      var hasDetail = hasExpand;
+      var searchTxt = (e.title+' '+e.blurb+' '+(e.detail||'')+' '+(h?h.take+' '+h.who+' '+h.work:'')+' '+e.date+' '+e.category).toLowerCase();
       var pd = parseDate(e.date);
       html+='<article class="event '+side+(hasDetail?' has-detail':'')+'" data-cat="'+esc(e.category)+'" data-search="'+esc(searchTxt)+'" data-month="'+pd.mo+'" data-day="'+pd.day+'" data-year="'+(pd.yr||e.sortKey)+'" data-weight="'+(e.weight||2)+'" style="--era:'+er.color+'">'
         +'<span class="node"></span>'
@@ -172,6 +181,7 @@
           + detailHtml
           +'<div class="meta">'
             +'<span class="tag" style="background:'+color+'">'+esc(shortCat(e.category))+'</span>'
+            + primHtml
             + srcHtml
             + conf
             + moreBtn

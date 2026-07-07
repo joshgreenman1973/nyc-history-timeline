@@ -99,6 +99,24 @@ def main():
     if os.path.exists(imgpath):
         try: IMAGES = json.load(open(imgpath))
         except Exception: IMAGES = {}
+    # optional historian's-lens notes from hist_*.json (arrays of {title,who,work,take,url})
+    HIST = {}
+    for hf in sorted(glob.glob(os.path.join(HERE, "hist_*.json"))):
+        try:
+            for h in json.load(open(hf)):
+                HIST[re.sub(r'[^a-z0-9]', '', h.get("title","").lower())] = {
+                    k: h[k] for k in ("who","work","take","url") if k in h}
+        except Exception: pass
+    # optional verified primary/original sources from primary_*.json
+    PRIMARY = {}
+    for pf in sorted(glob.glob(os.path.join(HERE, "primary_*.json"))):
+        try:
+            for x in json.load(open(pf)):
+                p = x.get("primary")
+                if p and p.get("url"):
+                    PRIMARY[re.sub(r'[^a-z0-9]', '', x.get("title","").lower())] = {
+                        "name": p.get("name",""), "url": p["url"]}
+        except Exception: pass
     files = sorted(glob.glob(os.path.join(HERE, "era*.json")))
     if not files:
         print("No part files found in", HERE); sys.exit(1)
@@ -147,6 +165,12 @@ def main():
         if img:
             e["image"] = img.get("src")
             e["imageCredit"] = img.get("credit","")
+        h = HIST.get(norm_title(e.get("title","")))
+        if h:
+            e["historian"] = {kk: clean(vv) for kk, vv in h.items()}
+        p = PRIMARY.get(norm_title(e.get("title","")))
+        if p:
+            e["primary"] = {"name": clean(p["name"]), "url": p["url"]}
         # dedupe by normalized title
         key = norm_title(e.get("title",""))
         if key in seen:
