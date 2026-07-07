@@ -7,23 +7,23 @@
 <meta name="description" content="A printed record of New York City history, from Lenapehoking to the present, built on verified historical sources." />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&family=Bodoni+Moda:ital,opsz,wght@0,6..96,500..900;1,6..96,500..700&family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..600&family=Archivo+Narrow:wght@500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..600&family=Archivo+Narrow:wght@500;600;700&display=swap" rel="stylesheet">
 <style>
 :root{
-  --paper:#f2ebda;
-  --paper-2:#eae1cc;
-  --card:#f8f2e4;
-  --ink:#1c1712;
-  --ink-soft:#4d4438;
-  --ink-faint:#8a8072;
-  --red:#b1291a;
-  --red-deep:#8a1d11;
-  --rule:#d4c9b1;
-  --rule-mid:#bcae92;
+  --paper:#f4dccd;
+  --paper-2:#eecdba;
+  --card:#f9e4d8;
+  --ink:#25190f;
+  --ink-soft:#5f4a3a;
+  --ink-faint:#9c8271;
+  --red:#a5271a;
+  --red-deep:#821b11;
+  --rule:#dcbfab;
+  --rule-mid:#caa88f;
   --era:#9a3b2b;
   --era-soft:rgba(154,59,43,.10);
 
-  --black:'UnifrakturCook',Georgia,serif;
+  --black:'Bodoni Moda',Georgia,serif;
   --display:'Bodoni Moda',Georgia,'Times New Roman',serif;
   --serif:'Source Serif 4',Georgia,'Times New Roman',serif;
   --narrow:'Archivo Narrow','Arial Narrow',sans-serif;
@@ -38,7 +38,7 @@ body{font-family:var(--serif);color:var(--ink);background:var(--paper);line-heig
 
 /* paper */
 .atmos{position:fixed;inset:0;z-index:-2;pointer-events:none;
-  background:radial-gradient(130% 90% at 50% 0%, #f7f0e1, var(--paper) 58%, #e7ddc7 100%);}
+  background:radial-gradient(130% 90% at 50% 0%, #f7e3d6, var(--paper) 56%, #ecccb8 100%);}
 .grain{position:fixed;inset:0;z-index:-1;pointer-events:none;opacity:.22;mix-blend-mode:multiply;
   background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");}
 
@@ -56,10 +56,10 @@ body{font-family:var(--serif);color:var(--ink);background:var(--paper);line-heig
   font-weight:600;color:var(--ink-soft);padding:9px 0;border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);
   width:min(760px,92%);margin-bottom:clamp(14px,4vh,40px);
   opacity:0;transform:translateY(10px);animation:rise .8s .1s forwards}
-.hero h1{font-family:var(--black);font-weight:700;line-height:.86;
-  font-size:clamp(52px,13vw,168px);letter-spacing:.01em;margin:0;color:var(--ink);text-wrap:balance}
-.hero h1 .l{display:inline-block;opacity:0;transform:translateY(26px);animation:drop .7s cubic-bezier(.2,.7,.2,1) forwards}
-.hero h1 em{font-style:normal;color:var(--ink)}
+.hero h1{font-family:var(--display);font-weight:800;line-height:.9;
+  font-size:clamp(50px,12.5vw,164px);letter-spacing:-.02em;margin:0;color:var(--ink);text-wrap:balance}
+.hero h1 .l{display:inline-block;opacity:0;transform:translateY(24px);animation:drop .7s cubic-bezier(.2,.7,.2,1) forwards}
+.hero h1 em{font-style:italic;font-weight:700;color:var(--ink)}
 .rule-hero{width:min(620px,86%);height:2px;background:var(--ink);margin:clamp(14px,3vh,26px) 0 0;position:relative;
   opacity:0;animation:rise 1s .8s forwards}
 .rule-hero::before,.rule-hero::after{content:'';position:absolute;top:50%;width:7px;height:7px;background:var(--red);transform:translateY(-50%) rotate(45deg)}
@@ -97,8 +97,8 @@ body{font-family:var(--serif);color:var(--ink);background:var(--paper);line-heig
   transform:translateY(-120%);transition:transform .4s ease}
 .controls.show{transform:none}
 .controls-in{max-width:var(--maxw);margin:0 auto;padding:8px 18px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
-.brandmark{font-family:var(--black);font-weight:700;font-size:24px;color:var(--ink);white-space:nowrap;line-height:1}
-.brandmark em{font-style:normal;color:var(--red)}
+.brandmark{font-family:var(--display);font-weight:800;font-size:22px;color:var(--ink);white-space:nowrap;line-height:1;letter-spacing:-.01em}
+.brandmark em{font-style:italic;color:var(--red)}
 .eras{display:flex;gap:2px;flex-wrap:wrap;flex:1;min-width:0}
 .era-pill{font-family:var(--narrow);font-size:11px;letter-spacing:.08em;text-transform:uppercase;
   padding:6px 9px;border:0;border-bottom:2px solid transparent;color:var(--ink-soft);background:none;
@@ -147,7 +147,7 @@ body{font-family:var(--serif);color:var(--ink);background:var(--paper);line-heig
 /* era divider */
 .era-band{position:relative;z-index:2;text-align:center;margin:60px 0 42px;padding:20px 0;
   border-top:4px double var(--ink);border-bottom:1px solid var(--ink)}
-.era-band .rn{font-family:var(--black);font-size:clamp(40px,8vw,76px);font-weight:700;color:var(--era);line-height:1}
+.era-band .rn{font-family:var(--display);font-size:clamp(38px,7vw,68px);font-weight:500;font-style:italic;color:var(--era);line-height:1;letter-spacing:.04em}
 .era-band .en{font-family:var(--narrow);font-weight:700;text-transform:uppercase;letter-spacing:.14em;
   font-size:clamp(14px,2.3vw,21px);color:var(--ink);margin-top:6px}
 .era-band .yr{font-family:var(--narrow);text-transform:uppercase;letter-spacing:.3em;font-size:11px;color:var(--ink-faint);margin-top:8px;font-weight:600}
@@ -187,9 +187,10 @@ body{font-family:var(--serif);color:var(--ink);background:var(--paper);line-heig
 .card .date{font-family:var(--narrow);text-transform:uppercase;letter-spacing:.13em;font-size:10px;color:var(--red);margin-top:3px;font-weight:700}
 .card h3{font-family:var(--serif);font-weight:700;font-size:20px;line-height:1.18;color:var(--ink);margin:9px 0 7px}
 .card p{font-family:var(--serif);font-size:14.5px;color:var(--ink-soft);font-weight:400;line-height:1.5}
-.card .detail{max-height:0;overflow:hidden;opacity:0;transition:max-height .5s ease,opacity .4s ease,margin .4s ease}
+.card,.card *{overflow-wrap:break-word}
+.card .detail{max-height:0;overflow:hidden;opacity:0;transition:max-height .55s ease,opacity .4s ease,margin .4s ease}
 .card .detail>p{font-size:14px;color:var(--ink-soft);border-top:1px solid var(--rule);padding-top:12px}
-.event.expanded .card .detail{max-height:640px;opacity:1;margin-top:10px}
+.event.expanded .card .detail{max-height:4000px;opacity:1;margin-top:10px}
 .more{font-family:var(--narrow);text-transform:uppercase;letter-spacing:.1em;font-size:9.5px;font-weight:700;
   padding:4px 10px;border:1px solid var(--ink-soft);color:var(--ink);background:none;cursor:pointer;transition:.15s}
 .more:hover{background:var(--ink);color:var(--paper)}
@@ -214,7 +215,7 @@ a.hist-who:hover{color:var(--red);border-color:var(--red)}
 .event.left .ework{flex-direction:row-reverse}
 .event.left .extra{text-align:right}
 .ework-ic{font-size:14px;line-height:1.3;flex-shrink:0;filter:grayscale(1)}
-.ework-body{display:flex;flex-direction:column;gap:1px}
+.ework-body{display:flex;flex-direction:column;gap:1px;min-width:0;flex:1}
 .ework-body a{text-decoration:none;border-bottom:1px solid transparent}
 .ework-body a:hover{border-color:var(--red)}
 .ework-body em{font-family:var(--serif);font-style:italic;font-size:15px;color:var(--ink)}

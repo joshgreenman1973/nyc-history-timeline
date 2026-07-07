@@ -149,6 +149,7 @@ def main():
     # clean strings + validate
     seen = {}
     out = []
+    used_images = set()
     warnings = []
     for e in events:
         for k in ("title","blurb","detail","date","category","era","source"):
@@ -178,9 +179,10 @@ def main():
         e["weight"] = weight_for(e.get("title",""))
         # attach cached image if available
         img = IMAGES.get(norm_title(e.get("title","")))
-        if img:
-            e["image"] = img.get("src")
+        if img and img.get("src") and img["src"] not in used_images:
+            e["image"] = img["src"]
             e["imageCredit"] = img.get("credit","")
+            used_images.add(img["src"])
         h = HIST.get(norm_title(e.get("title","")))
         if h:
             e["historian"] = {kk: clean(vv) for kk, vv in h.items()}
