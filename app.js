@@ -5,12 +5,12 @@
 
   // ----- Era definitions (order + color) -----
   var ERAS = [
-    {name:"Lenapehoking & New Amsterdam (pre-1664)", short:"New Amsterdam", rn:"I",   range:"pre-1664",     color:"#2f8a76"},
-    {name:"Colonial & Revolutionary (1664–1783)",    short:"Colonial",     rn:"II",  range:"1664–1783",   color:"#b0503c"},
-    {name:"Empire City Rising (1784–1897)",          short:"Empire City",  rn:"III", range:"1784–1897",   color:"#d8a94b"},
-    {name:"Greater New York (1898–1945)",            short:"Greater NY",   rn:"IV",  range:"1898–1945",   color:"#4d79a8"},
-    {name:"Modern Metropolis (1946–2000)",           short:"Modern",       rn:"V",   range:"1946–2000",   color:"#a4508b"},
-    {name:"21st Century (2001–present)",             short:"21st C.",      rn:"VI",  range:"2001–now",    color:"#3aa0b0"}
+    {name:"Lenapehoking & New Amsterdam (pre-1664)", short:"New Amsterdam", rn:"I",   range:"pre-1664",     color:"#3f6a5c"},
+    {name:"Colonial & Revolutionary (1664–1783)",    short:"Colonial",     rn:"II",  range:"1664–1783",   color:"#9a3b2b"},
+    {name:"Empire City Rising (1784–1897)",          short:"Empire City",  rn:"III", range:"1784–1897",   color:"#9c7420"},
+    {name:"Greater New York (1898–1945)",            short:"Greater NY",   rn:"IV",  range:"1898–1945",   color:"#35597a"},
+    {name:"Modern Metropolis (1946–2000)",           short:"Modern",       rn:"V",   range:"1946–2000",   color:"#6d3a5c"},
+    {name:"21st Century (2001–present)",             short:"21st C.",      rn:"VI",  range:"2001–now",    color:"#2c6d73"}
   ];
   function eraIndex(name){for(var i=0;i<ERAS.length;i++){if(ERAS[i].name===name)return i;}return 2;}
   // sort by era order first, then chronologically within the era
@@ -18,14 +18,14 @@
 
   // Category palette
   var CATCOLOR = {
-    "Founding & Colonial":"#2f8a76",
-    "Politics & Government":"#b0503c",
-    "Infrastructure & Building":"#d8a94b",
-    "Immigration & People":"#4d79a8",
-    "Disaster & Crisis":"#c85c4a",
-    "Culture & Landmarks":"#a4508b",
-    "Civil Rights & Protest":"#3aa0b0",
-    "Economy & Money":"#7ba05b"
+    "Founding & Colonial":"#3f6a5c",
+    "Politics & Government":"#9a3b2b",
+    "Infrastructure & Building":"#9c7420",
+    "Immigration & People":"#35597a",
+    "Disaster & Crisis":"#b1291a",
+    "Culture & Landmarks":"#6d3a5c",
+    "Civil Rights & Protest":"#2c6d73",
+    "Economy & Money":"#5f6f3a"
   };
 
   var $ = function(s,c){return (c||document).querySelector(s);};
@@ -196,7 +196,7 @@
           +'<p>'+esc(e.blurb)+'</p>'
           + detailHtml
           +'<div class="meta">'
-            +'<span class="tag" style="background:'+color+'">'+esc(shortCat(e.category))+'</span>'
+            +'<span class="tag" style="--tc:'+color+'">'+esc(shortCat(e.category))+'</span>'
             + primHtml
             + srcHtml
             + conf
