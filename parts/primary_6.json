@@ -1,0 +1,22 @@
+[
+  {
+    "file": "era6.json",
+    "title": "New Yankee Stadium and Citi Field open",
+    "primary": {"name": "Society for American Baseball Research (SABR) game account", "url": "https://sabr.org/gamesproj/game/april-16-2009-indians-throttle-yankees-in-grand-opening-of-new-yankee-stadium/"}
+  },
+  {
+    "file": "era6.json",
+    "title": "'Miracle on the Hudson' water landing",
+    "primary": {"name": "NTSB Aircraft Accident Report AAR-10/03 (US Airways Flight 1549)", "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1003.pdf"}
+  },
+  {
+    "file": "era6.json",
+    "title": "Trump convicted in Manhattan hush-money trial",
+    "primary": {"name": "Manhattan District Attorney's Office press release (D.A. Bragg announces 34-count conviction)", "url": "https://manhattanda.org/d-a-bragg-announces-34-count-felony-trial-conviction-of-donald-j-trump/"}
+  },
+  {
+    "file": "era7_sports.json",
+    "title": "The Mets play their first home game",
+    "primary": {"name": "Baseball-Reference box score, Pirates at Mets, April 13, 1962 (Polo Grounds)", "url": "https://www.baseball-reference.com/boxes/NYN/NYN196204130.shtml"}
+  }
+]

@@ -164,11 +164,27 @@
         +'<p class="hist-take">'+esc(h.take)+'</p>'
         +(h.who ? '<a class="hist-who"'+(h.url?' href="'+esc(h.url)+'" target="_blank" rel="noopener"':'')+'>'+esc(h.who)+(h.work?', <em>'+esc(h.work)+'</em>':'')+'</a>' : '')
         +'</div>' : '';
-      var hasExpand = !!(e.detail || h);
-      var detailHtml = hasExpand ? '<div class="detail">'+(e.detail?'<p>'+esc(e.detail)+'</p>':'')+histHtml+'</div>' : '';
+      var KIND_ICON = {Film:'🎬',TV:'📺',Novel:'📖',Musical:'🎭',Play:'🎭'};
+      var fictionHtml = (e.fiction && e.fiction.length)
+        ? '<div class="extra"><span class="extra-label">In fiction</span>'+e.fiction.map(function(w){
+            return '<div class="ework"><span class="ework-ic">'+(KIND_ICON[w.kind]||'🎬')+'</span><span class="ework-body">'
+              +(w.url?'<a href="'+esc(w.url)+'" target="_blank" rel="noopener"><em>'+esc(w.work)+'</em></a>':'<em>'+esc(w.work)+'</em>')
+              +' <span class="ework-meta">'+esc(w.kind)+(w.year?', '+esc(w.year):'')+(w.by?' · '+esc(w.by):'')+'</span>'
+              +'<span class="ework-note">'+esc(w.note||'')+'</span></span></div>';
+          }).join('')+'</div>' : '';
+      var readingHtml = (e.reading && e.reading.length)
+        ? '<div class="extra"><span class="extra-label">Further reading</span>'+e.reading.map(function(b){
+            return '<div class="ework"><span class="ework-ic">📚</span><span class="ework-body">'
+              +(b.url?'<a href="'+esc(b.url)+'" target="_blank" rel="noopener"><em>'+esc(b.book)+'</em></a>':'<em>'+esc(b.book)+'</em>')
+              +' <span class="ework-meta">'+esc(b.author||'')+(b.year?', '+esc(b.year):'')+'</span>'
+              +'<span class="ework-note">'+esc(b.note||'')+'</span></span></div>';
+          }).join('')+'</div>' : '';
+      var hasExpand = !!(e.detail || h || fictionHtml || readingHtml);
+      var detailHtml = hasExpand ? '<div class="detail">'+(e.detail?'<p>'+esc(e.detail)+'</p>':'')+histHtml+fictionHtml+readingHtml+'</div>' : '';
       var moreBtn = hasExpand ? '<button class="more" type="button">Read more <span class="chev">↓</span></button>' : '';
       var hasDetail = hasExpand;
-      var searchTxt = (e.title+' '+e.blurb+' '+(e.detail||'')+' '+(h?h.take+' '+h.who+' '+h.work:'')+' '+e.date+' '+e.category).toLowerCase();
+      var extraTxt = (e.fiction?e.fiction.map(function(w){return w.work+' '+w.by;}).join(' '):'')+' '+(e.reading?e.reading.map(function(b){return b.book+' '+b.author;}).join(' '):'');
+      var searchTxt = (e.title+' '+e.blurb+' '+(e.detail||'')+' '+(h?h.take+' '+h.who+' '+h.work:'')+' '+extraTxt+' '+e.date+' '+e.category).toLowerCase();
       var pd = parseDate(e.date);
       html+='<article class="event '+side+(hasDetail?' has-detail':'')+'" data-cat="'+esc(e.category)+'" data-search="'+esc(searchTxt)+'" data-month="'+pd.mo+'" data-day="'+pd.day+'" data-year="'+(pd.yr||e.sortKey)+'" data-weight="'+(e.weight||2)+'" style="--era:'+er.color+'">'
         +'<span class="node"></span>'

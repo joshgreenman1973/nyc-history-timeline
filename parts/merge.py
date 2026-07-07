@@ -117,6 +117,22 @@ def main():
                     PRIMARY[re.sub(r'[^a-z0-9]', '', x.get("title","").lower())] = {
                         "name": p.get("name",""), "url": p["url"]}
         except Exception: pass
+    # optional historical-fiction ties from fiction_*.json (grouped by event title)
+    FICTION = {}
+    for ff in sorted(glob.glob(os.path.join(HERE, "fiction_*.json"))):
+        try:
+            for x in json.load(open(ff)):
+                k = re.sub(r'[^a-z0-9]', '', x.get("title","").lower())
+                FICTION.setdefault(k, []).append({kk: x[kk] for kk in ("work","kind","year","by","note","url") if kk in x})
+        except Exception: pass
+    # optional "further reading" nonfiction from reading_*.json (grouped by event title)
+    READING = {}
+    for rf in sorted(glob.glob(os.path.join(HERE, "reading_*.json"))):
+        try:
+            for x in json.load(open(rf)):
+                k = re.sub(r'[^a-z0-9]', '', x.get("title","").lower())
+                READING.setdefault(k, []).append({kk: x[kk] for kk in ("book","author","year","note","url") if kk in x})
+        except Exception: pass
     files = sorted(glob.glob(os.path.join(HERE, "era*.json")))
     if not files:
         print("No part files found in", HERE); sys.exit(1)
@@ -171,6 +187,18 @@ def main():
         p = PRIMARY.get(norm_title(e.get("title","")))
         if p:
             e["primary"] = {"name": clean(p["name"]), "url": p["url"]}
+        fic = FICTION.get(norm_title(e.get("title","")))
+        if fic:
+            e["fiction"] = [{kk: clean(vv) if isinstance(vv, str) else vv for kk, vv in w.items()} for w in fic]
+        rd = READING.get(norm_title(e.get("title","")))
+        if rd:
+            hw = norm_title(e.get("historian", {}).get("work", "")) if e.get("historian") else ""
+            def _dup(b):
+                nb = norm_title(b.get("book", ""))
+                return bool(nb and hw and (nb in hw or hw[:len(nb)] == nb))
+            rd = [b for b in rd if not _dup(b)]
+            if rd:
+                e["reading"] = [{kk: clean(vv) if isinstance(vv, str) else vv for kk, vv in b.items()} for b in rd]
         # dedupe by normalized title
         key = norm_title(e.get("title",""))
         if key in seen:

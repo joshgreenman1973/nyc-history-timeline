@@ -1,0 +1,192 @@
+[
+  {
+    "title": "The Draft Riots convulse the city",
+    "work": "Gangs of New York",
+    "kind": "Film",
+    "year": 2002,
+    "by": "Martin Scorsese",
+    "note": "Scorsese's epic of Five Points gang warfare climaxes with the 1863 Civil War draft riots tearing through Lower Manhattan.",
+    "url": "https://en.wikipedia.org/wiki/Gangs_of_New_York",
+    "confidence": "high"
+  },
+  {
+    "title": "Famine Irish transform the city",
+    "work": "Gangs of New York",
+    "kind": "Film",
+    "year": 2002,
+    "by": "Martin Scorsese",
+    "note": "The film's Five Points slum is populated by the famine-driven Irish immigrants and the nativist backlash they provoked at midcentury.",
+    "url": "https://www.imdb.com/title/tt0217505/",
+    "confidence": "high"
+  },
+  {
+    "title": "Washington inaugurated at Federal Hall",
+    "work": "Hamilton",
+    "kind": "Musical",
+    "year": 2015,
+    "by": "Lin-Manuel Miranda",
+    "note": "Miranda's hip-hop retelling of Alexander Hamilton's rise dramatizes the founding-era New York where Washington took the first presidential oath and Hamilton built the young republic's finances.",
+    "url": "https://en.wikipedia.org/wiki/Hamilton_(musical)",
+    "confidence": "high"
+  },
+  {
+    "title": "The Bank of New York is founded",
+    "work": "Hamilton",
+    "kind": "Musical",
+    "year": 2015,
+    "by": "Lin-Manuel Miranda",
+    "note": "The musical foregrounds Hamilton as the architect of American finance, the same figure who founded the Bank of New York in 1784.",
+    "url": "https://www.britannica.com/topic/Hamilton-musical",
+    "confidence": "medium"
+  },
+  {
+    "title": "Metropolitan Opera House opens on Broadway",
+    "work": "The Age of Innocence",
+    "kind": "Novel",
+    "year": 1920,
+    "by": "Edith Wharton",
+    "note": "Wharton's novel dissects 1870s Gilded Age high society, the same insular opera-box world of old New York money that built the new Metropolitan Opera.",
+    "url": "https://en.wikipedia.org/wiki/The_Age_of_Innocence",
+    "confidence": "high"
+  },
+  {
+    "title": "Metropolitan Opera House opens on Broadway",
+    "work": "The Gilded Age",
+    "kind": "TV",
+    "year": 2022,
+    "by": "Julian Fellowes",
+    "note": "Fellowes's series set in 1880s New York centers on the clash between old money and the newly rich who bankrolled institutions like the Metropolitan Opera.",
+    "url": "https://en.wikipedia.org/wiki/The_Gilded_Age_(TV_series)",
+    "confidence": "high"
+  },
+  {
+    "title": "Riis publishes How the Other Half Lives",
+    "work": "The Alienist",
+    "kind": "Novel",
+    "year": 1994,
+    "by": "Caleb Carr",
+    "note": "Carr's 1896-set thriller, with Theodore Roosevelt as police commissioner, plunges into the same Lower East Side tenement underworld Riis had exposed a few years earlier.",
+    "url": "https://en.wikipedia.org/wiki/The_Alienist",
+    "confidence": "high"
+  },
+  {
+    "title": "Stanford White murdered at Madison Square Garden",
+    "work": "Ragtime",
+    "kind": "Novel",
+    "year": 1975,
+    "by": "E.L. Doctorow",
+    "note": "Doctorow weaves the real Evelyn Nesbit and the 1906 killing of architect Stanford White into his panorama of turn-of-the-century New York.",
+    "url": "https://en.wikipedia.org/wiki/Ragtime_(novel)",
+    "confidence": "high"
+  },
+  {
+    "title": "Williamsburg Bridge opens over the East River",
+    "work": "A Tree Grows in Brooklyn",
+    "kind": "Novel",
+    "year": 1943,
+    "by": "Betty Smith",
+    "note": "Smith's semi-autobiographical novel follows a poor immigrant family in early-1900s Williamsburg, the Brooklyn neighborhood the new bridge was rapidly filling with newcomers.",
+    "url": "https://en.wikipedia.org/wiki/A_Tree_Grows_in_Brooklyn_(novel)",
+    "confidence": "high"
+  },
+  {
+    "title": "Ellis Island immigration hits its peak",
+    "work": "The Godfather Part II",
+    "kind": "Film",
+    "year": 1974,
+    "by": "Francis Ford Coppola",
+    "note": "The film's flashbacks open with young Vito Corleone arriving alone through Ellis Island in 1901 and building a life in Little Italy.",
+    "url": "https://en.wikipedia.org/wiki/The_Godfather_Part_II",
+    "confidence": "high"
+  },
+  {
+    "title": "Prohibition ushers in the speakeasy era",
+    "work": "The Great Gatsby",
+    "kind": "Novel",
+    "year": 1925,
+    "by": "F. Scott Fitzgerald",
+    "note": "Fitzgerald's Jazz Age novel of bootlegged wealth and lavish parties captures the New York of 1922, at the height of Prohibition.",
+    "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby",
+    "confidence": "high"
+  },
+  {
+    "title": "Prohibition ushers in the speakeasy era",
+    "work": "Once Upon a Time in America",
+    "kind": "Film",
+    "year": 1984,
+    "by": "Sergio Leone",
+    "note": "Leone's epic traces Jewish gangsters on the Lower East Side from their youth through the bootlegging years of late Prohibition.",
+    "url": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_America",
+    "confidence": "high"
+  },
+  {
+    "title": "The Cross Bronx Expressway is completed",
+    "work": "Motherless Brooklyn",
+    "kind": "Film",
+    "year": 2019,
+    "by": "Edward Norton",
+    "note": "Norton reset Jonathan Lethem's novel in 1950s New York, adding a power broker modeled on Robert Moses whose expressways and clearances drive the plot.",
+    "url": "https://en.wikipedia.org/wiki/Motherless_Brooklyn",
+    "confidence": "high"
+  },
+  {
+    "title": "The Puerto Rican Great Migration peaks",
+    "work": "West Side Story",
+    "kind": "Musical",
+    "year": 1957,
+    "by": "Leonard Bernstein and Stephen Sondheim",
+    "note": "The musical's Jets-and-Sharks conflict dramatizes tensions around Puerto Rican migration in a San Juan Hill soon cleared for Lincoln Center.",
+    "url": "https://en.wikipedia.org/wiki/West_Side_Story",
+    "confidence": "high"
+  },
+  {
+    "title": "The blackout that broke the city's spirit",
+    "work": "Summer of Sam",
+    "kind": "Film",
+    "year": 1999,
+    "by": "Spike Lee",
+    "note": "Lee's film set in a Bronx neighborhood during the summer of 1977 uses the citywide blackout and Son of Sam killings as its backdrop.",
+    "url": "https://en.wikipedia.org/wiki/Summer_of_Sam",
+    "confidence": "high"
+  },
+  {
+    "title": "The AIDS epidemic surfaces in New York",
+    "work": "Angels in America",
+    "kind": "Play",
+    "year": 1991,
+    "by": "Tony Kushner",
+    "note": "Kushner's two-part epic follows New Yorkers in 1985 as the AIDS crisis reshapes their lives, the defining dramatic work about the epidemic.",
+    "url": "https://en.wikipedia.org/wiki/Angels_in_America",
+    "confidence": "high"
+  },
+  {
+    "title": "The AIDS epidemic surfaces in New York",
+    "work": "Rent",
+    "kind": "Musical",
+    "year": 1996,
+    "by": "Jonathan Larson",
+    "note": "Larson's rock musical follows young East Village artists living under the shadow of HIV/AIDS in early-1990s Lower Manhattan.",
+    "url": "https://en.wikipedia.org/wiki/Rent_(musical)",
+    "confidence": "high"
+  },
+  {
+    "title": "Times Square is reborn",
+    "work": "The Deuce",
+    "kind": "TV",
+    "year": 2017,
+    "by": "David Simon and George Pelecanos",
+    "note": "The series chronicles the sex trade and porn industry of a seedy 1970s and 1980s Times Square, the gritty era swept away by the district's later rebirth.",
+    "url": "https://en.wikipedia.org/wiki/The_Deuce_(TV_series)",
+    "confidence": "high"
+  },
+  {
+    "title": "The crack epidemic engulfs the city",
+    "work": "Do the Right Thing",
+    "kind": "Film",
+    "year": 1989,
+    "by": "Spike Lee",
+    "note": "Lee's film unfolds over one sweltering day of racial tension in a Bedford-Stuyvesant, Brooklyn, gripped by the pressures of the late-1980s city.",
+    "url": "https://en.wikipedia.org/wiki/Do_the_Right_Thing",
+    "confidence": "medium"
+  }
+]
