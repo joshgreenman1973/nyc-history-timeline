@@ -23,7 +23,7 @@ Every event carries a direct link to a reputable source, surfaced through web re
 
 The full source list, by year, is available in the in-page **"Sources & method"** panel.
 
-## Fact-check passes (two independent rounds)
+## Fact-check passes (four independent rounds)
 After assembly, every event in all six eras was audited by an independent fact-checking pass that re-verified dates, names, numbers and characterizations against reputable sources — then a **second, fully independent round** re-audited the whole corrected dataset from scratch.
 
 **Round 1** corrections: the 1907 Ellis Island figure (~1 million processed at the station, not the ~1.28 million total US arrivals that year), the Queens–Midtown Tunnel builder (New York City Tunnel Authority, not Robert Moses's agency), the Cross Bronx Expressway completion year (1963), the 1741 conspiracy-trial arrest count and Fort George fire date (March 18), the Bank of New York's rank among early US banks, and the 2025 Mamdani turnout comparison (highest since 1969).
@@ -35,6 +35,8 @@ Across both rounds, four high-severity and several low-severity fixes were made;
 A later thematic expansion added ~44 events (arts, music, theater, film, sports, immigration/neighborhoods, science and technology). Each was verified with reputable sources by its researcher at the time of addition.
 
 **Round 3** re-checked events against **primary/original sources** (see below) — verifying claims against the actual documents rather than encyclopedias. It surfaced **zero factual corrections**, independently confirming the dataset's accuracy.
+
+**Round 4** was a fresh five-agent adversarial audit of all 331 events, with extra scrutiny on the thematic additions. Eras I–IV passed with zero errors; the only fix on the live site was one date (the New Amsterdam Theatre's Disney reopening, corrected to the November 1997 Lion King premiere).
 
 ## Layers of depth
 Beyond the core facts, many cards carry additional layers, each independently verified:
