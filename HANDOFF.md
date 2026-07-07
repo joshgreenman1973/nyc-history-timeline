@@ -21,8 +21,11 @@ Each event card has: a big serif year, an emoji, title, one-to-two-sentence blur
   - `era1.json … era6.json` — core events by era (the canonical, fact-checked set)
   - `era7_arts.json`, `era7_sports.json`, `era7_sci.json` — thematic additions
   - `hist_1.json … hist_4.json` — historian's-lens notes, keyed by exact event title
+  - `primary_1.json … primary_6.json` — verified primary/original sources (and any corrections found), keyed by title
+  - `reading_1.json … reading_3.json` — "further reading" acclaimed-history recommendations, keyed by title
+  - `fiction_1.json` — "in fiction" ties (film/TV/novel/musical/play), keyed by title
   - `images.json` — cached Wikimedia image per event (from `fetch_images.py`)
-  - `merge.py` — **the build**: globs `era*.json`, decodes HTML entities, drops `SKIP_TITLES` dups, dedupes by normalized title, sanitizes implausible sortKeys, assigns significance `weight`, attaches images + historian notes, sorts by (era order, sortKey), writes `data.js`
+  - `merge.py` — **the build**: globs `era*.json`, decodes HTML entities, drops `SKIP_TITLES` dups, dedupes by normalized title, sanitizes implausible sortKeys, assigns significance `weight`, attaches images + historian + primary + reading + fiction (reading is deduped against the historian book), sorts by (era order, sortKey), writes `data.js`. Loaders are keyed by lowercased-alphanumeric title, so a new note attaches by matching the event title exactly.
   - `fetch_images.py` — fetches a Wikimedia pageimages lead per event into `images.json` (incremental, cached; ~0.12s/call, needs network)
 - `METHODOLOGY.md` — public-facing methodology (sourcing, fact-check rounds, images, significance, caveats)
 
@@ -58,7 +61,10 @@ Pages redeploys in ~1–3 min. Confirm with `curl -s https://joshgreenman1973.gi
   "weight": 1|2|3,                    // significance (set by merge.py): 1 major, 3 minor
   "image": "https://upload.wikimedia.org/…",  // attached by merge from images.json
   "imageCredit": "…",
-  "historian": {"who":"…","work":"…","take":"…","url":"…"}  // ~66 events
+  "historian": {"who":"…","work":"…","take":"…","url":"…"},  // ~66 events
+  "primary": {"name":"…","url":"…"},                          // ~41 events: verified original document
+  "reading": [{"book":"…","author":"…","year":2004,"note":"…","url":"…"}],  // ~37 events
+  "fiction": [{"work":"…","kind":"Film","year":2002,"by":"…","note":"…","url":"…"}]  // ~16 events
 }
 ```
 Everything after `confidence` is attached by the build, not authored in the era files. Titles must match exactly across `era*.json`, `hist_*.json`, and `images.json` (matching is by lowercased alphanumerics).

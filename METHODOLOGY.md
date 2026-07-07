@@ -32,7 +32,19 @@ After assembly, every event in all six eras was audited by an independent fact-c
 
 Across both rounds, four high-severity and several low-severity fixes were made; eras I, IV and V passed the second round with zero errors, and the vast majority of all claims verified clean.
 
-A later thematic expansion added ~44 events (arts, music, theater, film, sports, immigration/neighborhoods, science and technology). Each was verified with reputable sources by its researcher at the time of addition; these newer entries have not yet been through the two adversarial rounds above.
+A later thematic expansion added ~44 events (arts, music, theater, film, sports, immigration/neighborhoods, science and technology). Each was verified with reputable sources by its researcher at the time of addition.
+
+**Round 3** re-checked events against **primary/original sources** (see below) — verifying claims against the actual documents rather than encyclopedias. It surfaced **zero factual corrections**, independently confirming the dataset's accuracy.
+
+## Layers of depth
+Beyond the core facts, many cards carry additional layers, each independently verified:
+
+- **Primary source** (41 events): a link to the actual original document, fetched and confirmed to support the claim — e.g. Robert Juet's 1609 journal of the Half Moon voyage, the Dutch West India Company charter at Yale's Avalon Project, the Schaghen letter at the NY State Library, Governor Hunter's own 1712 report on the slave revolt, the printed 1701 Captain Kidd trial record, the original 1916 Zoning Resolution, and the eyewitness United Press dispatch on the Triangle fire.
+- **Historian's lens** (66 events): a named scholar, their work, and a faithful summary of the argument they made about that moment — e.g. Russell Shorto, Jill Lepore, Leslie Harris, Tyler Anbinder, Rosenzweig & Blackmar, Iver Bernstein, David McCullough, David von Drehle, Mae Ngai, Robert Caro, Kim Phillips-Fein, Jeff Chang, Franklin Zimring and Martin Duberman. Every attribution passed two independent verification passes.
+- **Further reading** (37 events): an acclaimed narrative history to read next (Pulitzer/Bancroft winners and standard works), deduplicated so a card never lists the same book as both its lens and its reading pick.
+- **In fiction** (16 events): notable films, TV, novels, musicals and plays set in the event or period — Gangs of New York, Hamilton, The Age of Innocence, Ragtime, The Great Gatsby, West Side Story, Summer of Sam, Angels in America, Rent, The Deuce, Motherless Brooklyn and more.
+
+The reading and fiction attributions were also independently fact-checked (real works, correct authors/creators/years, correct topic).
 
 ## Significance sizing
 Events are rendered at three visual weights so the eye can find the pivotal moments at a glance: **major** turning points (founding events, the 1898 consolidation, the Erie Canal, the Brooklyn Bridge, 9/11, and the like) appear largest and boldest; **notable** events at the default size; **lesser** events in a compact, quieter card. The tier of each event is assigned in `parts/merge.py` and is editorial, not a claim about historical importance in any absolute sense.
