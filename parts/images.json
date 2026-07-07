@@ -4,8 +4,8 @@
   "credit": "Lenape"
  },
  "verrazzanosailsintonewyorkharbor": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Verrazano_Bridge2.jpg/960px-Verrazano_Bridge2.jpg",
-  "credit": "Verrazzano–Narrows Bridge"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Giovanni_da_Verrazano.jpg",
+  "credit": "Giovanni da Verrazano"
  },
  "estvogomeschartsthecoastforspain": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Map_of_America-Ribero_%281529%29.jpeg/960px-Map_of_America-Ribero_%281529%29.jpeg",
@@ -15,21 +15,15 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/HenryHudson.jpg/960px-HenryHudson.jpg",
   "credit": "Henry Hudson"
  },
- "adriaenblockwintersonmanhattanafterthetygerburns": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wpdms_aq_block_1614.jpg/960px-Wpdms_aq_block_1614.jpg",
-  "credit": "Adriaen Block"
- },
+ "adriaenblockwintersonmanhattanafterthetygerburns": null,
  "newnetherlandcompanycharteredfortnassaubuilt": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fort_Orange_in_c1630_Rensselaerswyck_Map_Detail_%28now_Albany_NY%29.png/960px-Fort_Orange_in_c1630_Rensselaerswyck_Map_Detail_%28now_Albany_NY%29.png",
   "credit": "Fort Orange (New Netherland)"
  },
- "dutchwestindiacompanyischartered": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_the_Dutch_West_India_Company.svg/960px-Flag_of_the_Dutch_West_India_Company.svg.png",
-  "credit": "Dutch West India Company"
- },
+ "dutchwestindiacompanyischartered": null,
  "firstsettlersarriveaboardthenieunederlandt": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Prinsenvlag.svg/960px-Prinsenvlag.svg.png",
-  "credit": "New Netherland"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/The_First_View_of_New_York_1626-8.jpg",
+  "credit": "The First View of New York 1626-8"
  },
  "fortamsterdamrisesatthetipofmanhattan": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fort_Amsterdam%2C_1660.jpg/960px-Fort_Amsterdam%2C_1660.jpg",
@@ -60,18 +54,15 @@
   "credit": "Jonas Bronck"
  },
  "firstferrylinksmanhattanandbrooklyn": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/5_Boroughs_Labels_New_York_City_Map.svg/960px-5_Boroughs_Labels_New_York_City_Map.svg.png",
-  "credit": "Boroughs of New York City"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Manatvs_gelegen_op_de_Noot_Riuier.jpg/960px-Manatvs_gelegen_op_de_Noot_Riuier.jpg",
+  "credit": "Manatvs gelegen op de Noot Riuier"
  },
  "thestadtherberghopenslaterthecityhall": null,
  "kieftswareruptswiththepavoniamassacre": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Massacre_of_Indians_at_Pavonia_BJL.png/960px-Massacre_of_Indians_at_Pavonia_BJL.png",
   "credit": "Kieft's War"
  },
- "deborahmoodyfoundsgravesend": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bettina_Gravesend_Bay_jeh.jpg/960px-Bettina_Gravesend_Bay_jeh.jpg",
-  "credit": "Gravesend, Brooklyn"
- },
+ "deborahmoodyfoundsgravesend": null,
  "treatyendskieftswar": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Massacre_of_Indians_at_Pavonia_BJL.png/960px-Massacre_of_Indians_at_Pavonia_BJL.png",
   "credit": "Kieft's War"
@@ -85,8 +76,8 @@
   "credit": "New Amsterdam"
  },
  "adefensivewallgiveswallstreetitsname": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/960px-Wall_Street_%2855314253740%29.jpg",
-  "credit": "Wall Street"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg/960px-Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg",
+  "credit": "Stad Amsterdam in Nieuw Nederland (City Amst…"
  },
  "firstjewishrefugeesreachnewamsterdam": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/AMH-6831-KB_View_of_New_Amsterdam.jpg/960px-AMH-6831-KB_View_of_New_Amsterdam.jpg",
@@ -100,25 +91,22 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flushing_Remonstrance.jpg/960px-Flushing_Remonstrance.jpg",
   "credit": "Flushing Remonstrance"
  },
- "stuyvesantchartersnieuwhaarlem": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Harlem_04.jpg/960px-Harlem_04.jpg",
-  "credit": "Harlem"
- },
+ "stuyvesantchartersnieuwhaarlem": null,
  "thecastelloplanmapsatownof1500": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg/960px-Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg",
   "credit": "Castello Plan"
  },
  "theenglishseizenewamsterdamrenamingitnewyork": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-  "credit": "New York City"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_Duke%27s_Plan_%28New_Amsterdam%29.jpg/960px-The_Duke%27s_Plan_%28New_Amsterdam%29.jpg",
+  "credit": "The Duke's Plan (New Amsterdam)"
  },
  "theenglishseizenewamsterdamandrenameitnewyork": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-  "credit": "New York City"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_Duke%27s_Plan_%28New_Amsterdam%29.jpg/960px-The_Duke%27s_Plan_%28New_Amsterdam%29.jpg",
+  "credit": "The Duke's Plan (New Amsterdam)"
  },
  "thedukeslawscodifyenglishrule": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Duke%27s_Laws_Convention_HM_in_Hempstead_Village%2C_NY.jpg/960px-Duke%27s_Laws_Convention_HM_in_Hempstead_Village%2C_NY.jpg",
-  "credit": "The Duke's Laws"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/James_II_when_Duke_of_York_by_Peter_Lely.jpg",
+  "credit": "James II when Duke of York by Peter Lely"
  },
  "thedutchretakethecityandrenameitneworange": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Allard_-Totius_Neobelgii_Nova_et_Accuratissima_Tabula_%28Detail%29.png/960px-Allard_-Totius_Neobelgii_Nova_et_Accuratissima_Tabula_%28Detail%29.png",
@@ -133,12 +121,12 @@
   "credit": "History of New York City"
  },
  "newyorksfirstassemblypassesacharterofliberties": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/960px-Flag_of_New_York.svg.png",
-  "credit": "Judiciary of New York"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Thomas_Dongan%2C_2nd_Earl_of_Limerick.jpg",
+  "credit": "Thomas Dongan, 2nd Earl of Limerick"
  },
  "thedongancharterincorporatesnewyorkcity": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_New_York_City.svg/960px-Flag_of_New_York_City.svg.png",
-  "credit": "Flags of New York City"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Thomas_Dongan%2C_2nd_Earl_of_Limerick.jpg",
+  "credit": "Thomas Dongan, 2nd Earl of Limerick"
  },
  "leislersrebellionseizescontrolofthecolony": {
   "src": "https://upload.wikimedia.org/wikipedia/en/e/e3/Leisler%27s_Declaration.jpg",
@@ -148,14 +136,8 @@
   "src": "https://upload.wikimedia.org/wikipedia/en/e/e3/Leisler%27s_Declaration.jpg",
   "credit": "Leisler's Rebellion"
  },
- "trinitychurchreceivesitsroyalcharter": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/King%27s_College_royal_charter_1827_leaf1.jpg/960px-King%27s_College_royal_charter_1827_leaf1.jpg",
-  "credit": "Royal charter"
- },
- "captainkiddishangedforpiracy": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/The_Capture_of_the_Pirate_Blackbeard_1718_by_Jean_Leon_Gerome_Ferris_%28retouched%29.jpg/960px-The_Capture_of_the_Pirate_Blackbeard_1718_by_Jean_Leon_Gerome_Ferris_%28retouched%29.jpg",
-  "credit": "Golden Age of Piracy"
- },
+ "trinitychurchreceivesitsroyalcharter": null,
+ "captainkiddishangedforpiracy": null,
  "the1712slaverevolt": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/New_York_slave_market_about_1730.jpg/960px-New_York_slave_market_about_1730.jpg",
   "credit": "New York Slave Revolt of 1712"
@@ -165,16 +147,13 @@
   "credit": "New-York Gazette"
  },
  "themontgomeriecharterreorganizescitygovernment": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/ProprietaryHousePerthAmboy.JPG/960px-ProprietaryHousePerthAmboy.JPG",
-  "credit": "List of colonial governors of New Jersey"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/A_view_of_Fort_George_with_the_city_of_New_York%2C_from_the_SW.jpg/960px-A_view_of_Fort_George_with_the_city_of_New_York%2C_from_the_SW.jpg",
+  "credit": "A view of Fort George with the city of New Y…"
  },
- "themillstreetsynagoguefirstinnorthamerica": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Touro_Synagogue%2C_Newport%2C_Rhode_Island.jpg/960px-Touro_Synagogue%2C_Newport%2C_Rhode_Island.jpg",
-  "credit": "Touro Synagogue"
- },
+ "themillstreetsynagoguefirstinnorthamerica": null,
  "bowlinggreenthecitysfirstpublicpark": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bowling_Green_Fence_and_Park_01.jpg/960px-Bowling_Green_Fence_and_Park_01.jpg",
-  "credit": "Bowling Green (New York City)"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/A_view_of_Fort_George_with_the_city_of_New_York%2C_from_the_SW.jpg/960px-A_view_of_Fort_George_with_the_city_of_New_York%2C_from_the_SW.jpg",
+  "credit": "A view of Fort George with the city of New Y…"
  },
  "thezengertrialandfreedomofthepress": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/John_Peter_Zenger_trial.jpg",
@@ -184,21 +163,18 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/1741_Slave_Revolt_burned_at_the_stake_NYC.jpg",
   "credit": "New York Conspiracy of 1741"
  },
- "thenewyorksocietylibraryisfounded": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/New_York_Society_Library_%2848059130471%29.jpg/960px-New_York_Society_Library_%2848059130471%29.jpg",
-  "credit": "New York Society Library"
- },
+ "thenewyorksocietylibraryisfounded": null,
  "kingscollegelatercolumbiaisfounded": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Columbia_College_of_Columbia_University_Crown_2020.svg/960px-Columbia_College_of_Columbia_University_Crown_2020.svg.png",
-  "credit": "Columbia College, Columbia University"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/View_of_Columbia_College_in_the_city_of_New_York_%28NYPL_Hades-118289-54235%29.tif/lossy-page1-960px-View_of_Columbia_College_in_the_city_of_New_York_%28NYPL_Hades-118289-54235%29.tif.jpg",
+  "credit": "View of Columbia College in the city of New …"
  },
  "thesonsoflibertyorganizeinnewyork": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/US_Sons_OfLiberty_9Stripes_Flag.svg/960px-US_Sons_OfLiberty_9Stripes_Flag.svg.png",
-  "credit": "Sons of Liberty"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Repeal_%28BM_J%2C1.85%29.jpg/960px-The_Repeal_%28BM_J%2C1.85%29.jpg",
+  "credit": "The Repeal (BM J,1.85)"
  },
  "thestampactcongressmeetsinnewyork": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/NY-NJ-retreat-1776.svg/960px-NY-NJ-retreat-1776.svg.png",
-  "credit": "New York and New Jersey campaign"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_repeal%2C_or_the_funeral_procession_of_Miss_Americ-Stamp_LCCN99471597.jpg/960px-The_repeal%2C_or_the_funeral_procession_of_Miss_Americ-Stamp_LCCN99471597.jpg",
+  "credit": "The repeal, or the funeral procession of Mis…"
  },
  "thefirstlibertypolerisesinthecommon": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Battle-of-golden-hill.jpg/960px-Battle-of-golden-hill.jpg",
@@ -208,21 +184,18 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Battle-of-golden-hill.jpg/960px-Battle-of-golden-hill.jpg",
   "credit": "Battle of Golden Hill"
  },
- "thenewyorkteaparty": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Conservative_Party_of_New_York_logo.svg/960px-Conservative_Party_of_New_York_logo.svg.png",
-  "credit": "Conservative Party of New York State"
- },
+ "thenewyorkteaparty": null,
  "thedeclarationisreadtowashingtonstroops": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Washington_Crossing_the_Delaware_1856-71_George_Caleb_BinghamFXD.jpg/960px-Washington_Crossing_the_Delaware_1856-71_George_Caleb_BinghamFXD.jpg",
-  "credit": "George Washington's crossing of the Delaware River"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dunlap_broadside_copy_of_the_United_States_Declaration_of_Independence%2C_LOC.jpg/960px-Dunlap_broadside_copy_of_the_United_States_Declaration_of_Independence%2C_LOC.jpg",
+  "credit": "Dunlap broadside copy of the United States D…"
  },
  "thestatueofkinggeorgeiiiistoppled": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bowling_Green_Fence_and_Park_01.jpg/960px-Bowling_Green_Fence_and_Park_01.jpg",
-  "credit": "Bowling Green (New York City)"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Balthasar_Friedrich_Leizelt_-_Destruction_of_the_Royal_Statue_in_New_York_-_Google_Art_Project.jpg/960px-Balthasar_Friedrich_Leizelt_-_Destruction_of_the_Royal_Statue_in_New_York_-_Google_Art_Project.jpg",
+  "credit": "Balthasar Friedrich Leizelt - Destruction of…"
  },
  "thebattleoflongisland": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Montauk_01.jpg/960px-Montauk_01.jpg",
-  "credit": "Long Island"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/A_plan_of_New_York_Island..._%282674294469%29.jpg/960px-A_plan_of_New_York_Island..._%282674294469%29.jpg",
+  "credit": "A plan of New York Island... (2674294469)"
  },
  "thebritishlandatkipsbay": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_British_landing_at_Kip%27s_Bay%2C_New_York_Island%2C_15_September_1776.jpg/960px-The_British_landing_at_Kip%27s_Bay%2C_New_York_Island%2C_15_September_1776.jpg",
@@ -237,8 +210,8 @@
   "credit": "Great Fire of New York (1776)"
  },
  "nathanhaleishangedasaspy": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nathan-hale-cityhall.jpg",
-  "credit": "Nathan Hale"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Last_Words_of_Nathan_Hale_by_Alexander_Hay_Ritchie.jpeg",
+  "credit": "Last Words of Nathan Hale by Alexander Hay R…"
  },
  "thebattleofwhiteplains": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/The_engagement_on_the_White_Plains.jpg/960px-The_engagement_on_the_White_Plains.jpg",
@@ -257,16 +230,16 @@
   "credit": "Evacuation Day (New York)"
  },
  "washingtonsfarewellatfrauncestavern": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Frauncestavern.JPG/960px-Frauncestavern.JPG",
-  "credit": "Fraunces Tavern"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Washington_taking_leave_of_his_officers_%28NYPL_b12610213-421436%29.jpg/960px-Washington_taking_leave_of_his_officers_%28NYPL_b12610213-421436%29.jpg",
+  "credit": "Washington taking leave of his officers (NYP…"
  },
  "thebankofnewyorkisfounded": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/FRBNY_logo.png",
-  "credit": "Federal Reserve Bank of New York"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alexander_Hamilton_portrait_by_John_Trumbull_1806.jpg/960px-Alexander_Hamilton_portrait_by_John_Trumbull_1806.jpg",
+  "credit": "Alexander Hamilton portrait by John Trumbull…"
  },
  "newyorkbecomesthenationalcapital": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Albany%2C_New_York.jpg/960px-Albany%2C_New_York.jpg",
-  "credit": "Albany, New York"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Federal_Hall%2C_N.Y._1789_ppmsca.15703.jpg/960px-Federal_Hall%2C_N.Y._1789_ppmsca.15703.jpg",
+  "credit": "Federal Hall, N.Y. 1789 ppmsca.15703"
  },
  "newyorkmanumissionsocietyisformed": null,
  "theafricanfreeschoolopens": {
@@ -283,8 +256,8 @@
   "credit": "United States Bill of Rights"
  },
  "thefederalcapitalmovestophiladelphia": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Seal_of_New_York_%28state%29.svg/960px-Seal_of_New_York_%28state%29.svg.png",
-  "credit": "2026 United States House of Representatives elections in New York"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Congress_Hall_%26_New_Theatre_Birch%27s_Views_Plate_20.jpg",
+  "credit": "Congress Hall & New Theatre Birch's Views Pl…"
  },
  "thebuttonwoodagreementfoundsthenyse": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Buttonwood.png",
@@ -300,59 +273,44 @@
   "credit": "An Act for the Gradual Abolition of Slavery"
  },
  "aaronburrchartersthemanhattancompany": null,
- "yellowfeverreturns": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-  "credit": "New York City"
- },
+ "yellowfeverreturns": null,
  "thenewyorkhistoricalsocietyisfounded": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/New_York_Historical_Society_%2848269593386%29.jpg/960px-New_York_Historical_Society_%2848269593386%29.jpg",
-  "credit": "New York Historical"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/John_Pintard%2C_by_John_Ramage_%28cropped%29.jpg",
+  "credit": "John Pintard, by John Ramage (cropped)"
  },
  "fultonssteamboatsailsthehudson": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Robert_Fulton%2C_1806%2C_London%2C_England%2C_painted_by_Benjamin_West%2C_American%2C_1738-1820_Fenimore_Art_Museum%2C_Cooperstown%2C_N.Y._N0218.1961.jpg/960px-Robert_Fulton%2C_1806%2C_London%2C_England%2C_painted_by_Benjamin_West%2C_American%2C_1738-1820_Fenimore_Art_Museum%2C_Cooperstown%2C_N.Y._N0218.1961.jpg",
   "credit": "Robert Fulton"
  },
  "thecommissionersplangridsmanhattan": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Savannah_Portland_NewYork_City_Blocks.svg/960px-Savannah_Portland_NewYork_City_Blocks.svg.png",
-  "credit": "Commissioners' Plan of 1811"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Commissioners%27_Plan_of_1811_by_John_Randel_published_in_1821.jpg/960px-Commissioners%27_Plan_of_1811_by_John_Randel_published_in_1821.jpg",
+  "credit": "Commissioners' Plan of 1811 by John Randel p…"
  },
  "harborfortsrisebeforethewarof1812": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Habs_castle_clinton.jpg/960px-Habs_castle_clinton.jpg",
-  "credit": "Castle Clinton"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Castle_garden%2C_New_York-_From_the_battery_LCCN90714333.jpg/960px-Castle_garden%2C_New_York-_From_the_battery_LCCN90714333.jpg",
+  "credit": "Castle garden, New York- From the battery LC…"
  },
  "fultonssteamferrylinksbrooklyn": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Farragut_%281871_ferry%29.jpg/960px-Farragut_%281871_ferry%29.jpg",
   "credit": "Fulton Ferry (ferry)"
  },
  "thecitysfirstsavingsbankopens": null,
- "gaslampslightupbroadway": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Benjamin_West%2C_English_%28born_America%29_-_Benjamin_Franklin_Drawing_Electricity_from_the_Sky_-_Google_Art_Project.jpg/960px-Benjamin_West%2C_English_%28born_America%29_-_Benjamin_Franklin_Drawing_Electricity_from_the_Sky_-_Google_Art_Project.jpg",
-  "credit": "History of street lighting in the United States"
- },
+ "gaslampslightupbroadway": null,
  "theeriecanalopens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sunset_over_the_Erie_Canal_in_North_Tonawanda%2C_NY..jpg/960px-Sunset_over_the_Erie_Canal_in_North_Tonawanda%2C_NY..jpg",
-  "credit": "Erie Canal"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Grand_Canal_Celebration-_View_of_the_Fleet_Preparing_to_Form_in_Line_MET_DR132.jpg/960px-Grand_Canal_Celebration-_View_of_the_Fleet_Preparing_to_Form_in_Line_MET_DR132.jpg",
+  "credit": "Grand Canal Celebration- View of the Fleet P…"
  },
  "delmonicosopens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Delmonico%27s_%2825667384390%29.jpg/960px-Delmonico%27s_%2825667384390%29.jpg",
-  "credit": "Delmonico's"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Supper_at_Delmonico%27s%2C_New_York_1898.jpg/960px-Supper_at_Delmonico%27s%2C_New_York_1898.jpg",
+  "credit": "Supper at Delmonico's, New York 1898"
  },
- "slaveryendsinnewyorkstate": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/First_Slave_Auction_1655_Howard_Pyle.jpg/960px-First_Slave_Auction_1655_Howard_Pyle.jpg",
-  "credit": "History of slavery in New York (state)"
- },
+ "slaveryendsinnewyorkstate": null,
  "newyorkuniversityisfounded": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Albert_Gallatin_3.JPG",
-  "credit": "History of New York University"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/New_York_University_Building_in_Washington_Square%2C_1850.jpg",
+  "credit": "New York University Building in Washington S…"
  },
- "choleradevastatesthecity": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hi_Bridge_%26_tower_from_Wash_Br_ramp_in_Bronx_jeh.jpg/960px-Hi_Bridge_%26_tower_from_Wash_Br_ramp_in_Bronx_jeh.jpg",
-  "credit": "High Bridge (New York City)"
- },
- "thecitysfirstrailroadbeginsrunning": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NYC_Subway_R1_100.jpg/960px-NYC_Subway_R1_100.jpg",
-  "credit": "History of the New York City Subway"
- },
+ "choleradevastatesthecity": null,
+ "thecitysfirstrailroadbeginsrunning": null,
  "antiabolitionistriotsgripthecity": null,
  "thegreatfiredestroyslowermanhattan": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Great_Fire_of_the_City_of_New_York_Dec_16_1835.jpg/960px-The_Great_Fire_of_the_City_of_New_York_Dec_16_1835.jpg",
@@ -375,29 +333,26 @@
   "credit": "Croton Aqueduct"
  },
  "famineirishtransformthecity": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-  "credit": "New York City"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Emigrants_Leave_Ireland_by_Henry_Doyle_1868.jpg/960px-Emigrants_Leave_Ireland_by_Henry_Doyle_1868.jpg",
+  "credit": "Emigrants Leave Ireland by Henry Doyle 1868"
  },
  "theastorplaceriotturnsdeadly": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Astor_Place_Opera-House_riots_crop.jpg",
   "credit": "Astor Place Riot"
  },
- "cholerastrikesagain": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2024_missile_strikes_against_Yemen.svg/960px-2024_missile_strikes_against_Yemen.svg.png",
-  "credit": "US–UK airstrikes on Yemen"
- },
+ "cholerastrikesagain": null,
  "thenewyorkdailytimesdebuts": null,
  "thecrystalpalacehostsamericasfirstworldsfair": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/New_York_Crystal_Palace.jpg/960px-New_York_Crystal_Palace.jpg",
   "credit": "Exhibition of the Industry of All Nations"
  },
  "thestatesetsasidelandforcentralpark": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/960px-Flag_of_New_York.svg.png",
-  "credit": "New York (state)"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Viele%27s_Survey_for_Central_Park.jpg/960px-Viele%27s_Survey_for_Central_Park.jpg",
+  "credit": "Viele's Survey for Central Park"
  },
  "castlegardenbecomesanimmigrantdepot": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Habs_castle_clinton.jpg/960px-Habs_castle_clinton.jpg",
-  "credit": "Castle Clinton"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Immigrants_at_Castle_Garden%2C_New_York_City%2C_1866.jpg/960px-Immigrants_at_Castle_Garden%2C_New_York_City%2C_1866.jpg",
+  "credit": "Immigrants at Castle Garden, New York City, …"
  },
  "thepanicof1857rattlesnewyork": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/1857_panic.jpeg/960px-1857_panic.jpeg",
@@ -408,46 +363,40 @@
   "credit": "New York City Police riot"
  },
  "thegreenswardplanwinscentralpark": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Manatvs_gelegen_op_de_Noot_Riuier.jpg/960px-Manatvs_gelegen_op_de_Noot_Riuier.jpg",
-  "credit": "History of New York City (1855–1897)"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Central_Park%2C_Winter-_The_skating_pond_LCCN90715719.jpg/960px-Central_Park%2C_Winter-_The_skating_pond_LCCN90715719.jpg",
+  "credit": "Central Park, Winter- The skating pond LCCN9…"
  },
  "petercooperfoundscooperunion": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Cooper_Union%27s_Foundation_Building_-_North_Side_%2848072759802%29.jpg/960px-The_Cooper_Union%27s_Foundation_Building_-_North_Side_%2848072759802%29.jpg",
-  "credit": "Cooper Union"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Peter_Cooper_daguerreotype.png/960px-Peter_Cooper_daguerreotype.png",
+  "credit": "Peter Cooper daguerreotype"
  },
  "lincolnspeaksatcooperunion": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Cooper_Union%27s_Foundation_Building_-_North_Side_%2848072759802%29.jpg/960px-The_Cooper_Union%27s_Foundation_Building_-_North_Side_%2848072759802%29.jpg",
-  "credit": "Cooper Union"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Abraham_Lincoln%2C_candidate_for_U.S._president%2C_before_delivering_his_Cooper_Union_address%2C_New_York%2C_N.Y.%2C_on_Feb._27%2C_1860_LCCN2009630664.jpg/960px-Abraham_Lincoln%2C_candidate_for_U.S._president%2C_before_delivering_his_Cooper_Union_address%2C_New_York%2C_N.Y.%2C_on_Feb._27%2C_1860_LCCN2009630664.jpg",
+  "credit": "Abraham Lincoln, candidate for U.S. presiden…"
  },
  "thedraftriotsconvulsethecity": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/New_York_Draft_Riots_-_fighting.jpg/960px-New_York_Draft_Riots_-_fighting.jpg",
   "credit": "New York City draft riots"
  },
  "aprofessionalfiredepartmentisborn": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Plandome_Road%2C_Manhasset%2C_NY_August_18%2C_2022_F.jpg/960px-Plandome_Road%2C_Manhasset%2C_NY_August_18%2C_2022_F.jpg",
-  "credit": "Manhasset, New York"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/The_Life_of_a_Fireman_-_Currier_and_Ives.png/960px-The_Life_of_a_Fireman_-_Currier_and_Ives.png",
+  "credit": "The Life of a Fireman - Currier and Ives"
  },
- "themetropolitanhealthactreformssanitation": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Qanat_Kashan.jpg/960px-Qanat_Kashan.jpg",
-  "credit": "History of water supply and sanitation"
- },
+ "themetropolitanhealthactreformssanitation": null,
  "thefirsttenementhouseact": null,
  "prospectparkopensinbrooklyn": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Prospect_Park_New_York_October_2015_003.jpg/960px-Prospect_Park_New_York_October_2015_003.jpg",
-  "credit": "Prospect Park (Brooklyn)"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/1868_Vaux_and_Olmstead_Map_of_Prospect_Park%2C_Brooklyn%2C_New_York_-_Geographicus_-_ProspectPark-bishop-1868.jpg/960px-1868_Vaux_and_Olmstead_Map_of_Prospect_Park%2C_Brooklyn%2C_New_York_-_Geographicus_-_ProspectPark-bishop-1868.jpg",
+  "credit": "1868 Vaux and Olmstead Map of Prospect Park,…"
  },
  "thefirstelevatedrailwayopens": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/NYC_Elevated_RR_110thSt.png/960px-NYC_Elevated_RR_110thSt.png",
   "credit": "IRT Ninth Avenue Line"
  },
  "themuseumofnaturalhistoryisfounded": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/USA-NYC-American_Museum_of_Natural_History.JPG/960px-USA-NYC-American_Museum_of_Natural_History.JPG",
-  "credit": "American Museum of Natural History"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Albert_Smith_Bickmore.png",
+  "credit": "Albert Smith Bickmore"
  },
- "themetropolitanmuseumofartisfounded": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/960px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg",
-  "credit": "Metropolitan Museum of Art"
- },
+ "themetropolitanmuseumofartisfounded": null,
  "thetweedringisexposed": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Thomas_Nast_c._1870.jpg/960px-Thomas_Nast_c._1870.jpg",
   "credit": "Thomas Nast"
@@ -461,8 +410,8 @@
   "credit": "William M. Tweed"
  },
  "thenaturalhistorymuseumopensitshome": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/USA-NYC-American_Museum_of_Natural_History.JPG/960px-USA-NYC-American_Museum_of_Natural_History.JPG",
-  "credit": "American Museum of Natural History"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/American_Museum_of_Natural_History%2C_1917.jpg/960px-American_Museum_of_Natural_History%2C_1917.jpg",
+  "credit": "American Museum of Natural History, 1917"
  },
  "elevatedrailroadsspreadacrossmanhattan": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/NYC_Elevated_RR_110thSt.png/960px-NYC_Elevated_RR_110thSt.png",
@@ -472,25 +421,22 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Airshaft_of_a_dumbbell_tenement%2C_New_York_City%2C_taken_from_the_roof%2C_ca._1900_-_NARA_-_535468.jpg/960px-Airshaft_of_a_dumbbell_tenement%2C_New_York_City%2C_taken_from_the_roof%2C_ca._1900_-_NARA_-_535468.jpg",
   "credit": "Old Law Tenement"
  },
- "themetopensonfifthavenue": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/960px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg",
-  "credit": "The Met Fifth Avenue"
- },
+ "themetopensonfifthavenue": null,
  "edisonlightsuplowermanhattan": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/PearlStreetStation.jpg",
   "credit": "Pearl Street Station"
  },
  "thebrooklynbridgeopens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg/960px-Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg",
-  "credit": "Brooklyn Bridge"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Currier_and_Ives%2C_The_Great_East_River_Suspension_Bridge_-_Connecting_the_Cities_of_New_York_and_Brooklyn%2C_1881%2C_NGA_185010.jpg/960px-Currier_and_Ives%2C_The_Great_East_River_Suspension_Bridge_-_Connecting_the_Cities_of_New_York_and_Brooklyn%2C_1881%2C_NGA_185010.jpg",
+  "credit": "Currier and Ives, The Great East River Suspe…"
  },
  "themetropolitanoperaopens": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Metropolitan_opera_1905_crop.jpg/960px-Metropolitan_opera_1905_crop.jpg",
   "credit": "Metropolitan Opera House (39th Street)"
  },
  "thestatueoflibertyisdedicated": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/960px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg",
-  "credit": "Statue of Liberty"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/EdwardMoran-UnveilingTheStatueofLiberty1886Large.jpg/960px-EdwardMoran-UnveilingTheStatueofLiberty1886Large.jpg",
+  "credit": "EdwardMoran-UnveilingTheStatueofLiberty1886L…"
  },
  "thegreatblizzardof1888": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Great_Blizzard_weather_map%2C_March_13%2C_1888.jpg/960px-Great_Blizzard_weather_map%2C_March_13%2C_1888.jpg",
@@ -501,16 +447,16 @@
   "credit": "How the Other Half Lives"
  },
  "thenewyorkbotanicalgardenisfounded": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/The_New_York_Botanical_Garden_Visitor_Center.jpg",
-  "credit": "New York Botanical Garden"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Nathaniel_Lord_Britton.jpg",
+  "credit": "Nathaniel Lord Britton"
  },
  "carnegiehallopens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Carnegie_Hall_-_Full_%2848155558466%29.jpg/960px-Carnegie_Hall_-_Full_%2848155558466%29.jpg",
-  "credit": "Carnegie Hall"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Carnegie_Hall_exterior%2C_1899.jpg/960px-Carnegie_Hall_exterior%2C_1899.jpg",
+  "credit": "Carnegie Hall exterior, 1899"
  },
  "ellisislandopens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg/960px-Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg",
-  "credit": "Ellis Island"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Original_building_at_Ellis_Island_1892._%28bcdcc58c-155d-451f-6736-9c2f0585ab2a%29.jpg",
+  "credit": "Original building at Ellis Island 1892. (bcd…"
  },
  "acholerascareshutstheharbor": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Professors_Koch_and_Pfeiffer_working_in_a_laboratory%2C_invest_Wellcome_L0030175.jpg/960px-Professors_Koch_and_Pfeiffer_working_in_a_laboratory%2C_invest_Wellcome_L0030175.jpg",
@@ -518,8 +464,8 @@
  },
  "thepanicof1893sparksdepression": null,
  "therapidtransitactplansasubway": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/NYCS_map_Contracts_1_2.svg/960px-NYCS_map_Contracts_1_2.svg.png",
-  "credit": "Early history of the IRT subway"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Beach_Pneumatic_Transit_01.jpg",
+  "credit": "Beach Pneumatic Transit 01"
  },
  "votersapproveconsolidation": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/New_York_City_1897.png/960px-New_York_City_1897.png",
@@ -535,24 +481,24 @@
   "credit": "City of Greater New York"
  },
  "tenementhouseactreformshousing": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Dudley_Drive_-_geograph.org.uk_-_580164.jpg",
-  "credit": "Tenement"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Airshaft_of_a_dumbbell_tenement%2C_New_York_City%2C_taken_from_the_roof%2C_ca._1900_-_NARA_-_535468.jpg/960px-Airshaft_of_a_dumbbell_tenement%2C_New_York_City%2C_taken_from_the_roof%2C_ca._1900_-_NARA_-_535468.jpg",
+  "credit": "Airshaft of a dumbbell tenement, New York Ci…"
  },
  "flatironbuildingrisesat23rdstreet": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Edificio_Fuller_%28Flatiron%29_en_2010_desde_el_Empire_State_crop_boxin.jpg/960px-Edificio_Fuller_%28Flatiron%29_en_2010_desde_el_Empire_State_crop_boxin.jpg",
-  "credit": "Flatiron Building"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Stieglitz_Flat_iron_1903.jpg",
+  "credit": "Stieglitz Flat iron 1903"
  },
  "williamsburgbridgeopensovertheeastriver": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Williamsburg_Bridge_full.jpg/960px-Williamsburg_Bridge_full.jpg",
-  "credit": "Williamsburg Bridge"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/WilliamsburgBridge1903.jpg",
+  "credit": "WilliamsburgBridge1903"
  },
  "longacresquareisrenamedtimessquare": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/960px-New_york_times_square-terabass.jpg",
-  "credit": "Times Square"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nytimesbldg1904.jpg",
+  "credit": "Nytimesbldg1904"
  },
  "generalslocumfirekillsmorethan1000": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-  "credit": "New York City"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/General_slocum_burning.jpg",
+  "credit": "General slocum burning"
  },
  "firstsubwaylineopensirt": null,
  "stanfordwhitemurderedatmadisonsquaregarden": {
@@ -560,57 +506,48 @@
   "credit": "Madison Square Garden (1890)"
  },
  "ellisislandimmigrationhitsitspeak": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-  "credit": "New York City"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Slavic_immigrant_at_Ellis_Island%2C_1907.jpg/960px-Slavic_immigrant_at_Ellis_Island%2C_1907.jpg",
+  "credit": "Slavic immigrant at Ellis Island, 1907"
  },
- "firstnewyearseveballdropsintimessquare": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/TSBALL_logo.gif",
-  "credit": "Times Square Ball"
- },
+ "firstnewyearseveballdropsintimessquare": null,
  "singerbuildingbecomesworldstallest": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-  "credit": "List of tallest buildings in New York City"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Singer_Building_New_York_City_1908.jpg/960px-Singer_Building_New_York_City_1908.jpg",
+  "credit": "Singer Building New York City 1908"
  },
  "hudsonfultoncelebrationfillstheharbor": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-  "credit": "Manhattan"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Hudson_fulton.jpg",
+  "credit": "Hudson fulton"
  },
  "metropolitanlifetowertopstheskyline": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Metropolitan_Life_Insurance_Tower%2C_2024.jpg/960px-Metropolitan_Life_Insurance_Tower%2C_2024.jpg",
-  "credit": "Metropolitan Life Insurance Company Tower"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Metropolitan_Life_Insurance_Bldg._LCCN2002709362.jpg/960px-Metropolitan_Life_Insurance_Bldg._LCCN2002709362.jpg",
+  "credit": "Metropolitan Life Insurance Bldg. LCCN200270…"
  },
  "uprisingofthe20000shirtwaiststrike": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Women_Picket_during_Ladies_Tailors_Strike%2C_02-1910_%2811192045794%29_%28cropped%29.jpg/960px-Women_Picket_during_Ladies_Tailors_Strike%2C_02-1910_%2811192045794%29_%28cropped%29.jpg",
   "credit": "New York shirtwaist strike of 1909"
  },
  "newyorkpubliclibrarysmainbranchopens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/New_York_Public_Library_-_Main_Branch_%2851396225599%29.jpg/960px-New_York_Public_Library_-_Main_Branch_%2851396225599%29.jpg",
-  "credit": "New York Public Library Main Branch"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/New_York_City_public_library_reading_room_LCCN2007682035.jpg/960px-New_York_City_public_library_reading_room_LCCN2007682035.jpg",
+  "credit": "New York City public library reading room LC…"
  },
  "triangleshirtwaistfactoryfirekills146": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg",
   "credit": "Triangle Shirtwaist Factory fire"
  },
  "grandcentralterminalopens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Image-Grand_central_Station_Outside_Night_2.jpg/960px-Image-Grand_central_Station_Outside_Night_2.jpg",
-  "credit": "Grand Central Terminal"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Grand_Central%2C_1913_01.jpg/960px-Grand_Central%2C_1913_01.jpg",
+  "credit": "Grand Central, 1913 01"
  },
  "armoryshowintroducesmodernart": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Armory_show_button%2C1913.jpg",
   "credit": "Armory Show"
  },
  "woolworthbuildingcrownstheskyline": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Woolworth_Building_logo.svg/960px-Woolworth_Building_logo.svg.png",
-  "credit": "Woolworth Building"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Woolworth_Building_in_New_York_City_LCCN2013650474.jpg/960px-The_Woolworth_Building_in_New_York_City_LCCN2013650474.jpg",
+  "credit": "The Woolworth Building in New York City LCCN…"
  },
- "equitablebuildingspurszoningfight": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Seagram_Building_%2835098307116%29.jpg/960px-Seagram_Building_%2835098307116%29.jpg",
-  "credit": "Seagram Building"
- },
- "newyorkadoptsfirstuszoningresolution": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Joseph_Binder%27s_poster_for_the_1939_New_York_World%27s_Fair.jpg",
-  "credit": "1939 New York World's Fair"
- },
+ "equitablebuildingspurszoningfight": null,
+ "newyorkadoptsfirstuszoningresolution": null,
  "blacktomexplosionrockstheharbor": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Pier%2C_Jersey_City_after_munitions_explosion_LOC_14687235026_%28cropped%29.jpg/960px-Pier%2C_Jersey_City_after_munitions_explosion_LOC_14687235026_%28cropped%29.jpg",
   "credit": "Black Tom explosion"
@@ -624,20 +561,20 @@
   "credit": "Silent Parade"
  },
  "newyorkmenvoteforwomenssuffrage": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Universal_suffrage_women_lexical%2C_World%2C_2024_%28cropped%29.svg/960px-Universal_suffrage_women_lexical%2C_World%2C_2024_%28cropped%29.svg.png",
-  "credit": "Women's suffrage"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Suffragists_Parade_Down_Fifth_Avenue%2C_1917.JPG",
+  "credit": "Suffragists Parade Down Fifth Avenue, 1917"
  },
  "malbonestreetwreckkillsscores": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/MalboneStreetWreck1.jpg",
   "credit": "Malbone Street wreck"
  },
  "influenzapandemicstrikesnewyork": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/USNS_Comfort_passing_by_Statue_of_Liberty%2C_March_30%2C_2020.png/960px-USNS_Comfort_passing_by_Statue_of_Liberty%2C_March_30%2C_2020.png",
-  "credit": "COVID-19 pandemic in New York City"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Medical_Department_-_Influenza_Epidemic_1918_-_Masks_for_protection_against_influenza._Letter_carrier_in_New_York_City%2C_New_York%2C_wearing_mask_-_NARA_-_45499319.jpg/960px-thumbnail.jpg",
+  "credit": "Medical Department - Influenza Epidemic 1918…"
  },
  "prohibitionushersinthespeakeasyera": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Harlem_04.jpg/960px-Harlem_04.jpg",
-  "credit": "Harlem"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/New_York_City_Deputy_Police_Commissioner_John_A._Leach%2C_right%2C_watching_agents_pour_liquor_into_sewer_following_a_raid_during_the_height_of_prohibition_LCCN99405169.jpg/960px-thumbnail.jpg",
+  "credit": "New York City Deputy Police Commissioner Joh…"
  },
  "wallstreetbombingkills38": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wallstreetbmb.jpg/960px-Wallstreetbmb.jpg",
@@ -648,8 +585,8 @@
   "credit": "Chicago Black Renaissance"
  },
  "yankeestadiumopensinthebronx": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Yankee_Stadium_overhead_2010.jpg/960px-Yankee_Stadium_overhead_2010.jpg",
-  "credit": "Yankee Stadium"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Opening_Day_1923_Yankee_Stadium_%28baseball%29_LCCN2014715917.jpg/960px-Opening_Day_1923_Yankee_Stadium_%28baseball%29_LCCN2014715917.jpg",
+  "credit": "Opening Day 1923 Yankee Stadium (baseball) L…"
  },
  "cottonclubopensinharlem": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Duke_Ellington_-_publicity.JPG/960px-Duke_Ellington_-_publicity.JPG",
@@ -660,33 +597,27 @@
   "credit": "History of immigration to the United States"
  },
  "lindberghgetsatickertapeheroswelcome": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chicago_Welcomes_the_Apollo_11_Astronauts_%289457411063%29.jpg/960px-Chicago_Welcomes_the_Apollo_11_Astronauts_%289457411063%29.jpg",
-  "credit": "Ticker-tape parade"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Duizenden_mensen_juichen_Charles_Lindbergh_toe_als_hij_na_zijn_solovlucht_over_de_Atlantische%2C_SFA022002367.jpg/960px-Duizenden_mensen_juichen_Charles_Lindbergh_toe_als_hij_na_zijn_solovlucht_over_de_Atlantische%2C_SFA022002367.jpg",
+  "credit": "Duizenden mensen juichen Charles Lindbergh t…"
  },
  "hollandtunnelopensunderthehudson": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Holland_Tunnel_Eastbound.jpg/960px-Holland_Tunnel_Eastbound.jpg",
-  "credit": "Holland Tunnel"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Holland_Tunnel_--_1927_%2853753501716%29.jpg/960px-Holland_Tunnel_--_1927_%2853753501716%29.jpg",
+  "credit": "Holland Tunnel -- 1927 (53753501716)"
  },
- "museumofmodernartopens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/MoMa_NY_USA_1.jpg/960px-MoMa_NY_USA_1.jpg",
-  "credit": "Museum of Modern Art"
- },
+ "museumofmodernartopens": null,
  "wallstreetcrashtriggersthedepression": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Crowd_outside_nyse.jpg",
   "credit": "Wall Street crash of 1929"
  },
  "chryslerbuildingbrieflytheworldstallest": {
-  "src": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burj_Khalifa.jpg/960px-Burj_Khalifa.jpg",
-  "credit": "History of the world's tallest structures"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg/960px-Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg",
+  "credit": "Chrysler Building Midtown Manhattan New York…"
  },
  "empirestatebuildingopens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Empire_State_Building_%28aerial_view%29.jpg",
-  "credit": "Empire State Building"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Photograph_of_a_Workman_on_the_Framework_of_the_Empire_State_Building_-_NARA_-_518290.jpg/960px-Photograph_of_a_Workman_on_the_Framework_of_the_Empire_State_Building_-_NARA_-_518290.jpg",
+  "credit": "Photograph of a Workman on the Framework of …"
  },
- "georgewashingtonbridgespansthehudson": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/GWBfromFortLeeHistoricPark.JPG/960px-GWBfromFortLeeHistoricPark.JPG",
-  "credit": "George Washington Bridge"
- },
+ "georgewashingtonbridgespansthehudson": null,
  "mayorjimmywalkerresignsinscandal": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mayor_J._Walker_Edit.jpg/960px-Mayor_J._Walker_Edit.jpg",
   "credit": "Jimmy Walker"
@@ -695,44 +626,26 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Guardia_by_NYT_Studios_circa_1934%E2%80%931945_Trim_Edit.jpg/960px-La_Guardia_by_NYT_Studios_circa_1934%E2%80%931945_Trim_Edit.jpg",
   "credit": "Fiorello La Guardia"
  },
- "harlemriotexposesdepressiongrievances": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Henry_Knox_by_Gilbert_Stuart_1806.jpeg/960px-Henry_Knox_by_Gilbert_Stuart_1806.jpeg",
-  "credit": "Henry Knox"
- },
- "triboroughbridgeopens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Randalls_and_Wards_Islands.JPG/960px-Randalls_and_Wards_Islands.JPG",
-  "credit": "Robert F. Kennedy Bridge"
- },
- "lincolntunnelsfirsttubeopens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Inside_Lincoln_Tunnel_NY_NJ.jpg/960px-Inside_Lincoln_Tunnel_NY_NJ.jpg",
-  "credit": "Lincoln Tunnel"
- },
- "newyorkadoptsareformcitycharter": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-  "credit": "New York City"
- },
+ "harlemriotexposesdepressiongrievances": null,
+ "triboroughbridgeopens": null,
+ "lincolntunnelsfirsttubeopens": null,
+ "newyorkadoptsareformcitycharter": null,
  "newyorkworldsfairopensinqueens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_York_World%27s_Fair_August_1964.jpeg/960px-New_York_World%27s_Fair_August_1964.jpeg",
-  "credit": "1964 New York World's Fair"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Trylon_and_Perisphere%2C_New_York_World%27s_Fair_MET_DP103125.jpg/960px-Trylon_and_Perisphere%2C_New_York_World%27s_Fair_MET_DP103125.jpg",
+  "credit": "Trylon and Perisphere, New York World's Fair…"
  },
  "firstregularustvbroadcastatthefair": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
-  "credit": "New York City"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/World%27s_Fair_head_asks_president_to_fair._Washington%2C_D.C.%2C_Jan._17._Grover_Whalen%2C_Commissioner_of_the_New_York_World%27s_Fair_today_called_upon_President_Roosevelt_and_announced_that_the_LCCN2016874820.jpg/960px-thumbnail.jpg",
+  "credit": "World's Fair head asks president to fair. Wa…"
  },
- "laguardiaairportopens": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/North_Shore_of_Long_Island_2021_%28cropped%29.jpg",
-  "credit": "LaGuardia Airport"
- },
+ "laguardiaairportopens": null,
  "queensmidtowntunnelopens": null,
  "normandieburnsandcapsizesatitspier": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/SS_Normandie_at_sea_view.JPG/960px-SS_Normandie_at_sea_view.JPG",
   "credit": "SS Normandie"
  },
  "wartimedimoutdarkensthecity": null,
- "harlemriotfollowsasoldiersshooting": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Demonstrators-Harlem-1964.jpg",
-  "credit": "Harlem riot of 1964"
- },
+ "harlemriotfollowsasoldiersshooting": null,
  "b25bombercrashesintoempirestatebuilding": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Empire_State_Building_on_fire_1945_by_INP.jpg/960px-Empire_State_Building_on_fire_1945_by_INP.jpg",
   "credit": "1945 Empire State Building B-25 crash"
