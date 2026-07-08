@@ -1,0 +1,212 @@
+[
+  {
+    "date": "March 12, 1926",
+    "sortKey": 1926,
+    "title": "The Savoy Ballroom opens in Harlem",
+    "blurb": "The Savoy Ballroom opened on Lenox Avenue between 140th and 141st Streets and quickly became Harlem's grandest dance hall and the home of the Lindy Hop.",
+    "detail": "Owned by Moe Gale and managed by Charles Buchanan, the Savoy stretched a full block with two bandstands for continuous music and turned away roughly 2,000 people on its opening night. Unlike most venues of the era it enforced a non-discrimination policy, making it one of the few New York spaces where Black and white patrons danced together freely. Its finest dancers competed in the northeast \"Cat's Corner,\" among them Frankie Manning and Norma Miller, who helped codify the acrobatic Lindy Hop. Big bands led by Chick Webb and others made the Savoy a proving ground for swing.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Wikipedia: Savoy Ballroom", "url": "https://en.wikipedia.org/wiki/Savoy_Ballroom"},
+      {"name": "The Syncopated Times", "url": "https://syncopatedtimes.com/the-opening-of-the-savoy-the-most-inclusive-club-in-harlem-100-years-ago/"}
+    ],
+    "confidence": "high",
+    "icon": "💃"
+  },
+  {
+    "date": "February 22, 1935",
+    "sortKey": 1935,
+    "title": "The Village Vanguard opens",
+    "blurb": "Max Gordon opened the Village Vanguard in a Greenwich Village basement on Seventh Avenue South, where it grew into the city's longest-running jazz club.",
+    "detail": "Gordon first envisioned a bohemian forum for poets and folk singers, and its early stage hosted beat poetry and performers such as Lead Belly. It shifted decisively toward jazz by 1957 and became a hallowed room for the music. Landmark live albums were cut there, including recordings by John Coltrane and Bill Evans. Still operating today, it is the oldest continuously running jazz club in New York City.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Wikipedia: Village Vanguard", "url": "https://en.wikipedia.org/wiki/Village_Vanguard"},
+      {"name": "Village Preservation", "url": "https://www.villagepreservation.org/2021/04/30/roots-of-jazz-run-deep-in-greenwich-village/"}
+    ],
+    "confidence": "high",
+    "icon": "🎷"
+  },
+  {
+    "date": "January 16, 1938",
+    "sortKey": 1938,
+    "title": "Benny Goodman brings swing to Carnegie Hall",
+    "blurb": "Benny Goodman's band played a sold-out Carnegie Hall concert, the first time a big band headlined the classical hall and a milestone in jazz's cultural acceptance.",
+    "detail": "Goodman was initially hesitant, fearing hot jazz would fall flat before a hall built for classical music, but the 2,760 seats sold out weeks ahead. The program mixed Goodman's own band with players drawn from the Count Basie and Duke Ellington orchestras in a rare integrated bill. The performance has been called jazz's \"coming out\" party to the world of respectable music. Issued in 1950 from preserved acetates, the recording became one of jazz's first million-selling albums.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Carnegie Hall", "url": "https://www.carnegiehall.org/About/History/Carnegie-Hall-Icons/Benny-Goodman"},
+      {"name": "Library of Congress (NRPB)", "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Carnegie-Hall-Jazz-Concert_Ayeroff.pdf"}
+    ],
+    "confidence": "high",
+    "icon": "🎼"
+  },
+  {
+    "date": "c. 1944",
+    "sortKey": 1944,
+    "title": "Bebop is born on 52nd Street",
+    "blurb": "In the small basement clubs of West 52nd Street, Charlie Parker and Dizzy Gillespie forged bebop, the fast harmonically daring style that reshaped modern jazz.",
+    "detail": "After Prohibition's repeal, 52nd Street between Fifth and Seventh Avenues became known as \"Swing Street,\" packed with clubs like the Onyx, the Three Deuces and the Famous Door. Musicians used those tiny rooms as testing grounds, and by late 1944 Parker and Gillespie's group at the Three Deuces was drawing crowds to a sound soon dubbed bebop. The Onyx booking is often cited as the first time the word was used to promote a band. Postwar redevelopment and changing tastes emptied the street by the 1950s.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Jazzfuel: New York's 52nd Street", "url": "https://jazzfuel.com/new-yorks-52nd-street/"},
+      {"name": "Wikipedia: 52nd Street (Manhattan)", "url": "https://en.wikipedia.org/wiki/52nd_Street_(Manhattan)"}
+    ],
+    "confidence": "medium",
+    "icon": "🎺"
+  },
+  {
+    "date": "December 15, 1949",
+    "sortKey": 1949,
+    "title": "Birdland opens on Broadway",
+    "blurb": "Birdland opened on Broadway near 52nd Street with Charlie Parker headlining, taking its name from Parker's nickname \"Bird\" and becoming a global jazz mecca.",
+    "detail": "Billed as \"The Jazz Corner of the World,\" the club hosted Miles Davis, Dizzy Gillespie, Thelonious Monk and Count Basie through the 1950s and early 1960s. Its house announcer, the diminutive Pee Wee Marquette, and its live broadcasts spread the name nationwide. George Shearing's tune \"Lullaby of Birdland\" cemented its fame. The original room closed in 1965, but the Birdland name was later revived at a Midtown location.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia: Birdland", "url": "https://en.wikipedia.org/wiki/Birdland_(New_York_jazz_club)"},
+      {"name": "Birdland Jazz Club", "url": "https://www.birdlandjazz.com/about/"}
+    ],
+    "confidence": "high",
+    "icon": "🎷"
+  },
+  {
+    "date": "c. 1950",
+    "sortKey": 1950,
+    "title": "The Palladium sparks the mambo craze",
+    "blurb": "At the Palladium Ballroom on Broadway at 53rd Street, the \"Big Three\" bands of Machito, Tito Puente and Tito Rodríguez drove a citywide mambo craze.",
+    "detail": "The Palladium opened in 1946 and by the late 1940s had embraced Afro-Cuban dance music, becoming the epicenter of the mambo in the United States. Bandleaders Machito, Tito Puente and Tito Rodríguez fed a fierce rivalry that pushed the music's popularity to new heights. On its floor transit workers, executives and professionals crossed racial, ethnic and class lines to dance. A 1961 drug raid cost the ballroom its liquor license and it closed in 1966.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "HISTORY: Salsa's NYC origins", "url": "https://www.history.com/articles/salsa-music-origins-new-york-city-mambo-machito"},
+      {"name": "Wikipedia: Palladium Ballroom", "url": "https://en.wikipedia.org/wiki/Palladium_Ballroom"}
+    ],
+    "confidence": "medium",
+    "icon": "💃"
+  },
+  {
+    "date": "c. 1960",
+    "sortKey": 1960,
+    "title": "The Brill Building pop hit factory",
+    "blurb": "In the Brill Building at 1619 Broadway and nearby Aldon Music, teams of professional songwriters turned out a stream of early-1960s pop and rock hits.",
+    "detail": "Working assembly-line style in cramped rooms with upright pianos, writing partnerships such as Gerry Goffin and Carole King, Barry Mann and Cynthia Weil and Jeff Barry and Ellie Greenwich matched songs to artists. The system produced girl-group standards like the Shirelles' \"Will You Love Me Tomorrow\" and the Drifters' \"Up on the Roof.\" The name became shorthand for a whole era of professionally crafted teen pop. The British Invasion and singer-songwriters who wrote their own material eroded the model by the late 1960s.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Britannica: The Brill Building", "url": "https://www.britannica.com/topic/The-Brill-Building-Assembly-Line-Pop-1688332"},
+      {"name": "HISTORY: Brill Building", "url": "https://www.history.com/articles/brill-building-pop-music-songwriters"}
+    ],
+    "confidence": "medium",
+    "icon": "🎹"
+  },
+  {
+    "date": "April 11, 1961",
+    "sortKey": 1961,
+    "title": "Bob Dylan's first major gig at Folk City",
+    "blurb": "A 19-year-old Bob Dylan played his first major New York engagement at Gerde's Folk City in Greenwich Village, opening for bluesman John Lee Hooker.",
+    "detail": "Gerde's, which had opened as a folk venue in 1960, sat at the center of the Greenwich Village folk revival. Too young for a cabaret card, Dylan performed only because owner Mike Porco vouched for him. A glowing New York Times review by Robert Shelton that September helped launch his career. The club nurtured a generation of folk and later rock acts before closing in the late 1980s.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Village Preservation", "url": "https://www.villagepreservation.org/2017/04/11/bob-dylans-first-nyc-gig-april-11-1961/"},
+      {"name": "Wikipedia: Gerde's Folk City", "url": "https://en.wikipedia.org/wiki/Gerde's_Folk_City"}
+    ],
+    "confidence": "high",
+    "icon": "🎸"
+  },
+  {
+    "date": "September 16, 1966",
+    "sortKey": 1966,
+    "title": "The Met moves to Lincoln Center",
+    "blurb": "The Metropolitan Opera opened its new house at Lincoln Center, leaving the 1883 building on 39th Street for Wallace Harrison's grand modern hall.",
+    "detail": "The opening night presented the world premiere of Samuel Barber's \"Antony and Cleopatra,\" directed by Franco Zeffirelli with Leontyne Price starring as Cleopatra. Seating nearly 4,000, it is the largest repertory opera house in the world. The move capped a decades-long effort to give the company a modern home and anchored Lincoln Center as the city's performing-arts hub. The old Metropolitan Opera House was later demolished.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Metropolitan Opera", "url": "https://www.metopera.org/user-information/nightly-met-opera-streams/articles/the-new-met/"},
+      {"name": "Wikipedia: Metropolitan Opera House (Lincoln Center)", "url": "https://en.wikipedia.org/wiki/Metropolitan_Opera_House_(Lincoln_Center)"}
+    ],
+    "confidence": "high",
+    "icon": "🎭"
+  },
+  {
+    "date": "March 8, 1968",
+    "sortKey": 1968,
+    "title": "Bill Graham's Fillmore East opens",
+    "blurb": "Promoter Bill Graham opened the Fillmore East in a former Yiddish theater on Second Avenue, making it the premier rock concert hall of its era.",
+    "detail": "The opening bill was headlined by Janis Joplin with Big Brother and the Holding Company. Known as \"the Church of Rock and Roll,\" it staged multi-act shows featuring Jimi Hendrix, the Who, the Grateful Dead and the Allman Brothers Band, whose famous live album was recorded there. Its light shows and sound helped define the concert experience. Graham closed the venue in June 1971.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia: Fillmore East", "url": "https://en.wikipedia.org/wiki/Fillmore_East"},
+      {"name": "Best Classic Bands", "url": "https://bestclassicbands.com/fillmore-east-opens-3-8-16/"}
+    ],
+    "confidence": "high",
+    "icon": "🎸"
+  },
+  {
+    "date": "February 14, 1970",
+    "sortKey": 1970,
+    "title": "David Mancuso's Loft ignites disco",
+    "blurb": "David Mancuso threw a private Valentine's Day party called \"Love Saves the Day\" at his Broadway loft, an event widely credited with seeding underground dance culture.",
+    "detail": "Mancuso hosted invitation-only, membership-based parties in his home at 647 Broadway, serving no alcohol and prizing a warm, high-fidelity sound system over spectacle. He rejected the term DJ, calling himself a \"musical host,\" and his eclectic soul, R&B and funk sets shaped the emerging disco aesthetic. The Loft's welcoming, racially and sexually mixed crowd became a model for New York's dance underground. Its approach directly influenced later clubs like the Paradise Garage.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "NPR: The most influential dance party in history", "url": "https://www.npr.org/2020/02/19/807333757/still-saving-the-day-the-most-influential-dance-party-in-history-turns-50"},
+      {"name": "NYC LGBTQ Historic Sites Project", "url": "https://www.nyclgbtsites.org/site/david-mancuso-residence-the-loft/"}
+    ],
+    "confidence": "high",
+    "icon": "🪩"
+  },
+  {
+    "date": "August 26, 1971",
+    "sortKey": 1971,
+    "title": "Fania All-Stars ignite salsa at the Cheetah",
+    "blurb": "The Fania All-Stars played a legendary concert at the Cheetah club, a \"Latin Woodstock\" that helped define salsa and launch it worldwide.",
+    "detail": "Fania Records founders Johnny Pacheco and Jerry Masucci assembled stars including Héctor Lavoe, Willie Colón, Ray Barretto, Larry Harlow and Cheo Feliciano for the night. Recorded and filmed, the show yielded the \"Live at the Cheetah\" albums and the documentary \"Our Latin Thing.\" Rooted in New York's Puerto Rican and Cuban communities, the performance is often called the big bang of 1970s salsa. It carried the sound of El Barrio to audiences across Latin America and beyond.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "uDiscover Music", "url": "https://www.udiscovermusic.com/stories/fania-all-stars-live-at-the-cheetah-salsa-feature/"},
+      {"name": "Craft Recordings", "url": "https://craftrecordings.com/products/fania-all-stars-live-at-the-cheetah-vol-1-digital-album/"}
+    ],
+    "confidence": "high",
+    "icon": "🥁"
+  },
+  {
+    "date": "1977",
+    "sortKey": 1977,
+    "title": "Paradise Garage and Larry Levan",
+    "blurb": "The Paradise Garage opened in a former parking garage at 84 King Street, where resident DJ Larry Levan helped define modern club culture and \"garage\" music.",
+    "detail": "Founded by Michael Brody, the members-only, largely Black and gay club held early \"construction parties\" before its full opening as renovations finished. Levan's marathon sets and its powerful custom sound system made the Garage a temple of dance music. Its style gave rise to the term \"garage,\" a precursor to house music, and inspired later clubs including London's Ministry of Sound. The Garage closed in 1987 as Levan's health declined.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "NYC LGBTQ Historic Sites Project", "url": "https://www.nyclgbtsites.org/site/paradise-garage/"},
+      {"name": "Wikipedia: Paradise Garage", "url": "https://en.wikipedia.org/wiki/Paradise_Garage"}
+    ],
+    "confidence": "high",
+    "icon": "🪩"
+  },
+  {
+    "date": "2004",
+    "sortKey": 2004,
+    "title": "Jazz at Lincoln Center opens Rose Hall",
+    "blurb": "Jazz at Lincoln Center, founded in 1987 under Wynton Marsalis, opened Frederick P. Rose Hall, the first performance complex built specifically for jazz.",
+    "detail": "Housed at Columbus Circle in the Time Warner Center, the roughly 131-million-dollar facility was designed by Rafael Viñoly. It combined concert, education and broadcast spaces devoted entirely to jazz, including the Rose Theater and the club Dizzy's Club. The institution had grown from a 1987 concert series into a full Lincoln Center constituent led by Marsalis. Rose Hall gave America's classical music of jazz a permanent purpose-built home.",
+    "category": "Culture & Landmarks",
+    "era": "21st Century (2001–present)",
+    "sources": [
+      {"name": "Wikipedia: Jazz at Lincoln Center", "url": "https://en.wikipedia.org/wiki/Jazz_at_Lincoln_Center"},
+      {"name": "Jazz at Lincoln Center", "url": "https://jazz.org/"}
+    ],
+    "confidence": "high",
+    "icon": "🎷"
+  }
+]

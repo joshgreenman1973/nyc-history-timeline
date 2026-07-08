@@ -1,0 +1,281 @@
+[
+ {
+  "title": "The Savoy Ballroom opens in Harlem",
+  "action": "replace",
+  "commonsFile": "File:Dancing at the Savoy Ballroom 1936.jpg",
+  "note": "Current image was a Dizzy Gillespie portrait (wrong subject); swapped to a 1936 period photo of dancers at the Savoy"
+ },
+ {
+  "title": "The Village Vanguard opens",
+  "action": "keep",
+  "note": "Genuine Village Vanguard club (2018) — correct venue; no period image available"
+ },
+ {
+  "title": "Bebop is born on 52nd Street",
+  "action": "keep",
+  "note": "Period photo of the 52nd Street jazz clubs — correct and period"
+ },
+ {
+  "title": "Birdland opens on Broadway",
+  "action": "keep",
+  "note": "Birdland club entrance — correct subject (post-1945)"
+ },
+ {
+  "title": "The Palladium sparks the mambo craze",
+  "action": "keep",
+  "note": "Palladium Ballroom image — correct subject"
+ },
+ {
+  "title": "The Brill Building pop hit factory",
+  "action": "keep",
+  "note": "Genuine Brill Building — correct subject"
+ },
+ {
+  "title": "Bob Dylan's first major gig at Folk City",
+  "action": "replace",
+  "commonsFile": "File:Bob Dylan 1963.jpg",
+  "note": "Current image was a modern Dylan tribute/look-alike in Kilkenny; swapped to a period 1963 photo of Bob Dylan"
+ },
+ {
+  "title": "The Met moves to Lincoln Center",
+  "action": "keep",
+  "note": "Genuine Met Opera at Lincoln Center — correct subject"
+ },
+ {
+  "title": "Bill Graham's Fillmore East opens",
+  "action": "keep",
+  "note": "Building at 105 Second Ave that housed the Fillmore East (later The Saint) — genuine site"
+ },
+ {
+  "title": "Paradise Garage and Larry Levan",
+  "action": "keep",
+  "note": "Genuine Paradise Garage building at 84 King St — correct subject"
+ },
+ {
+  "title": "Jazz at Lincoln Center opens Rose Hall",
+  "action": "keep",
+  "note": "Jazz at Lincoln Center — correct subject"
+ },
+ {
+  "title": "The Brooklyn Museum opens its Beaux-Arts building",
+  "action": "keep",
+  "note": "Genuine Brooklyn Museum building — correct subject (modern photo of genuine landmark)"
+ },
+ {
+  "title": "The Eight defy the academy at the Macbeth Galleries",
+  "action": "keep",
+  "note": "Everett Shinn self-portrait (1901), a member of The Eight — period and on-topic"
+ },
+ {
+  "title": "Martha Graham gives her first independent concert",
+  "action": "keep",
+  "note": "Period photograph of Martha Graham — correct subject"
+ },
+ {
+  "title": "The Frick Collection opens on Fifth Avenue",
+  "action": "keep",
+  "note": "Genuine Frick Collection Garden Court — correct subject (genuine landmark)"
+ },
+ {
+  "title": "The Cloisters opens in Fort Tryon Park",
+  "action": "keep",
+  "note": "Genuine Met Cloisters building — correct subject (genuine landmark)"
+ },
+ {
+  "title": "Ballet Theatre gives its inaugural performance",
+  "action": "replace",
+  "commonsFile": "File:Ballet Theatre brochure (NBY 6896).jpg",
+  "note": "Current image was a modern ABT logo (anachronistic for 1940); swapped to the Ballet Theatre brochure dated Jan 11, 1940 — the actual event"
+ },
+ {
+  "title": "Balanchine and Kirstein found New York City Ballet",
+  "action": "keep",
+  "note": "New York City Ballet logo — correct subject (post-1945)"
+ },
+ {
+  "title": "Alvin Ailey's company debuts at the 92nd Street Y",
+  "action": "keep",
+  "note": "Alvin Ailey American Dance Theater logo — correct subject (post-1945)"
+ },
+ {
+  "title": "The Studio Museum in Harlem opens",
+  "action": "keep",
+  "note": "Studio Museum in Harlem — correct subject"
+ },
+ {
+  "title": "Arthur Mitchell founds Dance Theatre of Harlem",
+  "action": "keep",
+  "note": "Dance Theatre of Harlem — correct subject"
+ },
+ {
+  "title": "Keith Haring starts his subway chalk drawings",
+  "action": "keep",
+  "note": "Keith Haring artwork — correct artist/subject"
+ },
+ {
+  "title": "Christo and Jeanne-Claude raise The Gates in Central Park",
+  "action": "keep",
+  "note": "LOC photo of The Gates in Central Park (2005) — correct subject"
+ },
+ {
+  "title": "\"The Black Crook\" invents the American musical",
+  "action": "keep",
+  "note": "Period image of The Black Crook finale — correct and period"
+ },
+ {
+  "title": "The Provincetown Players bring O'Neill to the Village",
+  "action": "keep",
+  "note": "Lewis Wharf, the Provincetown fish-house theatre where the Players formed and first staged O’Neill — period, referenced in the entry"
+ },
+ {
+  "title": "Caffe Cino gives birth to Off-Off-Broadway",
+  "action": "keep",
+  "note": "Building at 31 Cornelia St, the genuine Caffe Cino location — correct site"
+ },
+ {
+  "title": "\"A Raisin in the Sun\" opens on Broadway",
+  "action": "keep",
+  "note": "A Raisin in the Sun (Hansberry) image — correct subject"
+ },
+ {
+  "title": "Joseph Papp's Public Theater opens with \"Hair\"",
+  "action": "keep",
+  "note": "Genuine Public Theater building — correct subject"
+ },
+ {
+  "title": "\"A Chorus Line\" opens at the Shubert Theatre",
+  "action": "keep",
+  "note": "Genuine Shubert Theatre — correct venue"
+ },
+ {
+  "title": "\"Hamilton\" premieres at the Public Theater",
+  "action": "keep",
+  "note": "Lin-Manuel Miranda and Hamilton cast — correct subject"
+ },
+ {
+  "title": "St. Patrick's Cathedral is dedicated on Fifth Avenue",
+  "action": "keep",
+  "note": "Genuine St. Patrick’s Cathedral — correct, essentially unchanged landmark"
+ },
+ {
+  "title": "The Dakota apartments open on the Upper West Side",
+  "action": "replace",
+  "commonsFile": "File:The Dakota 1880s.jpg",
+  "note": "Current image was a generic 2007 Upper West Side street view; swapped to an 1880s period photo of the Dakota"
+ },
+ {
+  "title": "The Plaza Hotel opens facing Central Park",
+  "action": "keep",
+  "note": "Genuine Plaza Hotel — correct, essentially unchanged landmark"
+ },
+ {
+  "title": "The original Pennsylvania Station opens",
+  "action": "replace",
+  "commonsFile": "File:Pennsylvania Station, NYC, Waiting Room, Cassatt Statue.jpg",
+  "note": "Current image was the 2021 Moynihan Train Hall (wrong building); swapped to a 1911 photo of the original Penn Station waiting room"
+ },
+ {
+  "title": "The RCA Building opens at Rockefeller Center",
+  "action": "replace",
+  "commonsFile": "File:Rockefeller Center, December 1933.jpg",
+  "note": "Current image was a modern Rockefeller Center logo; swapped to a December 1933 period photo of Rockefeller Center"
+ },
+ {
+  "title": "Lever House brings the glass curtain wall to Park Avenue",
+  "action": "keep",
+  "note": "Genuine Lever House — correct subject"
+ },
+ {
+  "title": "The Seagram Building sets the modernist standard",
+  "action": "keep",
+  "note": "Genuine Seagram Building — correct subject"
+ },
+ {
+  "title": "Saarinen's TWA Flight Center opens at Idlewild",
+  "action": "keep",
+  "note": "Genuine TWA Flight Center at JFK — correct subject"
+ },
+ {
+  "title": "The Whitney's Breuer building opens on Madison Avenue",
+  "action": "keep",
+  "note": "Genuine Breuer building at 945 Madison — correct subject"
+ },
+ {
+  "title": "The Ford Foundation opens Manhattan's first atrium garden",
+  "action": "keep",
+  "note": "Genuine Ford Foundation building — correct subject"
+ },
+ {
+  "title": "Citicorp Center opens, then is secretly reinforced",
+  "action": "keep",
+  "note": "Genuine Citicorp/Citigroup Center — correct subject"
+ },
+ {
+  "title": "The AT&T Building announces postmodernism",
+  "action": "keep",
+  "note": "550 Madison (former AT&T, later Sony) — the genuine building"
+ },
+ {
+  "title": "Hearst Tower rises as the city's first green skyscraper",
+  "action": "keep",
+  "note": "Genuine Hearst Tower — correct subject"
+ },
+ {
+  "title": "432 Park Avenue tops out the Billionaires' Row era",
+  "action": "replace",
+  "commonsFile": "File:432 Park Avenue, NY (cropped).jpg",
+  "note": "Current image showed the Empire State Building (wrong subject); swapped to a photo of 432 Park Avenue"
+ },
+ {
+  "title": "Calatrava's Oculus opens at the World Trade Center",
+  "action": "keep",
+  "note": "Westfield WTC / the Oculus interior — correct subject"
+ },
+ {
+  "title": "American Mutoscope, the first US film studio, opens",
+  "action": "keep",
+  "note": "Period American Mutoscope & Biograph image — correct and period"
+ },
+ {
+  "title": "Edison's Vitascope debuts at Koster & Bial's",
+  "action": "keep",
+  "note": "Period image of Koster & Bial’s Music Hall — correct venue"
+ },
+ {
+  "title": "Paramount's Astoria studio opens in Queens",
+  "action": "keep",
+  "note": "Genuine Astoria (Kaufman) studio building — correct site"
+ },
+ {
+  "title": "\"The Honeymooners\" premieres on CBS",
+  "action": "keep",
+  "note": "1955 cast photo of The Honeymooners — period and correct"
+ },
+ {
+  "title": "Lindsay creates one-stop film permitting",
+  "action": "replace",
+  "commonsFile": "File:John Lindsay 1968.jpg",
+  "note": "Current image was Zohran Mamdani in 2025 (wrong subject); swapped to a period photo of Mayor John Lindsay"
+ },
+ {
+  "title": "\"Sesame Street\" premieres from New York",
+  "action": "keep",
+  "note": "Sesame Street logo — correct subject (post-1945)"
+ },
+ {
+  "title": "MTV launches from New York",
+  "action": "replace",
+  "commonsFile": "File:MTV logo.png",
+  "note": "Current image was the Oneida County Courthouse (wrong subject); swapped to the MTV logo"
+ },
+ {
+  "title": "Museum of the Moving Image opens in Astoria",
+  "action": "keep",
+  "note": "Museum of the Moving Image logo — correct subject"
+ },
+ {
+  "title": "Tribeca Film Festival is founded after 9/11",
+  "action": "keep",
+  "note": "Tribeca Festival logo — correct subject"
+ }
+]

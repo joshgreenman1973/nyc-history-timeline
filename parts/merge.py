@@ -37,6 +37,10 @@ MAJOR = [
     "metropolitan opera house opens","new york philharmonic gives","chinese exclusion act",
     "great migration remakes harlem","saturday night live","cbgb opens","lincoln center opens",
     "first passenger elevator","first macy's thanksgiving",
+    "seagram building","lever house","new york city ballet","alvin ailey","martha graham",
+    "oklahoma","sesame street","mtv launches","vitascope","st. patrick's cathedral",
+    "rockefeller center","the dakota","original pennsylvania station opens","dance theatre of harlem",
+    "the gates","abstract expression","death of a salesman","a raisin in the sun",
 ]
 MINOR = [
     "estêvão gomes","estevao gomes","adriaen block","new netherland company","dutch west india company is chartered",
@@ -66,6 +70,14 @@ MINOR = [
     "omny brings","feast of san gennaro","tin pan alley","first tony awards","first new york film festival",
     "warhol's silver factory","def jam is founded","tenement museum founded","brighton beach","nuyorican poets cafe is born",
     "us open moves","current madison square garden","mets play their first",
+    "the loft","paradise garage","birdland","the palladium","brill building","gerde's","fillmore east",
+    "village vanguard","benny goodman","52nd street","fania","jazz at lincoln center",
+    "the black crook","caffe cino","provincetown","hair","a chorus line","angels in america on broadway",
+    "hamilton at the public","citicorp center","the ford foundation","432 park","hearst tower","the oculus",
+    "twa flight center","whitney's breuer","at&t building","the plaza hotel","the frick","the cloisters",
+    "studio museum","keith haring","stieglitz's 291","the ashcan","brooklyn museum opens",
+    "american mutoscope","the honeymooners","law & order","museum of the moving image","tribeca film",
+    "one-stop film","golden age of live",
 ]
 def weight_for(title):
     t = title.lower()
@@ -81,6 +93,7 @@ SKIP_TITLES = {
     "immigrationactof1924emptiesellisisland",        # dup of "Immigration Act imposes national quotas"
     "nuyoricanpoetscafeopensinloisaida",             # dup of "Nuyorican Poets Cafe is born"
     "astorplaceriotoverrivalshakespeareans",         # dup of "The Astor Place Riot turns deadly"
+    "theastorplaceriotturnsastagefeuddeadly",        # dup of "The Astor Place Riot turns deadly"
 }
 
 def clean(s):

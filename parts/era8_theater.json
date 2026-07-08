@@ -1,0 +1,167 @@
+[
+  {
+    "date": "May 10, 1849",
+    "sortKey": 1849,
+    "title": "The Astor Place Riot turns a stage feud deadly",
+    "blurb": "A rivalry between American actor Edwin Forrest and English tragedian William Charles Macready over who played Shakespeare better boiled into a riot outside the Astor Opera House that left roughly two dozen people dead.",
+    "detail": "Forrest was the idol of the working class while Macready was championed by the Anglophile elite, and their competing Macbeth productions became a proxy for class and nativist resentment. On the night of May 10 a crowd of thousands stormed the opera house near Astor Place, and state militia summoned to restore order fired into the mob. Between 22 and 31 people were killed and more than 120 injured, making it one of the deadliest civic disturbances in the city's history to that point. The bloodshed exposed the raw divisions of Gilded Age New York and reshaped how the city policed public gatherings.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Wikipedia – Astor Place Riot", "url": "https://en.wikipedia.org/wiki/Astor_Place_Riot"},
+      {"name": "Folger Shakespeare Library", "url": "https://www.folger.edu/blogs/shakespeare-and-beyond/astor-place-riot-macbeth-new-york/"}
+    ],
+    "confidence": "high",
+    "icon": "🎭"
+  },
+  {
+    "date": "September 12, 1866",
+    "sortKey": 1866,
+    "title": "\"The Black Crook\" invents the American musical",
+    "blurb": "A five-and-a-half-hour spectacle fusing melodrama, ballet and song opened at Niblo's Garden and is widely credited as the first American musical, running a record 474 performances.",
+    "detail": "The show came together by accident after a fire left a French ballet troupe without a venue, and producers grafted the dancers and their elaborate stage machinery onto a Faustian melodrama. Audiences flocked to its lavish special effects and the scandalous flesh-colored tights worn by the female dancers, which drew moral condemnation from clergy and press. Its unprecedented run and profits proved that spectacle and song could anchor a commercial theater. Historians of the form generally date the birth of the Broadway musical to this opening night at the 3,200-seat Niblo's Garden.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "New York Public Library", "url": "https://www.nypl.org/blog/2011/06/02/musical-month-black-crook"},
+      {"name": "Wikipedia – The Black Crook", "url": "https://en.wikipedia.org/wiki/The_Black_Crook"}
+    ],
+    "confidence": "high",
+    "icon": "🩰"
+  },
+  {
+    "date": "November 3, 1916",
+    "sortKey": 1916,
+    "title": "The Provincetown Players bring O'Neill to the Village",
+    "blurb": "The experimental Provincetown Players opened their first New York season at 139 MacDougal Street in Greenwich Village, introducing the young playwright Eugene O'Neill to city audiences.",
+    "detail": "The company had formed the previous summer in a converted Provincetown fishing shack, where it first staged O'Neill's one-act \"Bound East for Cardiff.\" Its Greenwich Village debut bill paired that play with works by Floyd Dell and Louise Bryant, launching a decade of serious, artist-driven American drama outside the commercial theater. Over the next four years the Players premiered nearly all of O'Neill's early work, building his reputation before his first full-length Broadway play in 1920. O'Neill would go on to win the Nobel Prize and four Pulitzers, and the Provincetown Playhouse became a landmark of the little-theater movement.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Library of Congress", "url": "https://www.loc.gov/item/today-in-history/november-03/"},
+      {"name": "Wikipedia – Provincetown Players", "url": "https://en.wikipedia.org/wiki/Provincetown_Players"}
+    ],
+    "confidence": "high",
+    "icon": "🎭"
+  },
+  {
+    "date": "March 31, 1943",
+    "sortKey": 1943,
+    "title": "\"Oklahoma!\" transforms the American musical",
+    "blurb": "The first collaboration of Richard Rodgers and Oscar Hammerstein II opened at the St. James Theatre, weaving song, story and dance into a single dramatic whole and setting the template for the modern book musical.",
+    "detail": "Unlike the revue-style shows that came before, \"Oklahoma!\" integrated its songs and Agnes de Mille's dream-ballet choreography into a coherent plot, a shift that critics recognized as a turning point for the form. It ran a then-record 2,212 performances over five years and won a special Pulitzer Prize. The triumph launched the most influential partnership in Broadway history, which followed with \"Carousel,\" \"South Pacific\" and \"The King and I.\" Its approach to storytelling shaped musical theater for the rest of the century.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Rodgers & Hammerstein Organization", "url": "https://rodgersandhammerstein.com/production/oklahoma/1943-original-broadway-production/"},
+      {"name": "EBSCO Research Starters", "url": "https://www.ebsco.com/research-starters/history/oklahoma-opens-broadway"}
+    ],
+    "confidence": "high",
+    "icon": "🤠"
+  },
+  {
+    "date": "February 10, 1949",
+    "sortKey": 1949,
+    "title": "\"Death of a Salesman\" premieres on Broadway",
+    "blurb": "Arthur Miller's tragedy of the ordinary American, directed by Elia Kazan and starring Lee J. Cobb as Willy Loman, opened at the Morosco Theatre and became a landmark of the modern stage.",
+    "detail": "Miller's portrait of a failing traveling salesman confronting the emptiness of the American Dream broke with theatrical convention, sliding fluidly between present and memory on Jo Mielziner's spare set. The production ran 742 performances and won the Pulitzer Prize for Drama, the Tony Award for Best Play and the New York Drama Critics' Circle Award. It confirmed Miller as one of the defining American playwrights and Kazan as a leading director of the postwar theater. The play remains among the most revived and studied works in the American canon.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia – Death of a Salesman", "url": "https://en.wikipedia.org/wiki/Death_of_a_Salesman"},
+      {"name": "Internet Broadway Database", "url": "https://www.ibdb.com/broadway-production/death-of-a-salesman-2111"}
+    ],
+    "confidence": "high",
+    "icon": "💼"
+  },
+  {
+    "date": "1958",
+    "sortKey": 1958,
+    "title": "Caffe Cino gives birth to Off-Off-Broadway",
+    "blurb": "Joe Cino opened a tiny coffeehouse at 31 Cornelia Street in Greenwich Village that grew into the seedbed of Off-Off-Broadway, staging new plays on a stage built from milk cartons.",
+    "detail": "Cino, the son of Sicilian immigrants, meant the storefront for poetry and folk music but soon gave over its cramped floor to experimental drama performed without a theater license. The venue nurtured a generation of playwrights including Lanford Wilson, Sam Shepard, John Guare and Tom Eyen, alongside actors like Al Pacino and Bernadette Peters. Its freewheeling, low-budget ethos launched a movement that spread to La MaMa and beyond, redefining what American theater could be. The building was added to the National Register of Historic Places in 2017 and made a New York City landmark in 2019.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "National Park Service", "url": "https://www.nps.gov/articles/caffe-cino.htm"},
+      {"name": "Wikipedia – Caffe Cino", "url": "https://en.wikipedia.org/wiki/Caffe_Cino"}
+    ],
+    "confidence": "high",
+    "icon": "☕"
+  },
+  {
+    "date": "March 11, 1959",
+    "sortKey": 1959,
+    "title": "\"A Raisin in the Sun\" opens on Broadway",
+    "blurb": "Lorraine Hansberry's drama of a working-class Black family became the first Broadway play written by a Black woman when it opened at the Ethel Barrymore Theatre.",
+    "detail": "The play followed the Younger family of Chicago's South Side as they weighed how to spend an insurance windfall against the barriers of housing discrimination. Directed by Lloyd Richards, the first Black director on Broadway, it starred Sidney Poitier, Ruby Dee and Claudia McNeil. It ran 530 performances and won the New York Drama Critics' Circle Award, making Hansberry the first Black writer and the youngest American to receive it. The production opened Broadway to a new generation of Black playwrights and remains a cornerstone of the American repertory.",
+    "category": "Civil Rights & Protest",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "History.com", "url": "https://www.history.com/this-day-in-history/march-11/a-raisin-in-the-sun-debuts-broadway"},
+      {"name": "Wikipedia – A Raisin in the Sun", "url": "https://en.wikipedia.org/wiki/A_Raisin_in_the_Sun"}
+    ],
+    "confidence": "high",
+    "icon": "☀️"
+  },
+  {
+    "date": "October 17, 1967",
+    "sortKey": 1967,
+    "title": "Joseph Papp's Public Theater opens with \"Hair\"",
+    "blurb": "Joseph Papp opened his year-round Public Theater in the former Astor Library on Lafayette Street, launching it with the rock musical \"Hair,\" the first production in its new home.",
+    "detail": "Papp, who had already founded the New York Shakespeare Festival and free Shakespeare in Central Park, secured the crumbling Astor Library from the city for a nominal rent and converted it into a downtown home for new work. \"Hair,\" with its rock score and countercultural themes, inaugurated the Anspacher Theater and signaled Papp's commitment to contemporary, socially engaged drama. The show moved to Broadway in 1968, and the Public went on to originate landmark productions from \"A Chorus Line\" to \"Hamilton.\" The institution became one of the most important incubators of American theater.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Village Preservation", "url": "https://www.villagepreservation.org/2016/10/17/ground-breaking-musical-hair-premiers-at-the-public-theater-october-17-1967/"},
+      {"name": "Wikipedia – The Public Theater", "url": "https://en.wikipedia.org/wiki/The_Public_Theater"}
+    ],
+    "confidence": "high",
+    "icon": "🎭"
+  },
+  {
+    "date": "July 25, 1975",
+    "sortKey": 1975,
+    "title": "\"A Chorus Line\" opens at the Shubert Theatre",
+    "blurb": "Michael Bennett's musical about Broadway dancers auditioning for a show, developed at the Public Theater from taped conversations with real performers, moved uptown and became a phenomenon.",
+    "detail": "Built from recorded sessions in which dancers laid bare their lives and ambitions, the show turned the anonymous chorus line into the emotional heart of a musical. After beginning Off-Broadway at Joseph Papp's Public Theater in April, it transferred to the Shubert on July 25 and ran an astonishing 6,137 performances over nearly 15 years. It won nine Tony Awards and the Pulitzer Prize for Drama, and its profits helped sustain the Public Theater for years. For a time it was the longest-running show in Broadway history.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia – A Chorus Line", "url": "https://en.wikipedia.org/wiki/A_Chorus_Line"},
+      {"name": "Playbill", "url": "https://playbill.com/production/a-chorus-line-broadway-sam-s-shubert-theatre-1975"}
+    ],
+    "confidence": "high",
+    "icon": "💃"
+  },
+  {
+    "date": "May 4, 1993",
+    "sortKey": 1993,
+    "title": "\"Angels in America\" reaches Broadway",
+    "blurb": "Tony Kushner's epic \"Angels in America: Millennium Approaches,\" set amid the AIDS crisis of 1980s New York, opened at the Walter Kerr Theatre and won the Pulitzer Prize for Drama.",
+    "detail": "Subtitled \"A Gay Fantasia on National Themes,\" the sprawling play interwove the lives of a man abandoned by his lover after an AIDS diagnosis, a closeted Mormon lawyer and the real-life power broker Roy Cohn. Directed by George C. Wolfe, the Broadway production won four Tony Awards including Best Play, and its second part, \"Perestroika,\" followed later that year. The work became a defining artistic response to the epidemic and to the politics of the Reagan era. It is widely regarded as one of the most important American plays of the late twentieth century.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Playbill", "url": "https://playbill.com/production/angels-in-america-millennium-approaches-walter-kerr-theatre-vault-0000010052"},
+      {"name": "Wikipedia – Angels in America", "url": "https://en.wikipedia.org/wiki/Angels_in_America"}
+    ],
+    "confidence": "high",
+    "icon": "😇"
+  },
+  {
+    "date": "February 17, 2015",
+    "sortKey": 2015,
+    "title": "\"Hamilton\" premieres at the Public Theater",
+    "blurb": "Lin-Manuel Miranda's hip-hop musical about founding father Alexander Hamilton opened Off-Broadway at the Public Theater before a record-breaking transfer to Broadway that August.",
+    "detail": "Casting Black and Latino actors as the founders and telling their story through rap, R&B and show tunes, the show reframed the American founding for a new era. Its Public Theater run sold out for months, and it opened at the Richard Rodgers Theatre on August 6, 2015, to rapturous reviews and extraordinary demand. At the 2016 Tony Awards it earned a record 16 nominations and won 11, including Best Musical, and it later won the Pulitzer Prize for Drama. \"Hamilton\" became a global cultural phenomenon and one of the most commercially successful musicals ever staged.",
+    "category": "Culture & Landmarks",
+    "era": "21st Century (2001–present)",
+    "sources": [
+      {"name": "Wikipedia – Hamilton (musical)", "url": "https://en.wikipedia.org/wiki/Hamilton_(musical)"},
+      {"name": "Internet Broadway Database", "url": "https://www.ibdb.com/broadway-production/hamilton-499521"}
+    ],
+    "confidence": "high",
+    "icon": "🎤"
+  }
+]

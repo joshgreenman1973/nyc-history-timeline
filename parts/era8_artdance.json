@@ -1,0 +1,212 @@
+[
+  {
+    "date": "October 3, 1897",
+    "sortKey": 1897.8,
+    "title": "The Brooklyn Museum opens its Beaux-Arts building",
+    "blurb": "The first section of the Brooklyn Institute of Arts and Sciences building was dedicated on Eastern Parkway, launching what became the Brooklyn Museum. Designed by McKim, Mead & White after a design competition, it was conceived as one of the largest art museums in the world.",
+    "detail": "Construction on the monumental Beaux-Arts structure began in 1895, and only a fraction of the original grand plan was ever built. The museum grew into a wide-ranging encyclopedic collection spanning ancient Egyptian art, American painting and world cultures. It remains Brooklyn's flagship art institution and the second-largest art museum in New York City.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Brooklyn Museum – Wikipedia", "url": "https://en.wikipedia.org/wiki/Brooklyn_Museum"},
+      {"name": "Brownstoner – How Brooklyn's First Free Library Became the Brooklyn Museum", "url": "https://www.brownstoner.com/history/brooklyn-museum-history-200-eastern-parkway/"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "November 24, 1905",
+    "sortKey": 1905.9,
+    "title": "Stieglitz opens 291 and elevates photography as art",
+    "blurb": "Photographer Alfred Stieglitz opened the Little Galleries of the Photo-Secession at 291 Fifth Avenue, soon known simply as 291. The gallery fought to win art photography the same standing as painting and sculpture in America.",
+    "detail": "Through 291, Stieglitz showcased pioneering photographers such as Edward Steichen, Gertrude Käsebier and Clarence White, then began introducing New Yorkers to the European avant-garde. He staged early American shows of Matisse, Rodin, Cézanne, Picasso and Brâncuși before most museums would touch them. Stieglitz closed 291 in 1917 when the brownstone was slated for demolition, but it had already reshaped how the city saw modern art.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "291 (art gallery) – Wikipedia", "url": "https://en.wikipedia.org/wiki/291_(art_gallery)"},
+      {"name": "The Metropolitan Museum of Art – Alfred Stieglitz and His Circle", "url": "https://www.metmuseum.org/essays/alfred-stieglitz-1864-1946-and-his-circle"}
+    ],
+    "confidence": "high",
+    "icon": "📷"
+  },
+  {
+    "date": "February 1908",
+    "sortKey": 1908.2,
+    "title": "The Eight defy the academy at the Macbeth Galleries",
+    "blurb": "Eight American painters led by Robert Henri mounted a single joint show at the Macbeth Galleries, a direct revolt against the conservative National Academy of Design. Their gritty scenes of everyday city life helped launch what became the Ashcan School.",
+    "detail": "The group included Henri, John Sloan, George Luks, William Glackens and Everett Shinn alongside Ernest Lawson, Maurice Prendergast and Arthur B. Davies. Critics were divided, some praising the daring and others recoiling at the drab, unglamorous subjects, but the show drew crowds and toured other cities. The Eight and the wider Ashcan School pushed American art toward realistic depictions of tenements, saloons and working-class New York.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Britannica – The Eight", "url": "https://www.britannica.com/topic/The-Eight"},
+      {"name": "The Metropolitan Museum of Art – The Ashcan School", "url": "https://www.metmuseum.org/essays/the-ashcan-school"}
+    ],
+    "confidence": "high",
+    "icon": "🎨"
+  },
+  {
+    "date": "April 18, 1926",
+    "sortKey": 1926.3,
+    "title": "Martha Graham gives her first independent concert",
+    "blurb": "Martha Graham presented her first independent concert at the 48th Street Theatre in Manhattan, performing 18 short works she had choreographed. The evening marked the birth of the company now recognized as the oldest dance company in America.",
+    "detail": "Graham danced solos and trios set to music by Schumann, Debussy and Ravel, accompanied by former Denishawn director Louis Horst. Over the following decades she built a percussive, angular movement vocabulary that redefined American modern dance from her New York studio. Her company and technique became one of the most influential forces in twentieth-century dance.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Martha Graham – Wikipedia", "url": "https://en.wikipedia.org/wiki/Martha_Graham"},
+      {"name": "Library of Congress – Martha Graham, Forty-Eighth Street Theatre, April 18, 1926", "url": "https://www.loc.gov/item/ihas.200153243/"}
+    ],
+    "confidence": "high",
+    "icon": "💃"
+  },
+  {
+    "date": "December 16, 1935",
+    "sortKey": 1935.9,
+    "title": "The Frick Collection opens on Fifth Avenue",
+    "blurb": "The Fifth Avenue mansion of industrialist Henry Clay Frick opened to the public as an art museum, six years after his widow's death. Architect John Russell Pope had adapted the Beaux-Arts house into a series of galleries around a skylit Garden Court.",
+    "detail": "The collection preserves Frick's holdings of 14th- to 19th-century European painting and decorative arts, displayed in domestic rooms rather than conventional galleries. Masterworks by Vermeer, Rembrandt, Bellini and others hang where the family once lived, at 1 East 70th Street on Museum Mile. The Frick became one of the city's most intimate and admired small museums.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Frick Collection – Wikipedia", "url": "https://en.wikipedia.org/wiki/Frick_Collection"},
+      {"name": "History of The Frick Collection", "url": "https://www.frick.org/about/history"}
+    ],
+    "confidence": "high",
+    "icon": "🖼️"
+  },
+  {
+    "date": "May 10, 1938",
+    "sortKey": 1938.4,
+    "title": "The Cloisters opens in Fort Tryon Park",
+    "blurb": "The Metropolitan Museum of Art opened The Cloisters, a museum of European medieval art perched above the Hudson in Fort Tryon Park. It was built around portions of five French monastic cloisters shipped to Upper Manhattan.",
+    "detail": "John D. Rockefeller Jr. funded the museum, donated the land and gave the collection assembled by sculptor George Grey Barnard. Architect Charles Collens designed the building to evoke Romanesque and Gothic religious spaces, incorporating the medieval Cuxa, Saint-Guilhem, Bonnefont and Trie cloisters. Its treasures include the celebrated Unicorn Tapestries, making it a singular medieval retreat within the modern city.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "The Cloisters – Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Cloisters"},
+      {"name": "NYC Parks – Fort Tryon Park Highlights: The Cloisters", "url": "https://www.nycgovparks.org/parks/fort-tryon-park/highlights/11974"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "January 11, 1940",
+    "sortKey": 1940.0,
+    "title": "Ballet Theatre gives its inaugural performance",
+    "blurb": "The company that became American Ballet Theatre gave its first performance at the Center Theatre in Rockefeller Center. Billed as America's first ballet theatre, it aimed to blend the classics with adventurous new work.",
+    "detail": "Founding directors Richard Pleasant and Lucia Chase built the troupe around a diversity of choreographers and styles rather than a single vision. The opening season packed in six world premieres and five American premieres in its first ten days alone. American Ballet Theatre grew into one of the country's two great classical companies and a national touring institution.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "American Ballet Theatre – Wikipedia", "url": "https://en.wikipedia.org/wiki/American_Ballet_Theatre"},
+      {"name": "Library of Congress – American Ballet Theatre: 1940", "url": "https://www.loc.gov/exhibits/american-ballet-theatre/1940.html"}
+    ],
+    "confidence": "high",
+    "icon": "🩰"
+  },
+  {
+    "date": "October 11, 1948",
+    "sortKey": 1948.8,
+    "title": "Balanchine and Kirstein found New York City Ballet",
+    "blurb": "New York City Ballet gave its first performance under that name at City Center, growing out of the Ballet Society that George Balanchine and Lincoln Kirstein had started in 1946. The debut program included Concerto Barocco, Orpheus and Symphony in C.",
+    "detail": "Balanchine served as artistic director and Kirstein as general director, joining the City Center municipal complex after impressing its finance chairman. Balanchine's spare, musical neoclassicism defined the company and reshaped American ballet for decades. New York City Ballet later moved to Lincoln Center and became one of the world's foremost dance companies.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "New York City Ballet – Wikipedia", "url": "https://en.wikipedia.org/wiki/New_York_City_Ballet"},
+      {"name": "Our History | New York City Ballet", "url": "https://www.nycballet.com/discover/our-history"}
+    ],
+    "confidence": "high",
+    "icon": "🩰"
+  },
+  {
+    "date": "May 22, 1950",
+    "sortKey": 1950.4,
+    "title": "The Irascibles rebuke the Metropolitan Museum",
+    "blurb": "Eighteen avant-garde painters signed an open letter boycotting a Metropolitan Museum of Art exhibition they charged was hostile to advanced art. Published in The New York Times, the protest helped popularize the term Abstract Expressionist.",
+    "detail": "The signers included Jackson Pollock, Willem de Kooning, Mark Rothko, Barnett Newman, Adolph Gottlieb and Hedda Sterne. A now-iconic Life magazine group photograph turned the dissidents into the public face of the New York School. Their revolt announced New York's arrival as the new center of gravity in the international art world.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "The Irascibles – Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Irascibles"},
+      {"name": "ARTnews – How 'Irascible' Abstract Expressionists Stared Down the Met", "url": "https://www.artnews.com/art-news/artists/the-irascibles-abstract-expressionism-met-controversy-1202696451/"}
+    ],
+    "confidence": "high",
+    "icon": "🎨"
+  },
+  {
+    "date": "March 30, 1958",
+    "sortKey": 1958.2,
+    "title": "Alvin Ailey's company debuts at the 92nd Street Y",
+    "blurb": "Alvin Ailey and a group of young Black modern dancers gave their first performance at the 92nd Street YM-YWHA, launching what became Alvin Ailey American Dance Theater. The evening included Ailey's early work Blues Suite.",
+    "detail": "In January 1960 the company premiered Revelations, Ailey's suite set to African American spirituals, at the same Kaufmann Concert Hall. Revelations became one of the most widely performed and beloved works in modern dance. Ailey's company opened concert dance to Black artists and audiences and grew into a global cultural ambassador based in New York.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Alvin Ailey American Dance Theater – Wikipedia", "url": "https://en.wikipedia.org/wiki/Alvin_Ailey_American_Dance_Theater"},
+      {"name": "Ailey – History: 1958", "url": "https://www.alvinailey.org/history/history-1958"}
+    ],
+    "confidence": "high",
+    "icon": "💃"
+  },
+  {
+    "date": "1968",
+    "sortKey": 1968.5,
+    "title": "The Studio Museum in Harlem opens",
+    "blurb": "The Studio Museum in Harlem opened in a rented loft on upper Fifth Avenue with an exhibition of Tom Lloyd's electronic light installations. It was created to champion artists of African descent long ignored by major galleries.",
+    "detail": "Founded during a period of national upheaval, the museum built its identity around an artist-in-residence program that gave the institution its name. It later moved to 144 West 125th Street and became the nation's leading museum devoted to art by African American, Caribbean and African artists. A new purpose-built home on the same site opened in November 2025.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Studio Museum in Harlem – Wikipedia", "url": "https://en.wikipedia.org/wiki/Studio_Museum_in_Harlem"},
+      {"name": "About the Studio Museum in Harlem", "url": "https://www.studiomuseum.org/about"}
+    ],
+    "confidence": "high",
+    "icon": "🖼️"
+  },
+  {
+    "date": "August 15, 1969",
+    "sortKey": 1969.6,
+    "title": "Arthur Mitchell founds Dance Theatre of Harlem",
+    "blurb": "Arthur Mitchell, the first Black principal dancer at New York City Ballet, joined with ballet master Karel Shook to found Dance Theatre of Harlem. It became the world's first permanent, professional, predominantly Black ballet company.",
+    "detail": "Mitchell was spurred to act by the assassination of Martin Luther King Jr., beginning classes in a converted Harlem garage. The company and school proved that classical ballet belonged to dancers of color and reached young people through wide outreach programs. Dance Theatre of Harlem toured the world and reshaped the racial makeup of ballet stages.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Dance Theatre of Harlem – Wikipedia", "url": "https://en.wikipedia.org/wiki/Dance_Theatre_of_Harlem"},
+      {"name": "Dance Theatre of Harlem – Our History", "url": "https://www.dancetheatreofharlem.org/our-history/"}
+    ],
+    "confidence": "high",
+    "icon": "🩰"
+  },
+  {
+    "date": "December 1980",
+    "sortKey": 1980.95,
+    "title": "Keith Haring starts his subway chalk drawings",
+    "blurb": "Keith Haring began drawing quick white chalk figures on the black paper covering unused subway advertising panels. Over roughly five years he made thousands of these drawings across the New York City subway system.",
+    "detail": "Haring treated the subway as his laboratory, sketching radiant babies, barking dogs and dancing figures in seconds before catching the next train. The drawings gave him a citywide public audience and a recognizable visual language that carried into galleries and merchandise. Alongside Jean-Michel Basquiat, Haring helped move 1980s street and graffiti art into the mainstream art world.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Keith Haring – Wikipedia", "url": "https://en.wikipedia.org/wiki/Keith_Haring"},
+      {"name": "Smarthistory – Keith Haring, Subway Drawings", "url": "https://smarthistory.org/keith-haring-subway-drawings/"}
+    ],
+    "confidence": "high",
+    "icon": "🎨"
+  },
+  {
+    "date": "February 12, 2005",
+    "sortKey": 2005.1,
+    "title": "Christo and Jeanne-Claude raise The Gates in Central Park",
+    "blurb": "The artists Christo and Jeanne-Claude unfurled The Gates, 7,503 saffron-fabric gateways lining 23 miles of Central Park walkways. Conceived in 1979, the project was finally realized for 16 days in February 2005.",
+    "detail": "The 16-foot-tall gates carried free-hanging panels that rippled orange against the winter park, drawing an estimated four million visitors. The artists financed the roughly 21-million-dollar work themselves and charged no admission. The temporary installation became one of the most popular public artworks in the city's history before it was dismantled on February 28.",
+    "category": "Culture & Landmarks",
+    "era": "21st Century (2001–present)",
+    "sources": [
+      {"name": "The Gates – Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Gates"},
+      {"name": "Central Park Conservancy – The Gates", "url": "https://www.centralparknyc.org/articles/the-gates-a-triumphant-celebration-of-central-park"}
+    ],
+    "confidence": "high",
+    "icon": "🟠"
+  }
+]

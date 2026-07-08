@@ -1,0 +1,165 @@
+[
+  {
+    "date": "1895",
+    "sortKey": 1895,
+    "title": "American Mutoscope, the first US film studio, opens",
+    "blurb": "Founded in New York City in 1895, the American Mutoscope Company — later the Biograph Company — became the first American firm devoted entirely to producing and exhibiting motion pictures.",
+    "detail": "Its four founders included W.K.L. Dickson, who had helped build Edison's Kinetoscope before defecting to a rival venture. The company shot early films on a rooftop studio mounted on a turntable so it could follow the sun, releasing its first picture in 1896. For two decades before Hollywood, New York was the capital of American filmmaking, and Biograph grew into the studio where D.W. Griffith learned to direct.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Britannica — Biograph Company", "url": "https://www.britannica.com/money/Biograph-Company"},
+      {"name": "Wikipedia — Biograph Company", "url": "https://en.wikipedia.org/wiki/Biograph_Company"}
+    ],
+    "confidence": "high",
+    "icon": "🎞️"
+  },
+  {
+    "date": "April 23, 1896",
+    "sortKey": 1896,
+    "title": "Edison's Vitascope debuts at Koster & Bial's",
+    "blurb": "The first commercial projection of motion pictures for a paying American audience took place at Koster & Bial's Music Hall on Herald Square, using Edison's Vitascope.",
+    "detail": "Moving pictures were thrown onto a 20-foot screen set inside an ornate gilded frame, and audiences reportedly recoiled at footage of waves rolling toward the camera. Within days the theater was billing the machine as Edison's greatest marvel. The projector, actually developed by Thomas Armat and Charles Francis Jenkins and marketed under Edison's name, turned movies from a peephole novelty into a mass spectacle.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Library of Congress — Shift to Projectors and the Vitascope", "url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-motion-pictures/shift-to-projectors-and-the-vitoscope/"},
+      {"name": "Wikipedia — Koster & Bial's Music Hall", "url": "https://en.wikipedia.org/wiki/Koster_%26_Bial's_Music_Hall"}
+    ],
+    "confidence": "high",
+    "icon": "📽️"
+  },
+  {
+    "date": "1920",
+    "sortKey": 1920,
+    "title": "Paramount's Astoria studio opens in Queens",
+    "blurb": "Famous Players-Lasky, the company that became Paramount, consolidated its East Coast operations into a large studio in Astoria, Queens in 1920, close to Manhattan's theater district.",
+    "detail": "Silent-era stars including Rudolph Valentino, Gloria Swanson and W.C. Fields worked on its stages, and the Marx Brothers and Claudette Colbert made early talkies there. Renamed Kaufman Astoria Studios after developer George S. Kaufman took over in 1982, the complex remains one of the country's few active studios outside Los Angeles. It anchored New York's film production long after most of the industry migrated west.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "Wikipedia — Kaufman Astoria Studios", "url": "https://en.wikipedia.org/wiki/Kaufman_Astoria_Studios"},
+      {"name": "Museum of the Moving Image — The Astoria Studio", "url": "https://movingimage.org/feature/the-astoria-studio/"}
+    ],
+    "confidence": "high",
+    "icon": "🎬"
+  },
+  {
+    "date": "May 7, 1947",
+    "sortKey": 1947,
+    "title": "Live TV's Golden Age begins with Kraft Theatre",
+    "blurb": "The premiere of Kraft Television Theatre on May 7, 1947 opened the Golden Age of live television drama, an era of anthology plays broadcast largely from New York studios.",
+    "detail": "For more than a decade, series such as Studio One, Philco Television Playhouse and Playhouse 90 staged original teleplays live before the cameras. Writers including Paddy Chayefsky and Rod Serling and actors trained in New York theater made television a home for serious drama; Chayefsky's Marty, aired in 1953, later won the Academy Award for best picture. The era faded around 1960 as production shifted to filmed programming in California.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia — Golden Age of Television", "url": "https://en.wikipedia.org/wiki/Golden_Age_of_Television"},
+      {"name": "Museum of Broadcast Communications — Golden Age of Television Drama", "url": "https://www.museum.tv/tv-encyclopedia-7/golden-age-of-television-drama"}
+    ],
+    "confidence": "high",
+    "icon": "📺"
+  },
+  {
+    "date": "October 1, 1955",
+    "sortKey": 1955,
+    "title": "\"The Honeymooners\" premieres on CBS",
+    "blurb": "Jackie Gleason's sitcom about a Brooklyn bus driver premiered on CBS on October 1, 1955, immortalizing working-class New York in 39 filmed episodes.",
+    "detail": "Ralph Kramden, his wife Alice, and upstairs neighbor Ed Norton lived in a spare Bensonhurst apartment, and the show mined comedy from rent, schemes and everyday frustration. Though it ran only a single season in this form, its \"Classic 39\" episodes became a syndication staple watched for decades. The series helped define the urban American sitcom.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia — The Honeymooners", "url": "https://en.wikipedia.org/wiki/The_Honeymooners"}
+    ],
+    "confidence": "high",
+    "icon": "🚌"
+  },
+  {
+    "date": "1966",
+    "sortKey": 1966,
+    "title": "Lindsay creates one-stop film permitting",
+    "blurb": "Mayor John Lindsay in 1966 established a single city film permit and a dedicated office, making New York the first city to actively court location shooting.",
+    "detail": "Executive Order 10 created what became the Mayor's Office of Film, Theatre and Broadcasting, ended official censorship of films shot on city property and assigned a police unit to help productions. Film activity roughly doubled that year. The reform opened the location-shooting era that produced Midnight Cowboy, The French Connection and Taxi Driver and put the real city on screen.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "NYC Mayor's Office of Media and Entertainment — Office History", "url": "https://www.nyc.gov/site/mome/about/office-history.page"},
+      {"name": "Urban Omnibus — When John Lindsay Gave New York to the World", "url": "https://urbanomnibus.net/2016/03/when-john-lindsay-gave-new-york-to-the-world/"}
+    ],
+    "confidence": "high",
+    "icon": "🎥"
+  },
+  {
+    "date": "November 10, 1969",
+    "sortKey": 1969,
+    "title": "\"Sesame Street\" premieres from New York",
+    "blurb": "Created by New York's Children's Television Workshop, Sesame Street debuted on November 10, 1969, set on a fictional inner-city block with an ethnically diverse cast.",
+    "detail": "Conceived by Joan Ganz Cooney and Lloyd Morrisett to use television to prepare disadvantaged children for school, the show reached a 3.3 Nielsen rating in its first season. Its brownstone stoop, trash-can-dwelling Oscar the Grouch and mix of Muppets and neighbors drew on the texture of New York street life. It became one of the most widely watched and studied children's programs in the world.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "History.com — Sesame Street Debuts", "url": "https://www.history.com/this-day-in-history/november-10/sesame-street-debuts"},
+      {"name": "Wikipedia — Sesame Street", "url": "https://en.wikipedia.org/wiki/Sesame_Street"}
+    ],
+    "confidence": "high",
+    "icon": "🧸"
+  },
+  {
+    "date": "August 1, 1981",
+    "sortKey": 1981,
+    "title": "MTV launches from New York",
+    "blurb": "MTV went on the air at 12:01 a.m. on August 1, 1981 from its New York base, opening with the pointed clip \"Video Killed the Radio Star.\"",
+    "detail": "The channel's first words, \"Ladies and gentlemen, rock and roll,\" belonged to co-founder John Lack, and at launch the cable signal reached only a limited number of households in parts of New Jersey. Programmed around the video jockey, MTV reshaped the music industry and made the music video a defining art form of the 1980s. Its studios and corporate home stayed rooted in Manhattan.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "History.com — MTV Launches", "url": "https://www.history.com/this-day-in-history/august-1/mtv-launches"},
+      {"name": "Wikipedia — Video Killed the Radio Star", "url": "https://en.wikipedia.org/wiki/Video_Killed_the_Radio_Star"}
+    ],
+    "confidence": "high",
+    "icon": "🎸"
+  },
+  {
+    "date": "September 10, 1988",
+    "sortKey": 1988,
+    "title": "Museum of the Moving Image opens in Astoria",
+    "blurb": "The Museum of the Moving Image opened on September 10, 1988 inside a former Paramount building at the Astoria studios, the first US museum devoted solely to film, television and video.",
+    "detail": "Its collection spans cameras, costumes, props and thousands of artifacts tracing the art, technology and business of moving images. Housed on the historic lot where Famous Players-Lasky once filmed silent pictures, the museum completed a 67-million-dollar expansion and reopened in 2011. It ties Queens' early studio heritage to a public institution for the moving image.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia — Museum of the Moving Image", "url": "https://en.wikipedia.org/wiki/Museum_of_the_Moving_Image"},
+      {"name": "Museum of the Moving Image — Museum History", "url": "https://movingimage.org/about/museum-history/"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "September 13, 1990",
+    "sortKey": 1990,
+    "title": "\"Law & Order\" premieres on NBC",
+    "blurb": "Dick Wolf's Law & Order premiered on NBC on September 13, 1990, set and shot in New York City with its signature split between police investigation and prosecution.",
+    "detail": "Each episode followed detectives solving a crime, then handed the story to Manhattan prosecutors seeking a conviction, often drawing plots ripped from the headlines. The original series ran 20 seasons, tying the network drama Gunsmoke for the longest run of a live-action primetime series at the time. Filmed on location across the five boroughs, it spawned a franchise that made the city a recurring character.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Wikipedia — Law & Order", "url": "https://en.wikipedia.org/wiki/Law_%26_Order"}
+    ],
+    "confidence": "high",
+    "icon": "⚖️"
+  },
+  {
+    "date": "May 2002",
+    "sortKey": 2002,
+    "title": "Tribeca Film Festival is founded after 9/11",
+    "blurb": "Robert De Niro, Jane Rosenthal and Craig Hatkoff founded the Tribeca Film Festival, whose first edition ran in May 2002 to revive Lower Manhattan after the September 11 attacks.",
+    "detail": "The festival was conceived in the months after the World Trade Center fell, aiming to draw people and money back to a neighborhood near ground zero. Its opening drew guests including Nelson Mandela and Bill Clinton, with Hugh Grant's About a Boy among the first screenings. It grew into a major annual event hosting hundreds of screenings and roughly 150,000 attendees.",
+    "category": "Culture & Landmarks",
+    "era": "21st Century (2001–present)",
+    "sources": [
+      {"name": "Wikipedia — Tribeca Festival", "url": "https://en.wikipedia.org/wiki/Tribeca_Festival"},
+      {"name": "9/11 Memorial — De Niro, Rosenthal and the Tribeca Film Festival", "url": "https://www.911memorial.org/connect/blog/911-memorial-board-members-de-niro-rosenthal-keep-tribeca-film-festival-thriving"}
+    ],
+    "confidence": "high",
+    "icon": "🎪"
+  }
+]

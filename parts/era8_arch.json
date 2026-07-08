@@ -1,0 +1,242 @@
+[
+  {
+    "date": "May 21, 1846",
+    "sortKey": 1846,
+    "title": "Trinity Church's Gothic Revival spire is consecrated",
+    "blurb": "Richard Upjohn's third Trinity Church, at the head of Wall Street, was consecrated. Its 281-foot brownstone spire made it the tallest structure in the city, a distinction it held for decades.",
+    "detail": "Upjohn's design was among the earliest and purest American works of the Gothic Revival, modeled on English parish-church precedent and built with true masonry construction rather than applied ornament. The church anchored the Episcopal establishment at the foot of Wall Street even as the surrounding district turned commercial. It remained the tallest point on the Manhattan skyline until the 1890s.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "National Park Service", "url": "https://www.nps.gov/places/trinity-church.htm"},
+      {"name": "Trinity Church Wall Street", "url": "https://www.trinitywallstreet.org/about/history"}
+    ],
+    "confidence": "high",
+    "icon": "⛪"
+  },
+  {
+    "date": "May 25, 1879",
+    "sortKey": 1879,
+    "title": "St. Patrick's Cathedral is dedicated on Fifth Avenue",
+    "blurb": "Archbishop John McCloskey dedicated James Renwick Jr.'s vast Gothic Revival cathedral at Fifth Avenue and 50th Street. When it opened it was the largest Catholic church in the United States.",
+    "detail": "Renwick drew on the great medieval cathedrals of France and Germany, giving American Catholicism a monumental presence on what was then the edge of the built-up city. The twin spires, added in 1888, rose 330 feet and became a Fifth Avenue landmark. The building signaled the arrival of the Catholic immigrant church as a civic and architectural force in New York.",
+    "category": "Culture & Landmarks",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "Saint Patrick's Cathedral", "url": "https://saintpatrickscathedral.org/history"},
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/St-Patricks-Cathedral-New-York-City"}
+    ],
+    "confidence": "high",
+    "icon": "⛪"
+  },
+  {
+    "date": "October 27, 1884",
+    "sortKey": 1884,
+    "title": "The Dakota apartments open on the Upper West Side",
+    "blurb": "Henry Hardenbergh's Dakota opened at 72nd Street and Central Park West, one of the first luxury apartment houses in the city. Its German Renaissance mass helped make apartment living respectable for the wealthy.",
+    "detail": "Developer Edward Clark of the Singer Sewing Machine fortune bet that affluent New Yorkers would abandon private townhouses for grand shared buildings, a European idea still novel in Manhattan. The Dakota's deep courtyards, high ceilings and gabled roofline set the template for the elite apartment house. It anchored the residential development of the Upper West Side and remains one of the city's most storied addresses.",
+    "category": "Infrastructure & Building",
+    "era": "Empire City Rising (1784–1897)",
+    "sources": [
+      {"name": "NYC Landmarks Preservation Commission", "url": "http://s-media.nyc.gov/agencies/lpc/lp/0421.pdf"},
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/the-Dakota"}
+    ],
+    "confidence": "high",
+    "icon": "🏛️"
+  },
+  {
+    "date": "October 1, 1907",
+    "sortKey": 1907,
+    "title": "The Plaza Hotel opens facing Central Park",
+    "blurb": "Henry Hardenbergh's Plaza Hotel opened at Fifth Avenue and Central Park South. The French Renaissance chateau-style tower quickly became the grandest hotel in the city.",
+    "detail": "Hardenbergh, who had also designed the Dakota, gave the Plaza a white glazed-brick and marble facade crowned with steep green mansard roofs. Its lavish public rooms, including the Palm Court and the Oak Room, made it a center of Gilded Age society. The hotel was later designated a National Historic Landmark for its architecture and cultural role.",
+    "category": "Culture & Landmarks",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "National Park Service", "url": "https://www.nps.gov/places/the-plaza-hotel.htm"},
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/Plaza-Hotel"}
+    ],
+    "confidence": "high",
+    "icon": "🏨"
+  },
+  {
+    "date": "November 27, 1910",
+    "sortKey": 1910,
+    "title": "The original Pennsylvania Station opens",
+    "blurb": "McKim, Mead & White's Pennsylvania Station opened to the public, bringing Pennsylvania Railroad trains directly into Manhattan through new Hudson River tunnels. Its waiting room was modeled on the Roman Baths of Caracalla.",
+    "detail": "The pink-granite head house, ringed by 84 Doric columns, opened onto a vast steel-and-glass concourse flooded with light, one of the supreme American works of Beaux-Arts architecture. It ended the era of ferrying passengers across the Hudson and reshaped Midtown. Its demolition in 1963-1966 for Madison Square Garden shocked the public and helped spur the modern landmarks-preservation movement.",
+    "category": "Infrastructure & Building",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "New-York Historical Society", "url": "https://www.nyhistory.org/blogs/penn-station-masterpiece"},
+      {"name": "Preservation history, NYPAP", "url": "https://www.nypap.org/preservation-history/pennsylvania-station/"}
+    ],
+    "confidence": "high",
+    "icon": "🚉"
+  },
+  {
+    "date": "November 1, 1933",
+    "sortKey": 1933,
+    "title": "The RCA Building opens at Rockefeller Center",
+    "blurb": "The 70-story RCA Building, the slab-like centerpiece of Rockefeller Center, was completed by Raymond Hood and the Associated Architects. It set the pattern for the Art Deco office slab.",
+    "detail": "Rockefeller Center was conceived as a privately built city-within-a-city, integrating office towers, plazas, shops and Radio City Music Hall around a sunken plaza. The RCA Building's thin, setback slab maximized daylight and rentable floors, influencing corporate skyscraper design for decades. The full complex, one of the largest private building projects of the Depression era, was completed in stages through 1940.",
+    "category": "Infrastructure & Building",
+    "era": "Greater New York (1898–1945)",
+    "sources": [
+      {"name": "National Park Service", "url": "https://www.nps.gov/places/rockefeller-center.htm"},
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/Rockefeller-Center"}
+    ],
+    "confidence": "high",
+    "icon": "🏙️"
+  },
+  {
+    "date": "April 29, 1952",
+    "sortKey": 1952,
+    "title": "Lever House brings the glass curtain wall to Park Avenue",
+    "blurb": "Gordon Bunshaft's Lever House, for Skidmore, Owings & Merrill, opened at 390 Park Avenue. Its blue-green glass skin was among the first true curtain walls on an American office tower.",
+    "detail": "The slab floated above an open ground-level plaza on stainless-steel columns, breaking with the masonry setback tower and its street wall. The sealed glass envelope depended on new air conditioning and helped launch the corporate International Style in the United States. Its success paved the way for a generation of glass-and-steel towers along Park Avenue.",
+    "category": "Infrastructure & Building",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "NYC Landmarks Preservation Commission", "url": "http://s-media.nyc.gov/agencies/lpc/lp/1277.pdf"},
+      {"name": "SOM", "url": "https://www.som.com/projects/lever-house/"}
+    ],
+    "confidence": "high",
+    "icon": "🏢"
+  },
+  {
+    "date": "December 1, 1958",
+    "sortKey": 1958,
+    "title": "The Seagram Building sets the modernist standard",
+    "blurb": "Ludwig Mies van der Rohe and Philip Johnson completed the bronze-and-glass Seagram Building at 375 Park Avenue. Set back 100 feet behind a granite plaza, it became one of the most influential skyscrapers ever built.",
+    "detail": "Mies expressed the steel frame with non-structural bronze I-beam mullions, achieving a taut, rigorously detailed curtain wall that read as pure structure. The generous public plaza it created was so admired that New York rewrote its 1961 zoning code to encourage such open spaces citywide. The building became the definitive statement of corporate modernism and among the most copied designs in the world.",
+    "category": "Infrastructure & Building",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/Seagram-Building"},
+      {"name": "NYC Landmarks Preservation Commission", "url": "http://s-media.nyc.gov/agencies/lpc/lp/1664.pdf"}
+    ],
+    "confidence": "high",
+    "icon": "🏢"
+  },
+  {
+    "date": "May 28, 1962",
+    "sortKey": 1962,
+    "title": "Saarinen's TWA Flight Center opens at Idlewild",
+    "blurb": "Eero Saarinen's TWA Flight Center was dedicated at what is now John F. Kennedy International Airport. Its sculptural thin-shell concrete roof, shaped like outstretched wings, made it an icon of the Jet Age.",
+    "detail": "Saarinen, who died in 1961 before it opened, designed four cantilevered concrete vaults springing from Y-shaped piers, with a flowing, cave-like interior of curved staircases and tube-shaped passenger corridors. It expressed the optimism and glamour of early commercial jet travel like no other terminal. The head house was preserved and reopened in 2019 as the centerpiece of the TWA Hotel.",
+    "category": "Infrastructure & Building",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Docomomo US", "url": "https://www.docomomo-us.org/register/twa-terminal"},
+      {"name": "Britannica", "url": "https://www.britannica.com/biography/Eero-Saarinen"}
+    ],
+    "confidence": "high",
+    "icon": "✈️"
+  },
+  {
+    "date": "September 28, 1966",
+    "sortKey": 1966,
+    "title": "The Whitney's Breuer building opens on Madison Avenue",
+    "blurb": "Marcel Breuer's granite-clad Whitney Museum opened at 945 Madison Avenue. Its inverted-ziggurat form and cantilevered upper floors made it a landmark of Brutalist architecture.",
+    "detail": "Breuer, trained at the Bauhaus, designed a fortress-like block of gray granite that stepped outward as it rose, punctuated by a few trapezoidal windows. Widely criticized as heavy and even hostile when it opened, it is now celebrated as one of the finest museum buildings of its era. The Whitney left for the Meatpacking District in 2014, and the building was designated a city landmark in 2025.",
+    "category": "Culture & Landmarks",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Whitney Museum of American Art", "url": "https://whitney.org/about/breuer-building"},
+      {"name": "NYC Landmarks Preservation Commission", "url": "https://www.nyc.gov/site/lpc/about/pr2025/lpc-designates-the-former-whitney-museum-of-american-art-20250520.page"}
+    ],
+    "confidence": "high",
+    "icon": "🖼️"
+  },
+  {
+    "date": "December 1, 1968",
+    "sortKey": 1968,
+    "title": "The Ford Foundation opens Manhattan's first atrium garden",
+    "blurb": "Kevin Roche and John Dinkeloo completed the Ford Foundation headquarters near the United Nations. Its 12-story glass-walled garden was the first great enclosed public atrium in a Manhattan office building.",
+    "detail": "Roche wrapped an L-shaped office block around a soaring greenhouse atrium planted with trees and a reflecting pool, designed with landscape architect Dan Kiley. The gesture introduced lush, semi-public interior space to the corporate high-rise and influenced countless later atrium buildings. The granite-clad structure helped earn Roche the Pritzker Prize in 1982.",
+    "category": "Infrastructure & Building",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Docomomo US", "url": "https://www.docomomo-us.org/register/ford-foundation-headquarters"},
+      {"name": "Ford Foundation", "url": "https://www.fordfoundation.org/about/the-ford-foundation-center-for-social-justice/our-buildings-history/"}
+    ],
+    "confidence": "high",
+    "icon": "🌳"
+  },
+  {
+    "date": "October 12, 1977",
+    "sortKey": 1977,
+    "title": "Citicorp Center opens, then is secretly reinforced",
+    "blurb": "Hugh Stubbins and engineer William LeMessurier completed Citicorp Center, a 59-story tower on stilts with a distinctive sloped top. A year later a hidden structural flaw prompted a secret emergency repair.",
+    "detail": "The tower stood on four massive columns placed at the midpoints of its sides, freeing a corner for St. Peter's Church, while a tuned mass damper controlled sway. In 1978 LeMessurier realized wind on the diagonal could overload bolted joints, and crews quietly welded steel plates over the connections at night to avert a possible collapse. The episode, revealed in 1995, became a landmark case study in engineering ethics.",
+    "category": "Infrastructure & Building",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Engineering News-Record", "url": "https://www.enr.com/articles/60648-author-details-citicorp-tower-design-error-and-the-race-to-fix-it"},
+      {"name": "NYC Landmarks Preservation Commission", "url": "http://s-media.nyc.gov/agencies/lpc/lp/2591.pdf"}
+    ],
+    "confidence": "high",
+    "icon": "🏢"
+  },
+  {
+    "date": "October 1, 1984",
+    "sortKey": 1984,
+    "title": "The AT&T Building announces postmodernism",
+    "blurb": "Philip Johnson and John Burgee completed the pink-granite AT&T Building at 550 Madison Avenue. Its broken-pediment \"Chippendale\" crown made it the most famous postmodern skyscraper.",
+    "detail": "Rejecting the neutral glass box, Johnson clad the tower in stone with a clear base, shaft and crown and topped it with a scrolled pediment borrowed from 18th-century furniture. Announced on the front page of The New York Times in 1978, it instantly became a manifesto for architectural historicism. Now known as 550 Madison, it was later renovated and its ground-floor arcade converted to a public garden.",
+    "category": "Infrastructure & Building",
+    "era": "Modern Metropolis (1946–2000)",
+    "sources": [
+      {"name": "Docomomo US", "url": "https://docomomo-us.org/register/at-t-building"},
+      {"name": "The Skyscraper Museum", "url": "https://skyscraper.org/programs/the-att-building-philip-johnson-and-the-postmodern-skyscraper/"}
+    ],
+    "confidence": "high",
+    "icon": "🏢"
+  },
+  {
+    "date": "October 9, 2006",
+    "sortKey": 2006,
+    "title": "Hearst Tower rises as the city's first green skyscraper",
+    "blurb": "Norman Foster's Hearst Tower opened above the 1928 Hearst base at Eighth Avenue and 57th Street. It became the first office tower in New York to earn LEED Gold certification.",
+    "detail": "Foster set a faceted diagonal-grid, or diagrid, tower atop the preserved six-story Art Deco plinth, using about 20 percent less steel than a conventional frame. Rainwater collection, recycled steel and energy-saving systems made it a model for sustainable high-rise design. It was among the first buildings to make environmental performance a defining architectural argument in New York.",
+    "category": "Infrastructure & Building",
+    "era": "21st Century (2001–present)",
+    "sources": [
+      {"name": "Foster + Partners", "url": "https://www.fosterandpartners.com/projects/hearst-headquarters/"},
+      {"name": "ArchDaily", "url": "https://www.archdaily.com/204701/flashback-hearst-tower-foster-and-partners"}
+    ],
+    "confidence": "high",
+    "icon": "🌿"
+  },
+  {
+    "date": "December 23, 2015",
+    "sortKey": 2015,
+    "title": "432 Park Avenue tops out the Billionaires' Row era",
+    "blurb": "Rafael Vinoly's 432 Park Avenue was completed as the tallest residential building in the world. Its slender concrete grid of square windows defined the new generation of supertall Midtown towers.",
+    "detail": "The 1,396-foot tower, built of white cement in a rigid waffle-like lattice, achieved extreme height on a tiny footprint thanks to advances in high-strength concrete and wind-damping engineering. It epitomized Billionaires' Row, the cluster of pencil-thin luxury condominiums near 57th Street aimed at ultra-wealthy global buyers. Its arrival reshaped the Midtown skyline and sharpened debate over housing, taxation and inequality.",
+    "category": "Infrastructure & Building",
+    "era": "21st Century (2001–present)",
+    "sources": [
+      {"name": "Rafael Vinoly Architects", "url": "https://vinoly.com/works/432-park-avenue/"},
+      {"name": "The Skyscraper Center, CTBUH", "url": "https://www.skyscrapercenter.com/building/432-park-avenue/13227"}
+    ],
+    "confidence": "high",
+    "icon": "🏙️"
+  },
+  {
+    "date": "March 3, 2016",
+    "sortKey": 2016,
+    "title": "Calatrava's Oculus opens at the World Trade Center",
+    "blurb": "Santiago Calatrava's World Trade Center Transportation Hub, known as the Oculus, opened after years of delay. Its white ribbed dome, meant to evoke a bird in flight, became a striking new civic space downtown.",
+    "detail": "The winged steel head house rises between the new World Trade Center towers over a vast marble mezzanine connecting PATH trains, subways and the memorial plaza. A retractable skylight along its spine floods the hall with light and opens each September 11. Nearly a decade late and roughly $4 billion in cost, it drew both admiration for its ambition and criticism for its expense.",
+    "category": "Infrastructure & Building",
+    "era": "21st Century (2001–present)",
+    "sources": [
+      {"name": "Architectural Record", "url": "https://www.architecturalrecord.com/articles/11556-world-trade-center-transportation-hub-by-santiago-calatrava"},
+      {"name": "Britannica", "url": "https://www.britannica.com/topic/One-World-Trade-Center"}
+    ],
+    "confidence": "high",
+    "icon": "🕊️"
+  }
+]
