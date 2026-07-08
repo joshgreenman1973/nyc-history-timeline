@@ -157,7 +157,7 @@
         ? '<a class="src primary" href="'+esc(e.primary.url)+'" target="_blank" rel="noopener" title="Verified primary source">▣ '+esc(e.primary.name)+'</a>'
         : '';
       var imgHtml = (e.image && e.weight!==3)
-        ? '<div class="card-img"><img loading="lazy" src="'+esc(e.image)+'" alt="'+esc(e.title)+'"><span class="img-cr">'+esc(e.imageCredit||'')+' · Wikimedia</span></div>'
+        ? '<div class="card-img"><img loading="lazy" onload="window.__fitImg&&window.__fitImg(this)" src="'+esc(e.image)+'" alt="'+esc(e.title)+'"><span class="img-cr">'+esc(e.imageCredit||'')+' · Wikimedia</span></div>'
         : '';
       var h = e.historian;
       var histHtml = h ? '<div class="hist"><span class="hist-label">Historian’s lens</span>'
@@ -223,10 +223,25 @@
     return {mo:mo,day:day,yr:yr};
   }
 
+  // ---------- Smart image cropping (never cut off a face/head) ----------
+  function fitImg(im){
+    var w=im.naturalWidth, h=im.naturalHeight; if(!w||!h) return;
+    var r=h/w;
+    // portrait: faces sit ~20-25% down, so bias the crop there (not the very top).
+    // wide panorama: keep the middle. near-square: a gentle top bias.
+    im.style.objectPosition = (r>1.15) ? 'center 20%' : (r<0.75 ? 'center 50%' : 'center 30%');
+  }
+  window.__fitImg = fitImg;
+  function positionImages(){
+    $$('.card-img img').forEach(function(im){
+      if(im.complete && im.naturalWidth) fitImg(im);
+      im.addEventListener('load',function(){fitImg(im);});
+    });
+  }
   // ---------- Scroll reveal ----------
   function observe(){
     var io=new IntersectionObserver(function(entries){
-      entries.forEach(function(en){ if(en.isIntersecting){ en.target.classList.add('in'); io.unobserve(en.target);} });
+      entries.forEach(function(en){ if(en.isIntersecting){ en.target.classList.add('in'); var im=en.target.querySelector('.card-img img'); if(im){ if(im.complete&&im.naturalWidth) fitImg(im); else im.addEventListener('load',function(){fitImg(im);}); } io.unobserve(en.target);} });
     },{threshold:0.15, rootMargin:'0px 0px -8% 0px'});
     $$(".event").forEach(function(el){io.observe(el);});
   }
@@ -460,7 +475,7 @@
       return;
     }
     buildStars(); heroStats(); animateTitle(); buildPills(); buildChips();
-    render(); observe(); buildModal(); wire(); setupTools();
+    render(); observe(); positionImages(); buildModal(); wire(); setupTools();
   }
   if(document.readyState!=='loading') init(); else document.addEventListener('DOMContentLoaded',init);
 })();
