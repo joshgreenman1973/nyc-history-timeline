@@ -136,7 +136,7 @@ body{font-family:var(--serif);color:var(--ink);background:var(--paper);line-heig
 
 /* ---------- TIMELINE ---------- */
 .timeline{position:relative;max-width:var(--maxw);margin:0 auto;padding:48px 18px 100px}
-.intro-note{max-width:600px;margin:0 auto 40px;text-align:center;color:var(--ink-soft);font-size:14.5px;font-style:italic}
+.intro-note{position:relative;z-index:6;background:var(--paper);max-width:600px;margin:0 auto 40px;padding:0 14px;text-align:center;color:var(--ink-soft);font-size:14.5px;font-style:italic}
 .intro-note a{color:var(--red);text-decoration:none;border-bottom:1px solid var(--red);font-style:normal}
 
 .spine{position:absolute;top:0;bottom:0;left:50%;width:1px;transform:translateX(-50%);background:var(--ink);opacity:.45;z-index:0}
@@ -145,7 +145,7 @@ body{font-family:var(--serif);color:var(--ink);background:var(--paper);line-heig
   background:var(--red);border:1.5px solid var(--paper);transition:top .1s linear}
 
 /* era divider */
-.era-band{position:relative;z-index:2;text-align:center;margin:60px 0 42px;padding:20px 0;
+.era-band{position:relative;z-index:6;background:var(--paper);text-align:center;margin:60px 0 42px;padding:20px 0;
   border-top:4px double var(--ink);border-bottom:1px solid var(--ink)}
 .era-band .rn{font-family:var(--display);font-size:clamp(38px,7vw,68px);font-weight:500;font-style:italic;color:var(--era);line-height:1;letter-spacing:.04em}
 .era-band .en{font-family:var(--narrow);font-weight:700;text-transform:uppercase;letter-spacing:.14em;
