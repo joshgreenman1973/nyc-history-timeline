@@ -101,6 +101,24 @@ def clean(s):
     # decode HTML entities (&amp; etc.) to real characters
     return html.unescape(s)
 
+MONTHS = {m: i + 1 for i, m in enumerate(
+    ["January","February","March","April","May","June","July","August",
+     "September","October","November","December"])}
+
+
+def sort_key_for(date_str):
+    """YYYYMMDD ordering key from a display date ('March 25, 1911', 'c. 1920')."""
+    s = date_str.replace("c. ", "").strip()
+    m = re.match(r"^([A-Z][a-z]+) (\d{1,2}), (\d{3,4})$", s)
+    if m:
+        return int(m.group(3)) * 10000 + MONTHS[m.group(1)] * 100 + int(m.group(2))
+    m = re.match(r"^([A-Z][a-z]+) (\d{3,4})$", s)
+    if m:
+        return int(m.group(2)) * 10000 + MONTHS[m.group(1)] * 100
+    m = re.search(r"(\d{3,4})", s)
+    return int(m.group(1)) * 10000 if m else 0
+
+
 def norm_title(t):
     return re.sub(r'[^a-z0-9]', '', clean(t).lower())
 
@@ -180,11 +198,10 @@ def main():
         has_src = (e.get("sources") and len(e["sources"])>0 and e["sources"][0].get("url")) or e.get("sourceUrl")
         if not has_src:
             warnings.append(f"NO SOURCE: {e.get('title')}")
-        # sanitize implausible sortKeys (e.g. 19691) -> derive year from the date
-        sk = e.get("sortKey")
-        if not isinstance(sk, int) or sk < -2000 or sk > 2100:
-            m = re.search(r'\d{3,4}', str(e.get("date","")))
-            e["sortKey"] = int(m.group()) if m else 0
+        # sortKey is always derived from the date string as YYYYMMDD, so that
+        # full-date events and year-only events interleave in true chronological
+        # order (agent-supplied sortKeys were unreliable: bumped years, 19691, etc.)
+        e["sortKey"] = sort_key_for(str(e.get("date","")))
         # drop known redundant additions
         if norm_title(e.get("title","")) in SKIP_TITLES:
             continue

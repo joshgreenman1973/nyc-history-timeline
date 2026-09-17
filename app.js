@@ -13,7 +13,7 @@
     {name:"21st Century (2001–present)",             short:"21st C.",      rn:"VI",  range:"2001–now",    color:"#2c6d73"}
   ];
   function eraIndex(name){for(var i=0;i<ERAS.length;i++){if(ERAS[i].name===name)return i;}return 2;}
-  // sort by era order first, then chronologically within the era
+  // sort by era order first, then chronologically within the era (sortKey is YYYYMMDD)
   EVENTS.sort(function(a,b){var d=eraIndex(a.era)-eraIndex(b.era);return d!==0?d:(a.sortKey-b.sortKey);});
 
   // Category palette
@@ -43,7 +43,7 @@
 
   function heroStats(){
     if(!EVENTS.length) return;
-    var years = EVENTS[EVENTS.length-1].sortKey - EVENTS[0].sortKey;
+    var years = Math.floor(EVENTS[EVENTS.length-1].sortKey/10000) - Math.floor(EVENTS[0].sortKey/10000);
     var cats = {}; EVENTS.forEach(function(e){cats[e.category]=1;});
     var data=[
       {n:EVENTS.length, lbl:"Moments"},
@@ -60,8 +60,8 @@
   // ---------- Split hero title into letters ----------
   function animateTitle(){
     var t=$("#heroTitle"); if(!t) return;
-    // wrap each visible character of the non-em lines already handled by CSS; add stagger to spans
-    var em=t.querySelector('em');
+    // wrap each visible character of line one, then the rest; add stagger to spans
+    var em=t.querySelector('.l1');
     function wrap(node){
       var text=node.textContent, frag=document.createDocumentFragment(), idx=0;
       for(var i=0;i<text.length;i++){
@@ -186,7 +186,7 @@
       var extraTxt = (e.fiction?e.fiction.map(function(w){return w.work+' '+w.by;}).join(' '):'')+' '+(e.reading?e.reading.map(function(b){return b.book+' '+b.author;}).join(' '):'');
       var searchTxt = (e.title+' '+e.blurb+' '+(e.detail||'')+' '+(h?h.take+' '+h.who+' '+h.work:'')+' '+extraTxt+' '+e.date+' '+e.category).toLowerCase();
       var pd = parseDate(e.date);
-      html+='<article class="event '+side+(hasDetail?' has-detail':'')+'" data-cat="'+esc(e.category)+'" data-search="'+esc(searchTxt)+'" data-month="'+pd.mo+'" data-day="'+pd.day+'" data-year="'+(pd.yr||e.sortKey)+'" data-weight="'+(e.weight||2)+'" style="--era:'+er.color+'">'
+      html+='<article class="event '+side+(hasDetail?' has-detail':'')+'" data-cat="'+esc(e.category)+'" data-search="'+esc(searchTxt)+'" data-month="'+pd.mo+'" data-day="'+pd.day+'" data-year="'+(pd.yr||Math.floor(e.sortKey/10000))+'" data-weight="'+(e.weight||2)+'" style="--era:'+er.color+'">'
         +'<span class="node"></span>'
         +'<div class="card" tabindex="0">'
           + imgHtml

@@ -59,7 +59,6 @@ body{font-family:var(--serif);color:var(--ink);background:var(--paper);line-heig
 .hero h1{font-family:var(--display);font-weight:800;line-height:.9;
   font-size:clamp(50px,12.5vw,164px);letter-spacing:-.02em;margin:0;color:var(--ink);text-wrap:balance}
 .hero h1 .l{display:inline-block;opacity:0;transform:translateY(24px);animation:drop .7s cubic-bezier(.2,.7,.2,1) forwards}
-.hero h1 em{font-style:italic;font-weight:700;color:var(--ink)}
 .rule-hero{width:min(620px,86%);height:2px;background:var(--ink);margin:clamp(14px,3vh,26px) 0 0;position:relative;
   opacity:0;animation:rise 1s .8s forwards}
 .rule-hero::before,.rule-hero::after{content:'';position:absolute;top:50%;width:7px;height:7px;background:var(--red);transform:translateY(-50%) rotate(45deg)}
@@ -98,7 +97,7 @@ body{font-family:var(--serif);color:var(--ink);background:var(--paper);line-heig
 .controls.show{transform:none}
 .controls-in{max-width:var(--maxw);margin:0 auto;padding:8px 18px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
 .brandmark{font-family:var(--display);font-weight:800;font-size:22px;color:var(--ink);white-space:nowrap;line-height:1;letter-spacing:-.01em}
-.brandmark em{font-style:italic;color:var(--red)}
+.brandmark b{font-weight:800;color:var(--red)}
 .eras{display:flex;gap:2px;flex-wrap:wrap;flex:1;min-width:0}
 .era-pill{font-family:var(--narrow);font-size:11px;letter-spacing:.08em;text-transform:uppercase;
   padding:6px 9px;border:0;border-bottom:2px solid transparent;color:var(--ink-soft);background:none;
@@ -322,8 +321,8 @@ footer .fq{font-family:var(--serif);font-style:italic;font-size:20px;color:var(-
     </svg>
   </div>
 
-  <div class="folio">Established 1624 &nbsp;·&nbsp; The Five Boroughs &nbsp;·&nbsp; No. 331 &nbsp;·&nbsp; Price: Free</div>
-  <h1 id="heroTitle"><em>New York,</em><br>in Time</h1>
+  <div class="folio">Established 1624 &nbsp;·&nbsp; The Five Boroughs &nbsp;·&nbsp; No. 394 &nbsp;·&nbsp; Price: Free</div>
+  <h1 id="heroTitle"><span class="l1">New York,</span><br>in Time</h1>
   <div class="rule-hero"></div>
   <p class="hero-sub">Four centuries of the world's most restless city — a printed record of the moments that made it, <b>each anchored to a verified source</b>.</p>
 
@@ -341,7 +340,7 @@ footer .fq{font-family:var(--serif);font-style:italic;font-size:20px;color:var(-
 <!-- STICKY CONTROLS -->
 <div class="controls" id="controls">
   <div class="controls-in">
-    <div class="brandmark"><em>NY</em>, in Time</div>
+    <div class="brandmark"><b>NY</b>, in Time</div>
     <div class="eras" id="eraPills"></div>
     <div class="ctrl-right">
       <button class="icon-btn" id="luckyBtn" title="Surprise me — jump to a random moment">🎲</button>
@@ -351,7 +350,7 @@ footer .fq{font-family:var(--serif);font-style:italic;font-size:20px;color:var(-
   </div>
   <div class="filters" id="filters">
     <div class="filter-row" style="margin-bottom:9px">
-      <input class="search" id="search" placeholder="Search 396 moments — people, places, events…" />
+      <input class="search" id="search" placeholder="Search 394 moments — people, places, events…" />
       <span class="hitcount" id="hitcount"></span>
     </div>
     <div class="filter-row" style="margin-bottom:9px">
@@ -392,6 +391,8 @@ footer .fq{font-family:var(--serif);font-style:italic;font-size:20px;color:var(-
     <h4>Approach</h4>
     <p>This is a curated selection of turning points in the history of New York City — not a comprehensive chronicle. Events were chosen to span the full arc of the city, from the Lenape homeland of Lenapehoking through Dutch New Amsterdam, English colonial rule, the Revolution, the 19th-century boom, the 1898 consolidation of the five boroughs, and the modern metropolis.</p>
     <p>Each event was checked against reputable references. Every card carries a direct link to a source — encyclopedic, governmental, archival or scholarly — so you can verify the claim yourself. Dates that are approximate or contested are marked <em>c.</em> and flagged with a "medium" confidence label.</p>
+    <h4>Fact-checking</h4>
+    <p>The record has been through four independent review passes. The most recent, in September 2026, re-read every date, blurb and detail paragraph, tested all 835 source links and corrected eleven factual errors, two duplicate events and a sorting bug that put 78 cards out of chronological order. Everything it found, fixed and left standing is written up in <a href="https://github.com/joshgreenman1973/nyc-history-timeline/blob/main/FACT-CHECK.md" target="_blank" rel="noopener">FACT-CHECK.md</a>.</p>
     <h4>Editorial notes</h4>
     <p>Descriptions aim to state facts without editorializing. Where a date is traditionally given but debated by historians, the traditional date is used and noted. This project favors clarity over completeness: many worthy moments were left out to keep the story legible.</p>
     <h4>Layers (open a card with "Read more")</h4>
@@ -405,7 +406,7 @@ footer .fq{font-family:var(--serif);font-style:italic;font-size:20px;color:var(-
 
 <div class="toast" id="toast"></div>
 
-<script src="data.js?v=4"></script>
-<script src="app.js?v=4"></script>
+<script src="data.js?v=5"></script>
+<script src="app.js?v=5"></script>
 </body>
 </html>
