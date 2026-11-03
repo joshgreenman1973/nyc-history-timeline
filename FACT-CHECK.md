@@ -54,13 +54,13 @@ All 835 source, further-reading, primary-document and historian links were reque
 - V-J Day (1945) — National WWII Museum
 - Hart-Celler Act (1965) — US House historian, LBJ Library
 
-Thirty-one cards still carry one dead link alongside a working one. The heaviest cluster is the New Netherland Institute, which restructured its site and broke six links (Hudson, Block, the West India Company, the Schaghen letter, the Charter of Freedoms, Kieft). The rest are scattered: nps.gov Verrazzano and Plaza Hotel pages, the Collegiate School timeline, Bronx County Historical Society on Jonas Bronck, loc.gov's Haven to Home exhibit, nyphil.org history, AMNH archives, neh.gov on Riis and on Papp, un.org headquarters, Baseball Hall of Fame on the 1955 and 1996 World Series, PBS on Robert Moses, nyc.gov on the landmarks law, NYSED on Ocean Hill-Brownsville, panynj.gov on the World Trade Center, MCNY on Studio 54 and the 1977 blackout, ojp.gov on CompStat, history.com on One World Trade Center, and four publisher pages for books in the further-reading layer.
+Thirty-one cards still carry one dead link alongside a working one. The heaviest cluster is the New Netherland Institute, which restructured its site and broke six links (Hudson, Block, the West India Company, the Schaghen letter, the Charter of Freedoms, Kieft). The rest are scattered: nps.gov Verrazzano and Plaza Hotel pages, the Collegiate School timeline, Bronx County Historical Society on Jonas Bronck, loc.gov's Haven to Home exhibit, nyphil.org history, American Museum of Natural History archives, neh.gov on Riis and on Papp, un.org headquarters, Baseball Hall of Fame on the 1955 and 1996 World Series, PBS on Robert Moses, nyc.gov on the landmarks law, the State Education Department on Ocean Hill-Brownsville, panynj.gov on the World Trade Center, the Museum of the City of New York on Studio 54 and the 1977 blackout, ojp.gov on CompStat, history.com on One World Trade Center, and four publisher pages for books in the further-reading layer.
 
 A further 204 links returned 403 and 12 returned 202. Those are bot blocks, not dead pages — Britannica, loc.gov, Mount Vernon, Gilder Lehrman and Oxford University Press all refuse scripted requests but load normally in a browser. Spot checks confirmed this. They were not touched.
 
 ## Checked and correct
 
-Everything else held up. Worth recording, because these are the claims most likely to be wrong and they are not:
+Everything else held up, including these claims, which were the likeliest to be wrong:
 
 - The 1990s immigration card's "45 percent of adults foreign born by 2000" is verbatim from the cited New York Fed research, as is the 1.2 million figure.
 - Fresh Kills: "roughly 1.4 million tons" over a ten-month operation matches the Sanitation Department's own account exactly.
@@ -73,12 +73,12 @@ Everything else held up. Worth recording, because these are the claims most like
 These are contestable rather than wrong, and are flagged here rather than changed:
 
 - **The Nuyorican Poets Cafe, "Oct. 31, 1973."** The founding in Miguel Algarín's apartment is well documented; a precise day is not. The card's confidence label should probably be medium.
-- **Collegiate School, c. 1628.** The card already says the year is contested among 1628, 1633 and 1638, and attributes the 1628 claim to the school. That is the honest way to handle it.
+- **Collegiate School, c. 1628.** The card already says the year is contested among 1628, 1633 and 1638, and attributes the 1628 claim to the school.
 - **MTV "launches from New York," Aug. 1, 1981.** The company and its studios were in New York; the launch feed originated in Fort Lee, New Jersey.
 - **The RCA Building's "70 stories."** Sources split between 66 and 70 depending on whether the setback floors are counted. The observation deck is billed as the 70th floor. Left as is.
 - **Benny Goodman, "the first time a big band headlined the classical hall."** Carefully worded already; James Reese Europe and W.C. Handy had played Carnegie Hall earlier, but not as a swing band headlining.
-- **The 1795 and 1803 yellow fever death tolls (about 730 and about 700).** Both figures are right, but the cited Baruch NYCdata page contains no death figures at all and dates the era's peaks to 1795, 1799 and 1803. The numbers need a source that actually carries them.
+- **The 1795 and 1803 yellow fever death tolls (about 730 and about 700).** Both figures are right, but the cited Baruch NYCdata page contains no death figures at all and dates the era's peaks to 1795, 1799 and 1803. The numbers need a source that carries them.
 
 ## Method
 
-Every card's date, title and blurb was read in full, and every detail sentence containing a number was extracted and reviewed separately. Claims that could not be settled from the record were verified against primary or institutional sources — the Museum of American Finance, the Ford Foundation, Wikipedia's sourced articles, the New York Fed, DSNY, the National WWII Museum, the US House historian's office, CTBUH. Link health was checked by requesting all 835 URLs with a browser user agent and a 25-second timeout.
+Every card's date, title and blurb was read in full, and every detail sentence containing a number was extracted and reviewed separately. Claims that could not be settled from the record were verified against primary or institutional sources — the Museum of American Finance, the Ford Foundation, Wikipedia's sourced articles, the New York Fed, the Department of Sanitation, the National WWII Museum, the US House historian's office, the Council on Tall Buildings and Urban Habitat. Link health was checked by requesting all 835 URLs with a browser user agent and a 25-second timeout.
