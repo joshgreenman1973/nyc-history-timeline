@@ -38,7 +38,7 @@ Round 4 re-audited the then-331 events. Its one fix was the date of the New Amst
 
 The September 2026 pass re-read every card, tested all 835 source links and corrected 11 errors, two duplicate events and a sorting bug.
 
-The November 2026 pass checked every card against outside sources again, corrected 71 errors on 66 cards, replaced hijacked and dead links, rewrote copy that read as machine-written and added the inline links. Six of its corrections were claims that events had overtaken, such as the end of MetroCard sales and the start of Second Avenue Subway Phase 2 construction. Questions it could not settle are listed in [fact-check-flags-2026-11.md](fact-check-flags-2026-11.md).
+The November 2026 pass checked every card against outside sources again, corrected 81 errors on 76 cards, replaced hijacked and dead links, rewrote copy that read as machine-written and added the inline links. Six of its corrections were claims that events had overtaken, such as the end of MetroCard sales and the start of Second Avenue Subway Phase 2 construction. Questions it could not settle are listed in [fact-check-flags-2026-11.md](fact-check-flags-2026-11.md).
 
 ## Layers
 Many cards carry more under "Read more":

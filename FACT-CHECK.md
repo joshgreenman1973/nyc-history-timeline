@@ -2,7 +2,7 @@
 
 The fifth review covered all 394 cards: every date, title, blurb, detail paragraph, historian's note, reading note and fiction note, checked against outside sources. Eight checkers each took about 50 cards. The same pass rewrote copy that read as machine-written and added inline source links: 521 links now sit on the specific figures and claims they support, on 388 of the 394 cards. All 411 unique link addresses were requested. 393 loaded directly; the other 18 belong to sites that refuse scripted requests (Britannica, Bloomberg, the Centers for Disease Control and Prevention, the Metropolitan Transportation Authority and others), and a sample of those opened normally in a browser.
 
-It corrected 71 errors on 66 cards. Six were things that had changed since the cards were written.
+It corrected 81 errors on 76 cards, including ten from a follow-up on the open questions below. Six were things that had changed since the cards were written.
 
 ## Errors corrected
 
@@ -98,22 +98,22 @@ Two cholera cards (1832 and 1892) cited the New York Academy of Medicine's old h
 
 About 440 fields were rewritten to remove phrasing that reads as machine-written: "not X but Y" reveals, significance inflation ("watershed," "cemented," "forever changed," "ushered in"), summary closers ("The city would never be the same"), stacked intensifiers and editorial adjectives ("delirious," "lavish"). Facts, quotations and figures were left as they were unless listed above. Eighteen titles changed, most to drop a flourish ("Immigration reform reopens the golden door" is now "Johnson signs the Hart-Celler immigration law").
 
-## Open questions
+## Open questions resolved
 
-The checkers raised 112 flags they could not settle. The ones most likely to need a change:
+The checkers raised 112 flags they could not settle. The ten most likely to need a change were researched afterward, and all ten led to edits:
 
-- **Great Blizzard (1888).** The card says about 200 died in the city, the usual secondary figure; its own Library of Congress source says 800 overall.
-- **RCA Building (1933).** "70-story" may be a publicist's count; the tower has 66 floors with the observation deck above.
-- **Wall Street bombing (1920).** "Deadliest terrorist attack to that point" is contested.
-- **Rivoli Theatre air conditioning (1925).** Theaters in Chicago and Montgomery, Ala., were mechanically cooled by 1917.
-- **Cross Bronx Expressway.** "5,000 families" looks like Moses's estimate of 5,000 people for one mile; the historian's note calls East Tremont "racially integrated," which may not be Caro's wording.
-- **Dance Theatre of Harlem.** The Aug. 15, 1969 date may be when the Harlem School of the Arts closed its dance department; the company was incorporated Feb. 11.
-- **Times Square redevelopment (1997).** Its historian's lens, Suleiman Osman on brownstone Brooklyn, belongs on a different card.
-- **AT&T Building (1984).** Oct. 1, 1984 is unconfirmed; tenants moved in July 1983.
-- **Transit strike (2005).** Members rejected the contract in January 2006 and an arbitrator imposed one; the card stops at the board's acceptance.
-- **Chelsea bombing (2016).** Injury counts run 29, 30 or 31 by source.
+- **Great Blizzard (1888).** The card gave about 200 deaths in the city as settled. Sources disagree: [History.com says about 200](https://www.history.com/this-day-in-history/march-11/great-blizzard-of-88-hits-east-coast), Baruch College's NYCdata says 400 and [the Library of Congress says 800](https://guides.loc.gov/chronicling-america-great-blizzard-1888). The blurb now gives the range.
+- **RCA Building (1933).** "70-story" is now 66. [The 70 figure came from a hyperbolic press release](https://en.wikipedia.org/wiki/30_Rockefeller_Plaza) by Rockefeller Center's publicist; the detail now says so.
+- **Wall Street bombing (1920).** "Deadliest act of terrorism on US soil to that point" is now [the deadliest terrorist attack in New York's history until 9/11](https://origins.osu.edu/index.php/history-news/first-wall-street-bomb), as Beverly Gage, the card's own historian, puts it.
+- **Rivoli Theatre air conditioning (1925).** Dropped "one of the first buildings cooled for public comfort." Chicago's Central Park Theater [used mechanical air conditioning from 1917](https://en.wikipedia.org/wiki/Central_Park_Theater); the card now says so and adds that [more than 300 theaters advertised refrigerated cooling by 1930](https://www.achrnews.com/articles/165867-1925-air-conditioning-comes-to-the-theater).
+- **Cross Bronx Expressway (1963).** Cut "evicting an estimated 5,000 families," which no source supports; the blurb already says the highway displaced thousands. The historian's note no longer calls East Tremont "racially integrated," a description that could not be traced to Caro.
+- **Dance Theatre of Harlem.** Redated from Aug. 15, 1969 to Feb. 11, 1969, when [the company was incorporated](https://online-exhibitions.library.columbia.edu/exhibits/show/mitchell/dance-theatre-of-harlem--compa/timeline). Aug. 15 was the day the Harlem School of the Arts closed its dance department.
+- **Times Square redevelopment (1997).** The historian's lens was Suleiman Osman's book on brownstone Brooklyn, which is about a different subject. It is now Lynne B. Sagalyn's [Times Square Roulette](https://business.columbia.edu/faculty/research/times-square-roulette-remaking-city-icon) (MIT Press, 2001). No other card fit Osman's book, so it was dropped.
+- **AT&T Building.** The date was Oct. 1, 1984, which no source supports. The [Landmarks Preservation Commission's designation report](https://s-media.nyc.gov/agencies/lpc/lp/2600.pdf) says only that it was completed in 1984; the card now gives the year.
+- **Transit strike (2005).** The card stopped at the union board's acceptance of the contract. It now adds that [members rejected it by seven votes](https://labornotes.org/2007/01/union-leadership-re-elected-less-half-vote-ny-transit-workers-get-contract-they-rejected) on Jan. 20, 2006, and that an arbitration panel imposed a contract in December 2006.
+- **Chelsea bombing (2016).** "Injures 29" is now "more than 30," the Justice Department's figure in [its sentencing release](https://www.justice.gov/usao-sdny/pr/chelsea-bomber-ahmad-khan-rahimi-sentenced-life-prison-executing-september-2016-bombing).
 
-The full list, with what each checker found, is in [fact-check-flags-2026-11.md](fact-check-flags-2026-11.md).
+With these, the November pass corrected 81 errors on 76 cards. The other 101 flags are unresolved. The full list, with what each checker found, is in [fact-check-flags-2026-11.md](fact-check-flags-2026-11.md).
 
 ---
 
