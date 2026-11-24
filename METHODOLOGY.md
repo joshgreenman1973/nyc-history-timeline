@@ -15,7 +15,7 @@ A curated selection of 394 events, chosen to span the city's history across six 
 Events are tagged with eight themes: Founding & Colonial, Politics & Government, Infrastructure & Building, Immigration & People, Disaster & Crisis, Culture & Landmarks, Civil Rights & Protest and Economy & Money.
 
 ## Sourcing
-Every card carries one or two source links at the bottom. Since November 2026, key dates, figures and contested claims in the card text also link directly to the page that supports them: 521 inline links on 388 of the 394 cards.
+Every card carries one or two source links at the bottom. Since November 2026, key dates, figures and contested claims in the card text also link directly to the page that supports them: more than 500 inline links, on all but a handful of cards.
 
 Sources were chosen in roughly this order:
 
