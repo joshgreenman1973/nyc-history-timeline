@@ -225,6 +225,8 @@ a.hist-who:hover{color:var(--red);border-color:var(--red)}
 .event.left .card .meta{justify-content:flex-end}
 .tag{font-family:var(--narrow);text-transform:uppercase;letter-spacing:.09em;font-size:9px;font-weight:700;
   padding:3px 7px;border:1px solid var(--tc,var(--ink));color:var(--tc,var(--ink));background:none}
+a.cite{color:inherit;text-decoration:underline;text-decoration-color:var(--red);text-decoration-thickness:1px;text-underline-offset:2px}
+a.cite:hover{color:var(--red)}
 .src{font-family:var(--narrow);font-size:10px;letter-spacing:.04em;color:var(--ink-faint);text-decoration:none;
   display:inline-flex;align-items:center;gap:4px;transition:.15s;border-bottom:1px solid transparent;font-weight:600}
 .src:hover{color:var(--red);border-color:var(--red)}
@@ -370,15 +372,15 @@ footer .fq{font-family:var(--serif);font-style:italic;font-size:20px;color:var(-
 
 <!-- TIMELINE -->
 <main class="timeline" id="timeline">
-  <p class="intro-note">Every card links to a source you can check yourself. Use the era pills to jump, filter by theme, or press <b>▶</b> for a guided auto-scroll tour. <a href="#" id="srcBtn2">Read the method →</a></p>
+  <p class="intro-note">Every card links to a source you can check yourself, and underlined words in the text link to the source for that claim. Use the era pills to jump, filter by theme, or press <b>▶</b> for a guided auto-scroll tour. <a href="#" id="srcBtn2">Read the method →</a></p>
   <div class="spine"><div class="spine-fill" id="spineFill"></div></div>
   <div class="comet" id="comet"></div>
   <div id="events"></div>
 </main>
 
 <footer>
-  <p class="fq">"A hundred times have I thought New York is a catastrophe, and fifty times: It is a beautiful catastrophe."</p>
-  <p style="margin-bottom:14px">— attributed to Le Corbusier, 1935</p>
+  <p class="fq">"A hundred times I have thought: New York is a catastrophe, and fifty times: it is a beautiful catastrophe."</p>
+  <p style="margin-bottom:14px">— Le Corbusier, When the Cathedrals Were White, 1937</p>
   <p><span id="footCount"></span> events · built on verified historical sources · <a href="#" id="srcBtn3">Sources &amp; methodology</a></p>
 </footer>
 
@@ -389,12 +391,12 @@ footer .fq{font-family:var(--serif);font-style:italic;font-size:20px;color:var(-
     <h2>Sources &amp; method</h2>
     <p class="lead">How this record was built, and where every date comes from.</p>
     <h4>Approach</h4>
-    <p>This is a curated selection of turning points in the history of New York City — not a comprehensive chronicle. Events were chosen to span the full arc of the city, from the Lenape homeland of Lenapehoking through Dutch New Amsterdam, English colonial rule, the Revolution, the 19th-century boom, the 1898 consolidation of the five boroughs and the modern metropolis.</p>
-    <p>Each event was checked against reputable references. Every card carries a direct link to a source — encyclopedic, governmental, archival or scholarly — so you can verify the claim yourself. Dates that are approximate or contested are marked <em>c.</em> and flagged with a "medium" confidence label.</p>
+    <p>This is a curated selection of turning points in the history of New York City, from the Lenape homeland of Lenapehoking through Dutch New Amsterdam, English colonial rule, the Revolution, the 19th-century boom, the 1898 consolidation of the five boroughs and the modern metropolis.</p>
+    <p>Each event was checked against reputable references. Every card carries a direct link to a source (encyclopedic, governmental, archival or scholarly), and key dates and figures in the text link to the page that supports them. Dates that are approximate or contested are marked <em>c.</em> and flagged with a "medium" confidence label.</p>
     <h4>Fact-checking</h4>
-    <p>The record has been through four independent review passes. The most recent, in September 2026, re-read every date, blurb and detail paragraph, tested all 835 source links and corrected eleven factual errors, two duplicate events and a sorting bug that put 78 cards out of chronological order. Everything it found, fixed and left standing is written up in <a href="https://github.com/joshgreenman1973/nyc-history-timeline/blob/main/FACT-CHECK.md" target="_blank" rel="noopener">FACT-CHECK.md</a>.</p>
+    <p>The record has been through five review passes. The most recent, in November 2026, checked every card against outside sources, corrected 71 errors on 66 cards (six of them claims that time had overtaken) and added more than 500 inline source links. The September 2026 pass before it tested all 835 source links and corrected eleven errors, two duplicate events and a sorting bug. Both are written up in <a href="https://github.com/joshgreenman1973/nyc-history-timeline/blob/main/FACT-CHECK.md" target="_blank" rel="noopener">FACT-CHECK.md</a>.</p>
     <h4>Editorial notes</h4>
-    <p>Descriptions aim to state facts without editorializing. Where a date is traditionally given but debated by historians, the traditional date is used and noted. This project favors clarity over completeness: many worthy moments were left out to keep the story legible.</p>
+    <p>Descriptions aim to state facts without editorializing. Where a date is traditionally given but debated by historians, the traditional date is used and noted. Many events were left out to keep the timeline readable.</p>
     <h4>Layers (open a card with "Read more")</h4>
     <p>Many cards go deeper. A <b>▣ primary source</b> links the original document (a 1609 ship's journal, a colonial charter, a period court record, a statute), each fetched and confirmed to support the claim. A <b>Historian's lens</b> gives a named scholar's argument about the moment. <b>Further reading</b> points to an acclaimed narrative history. <b>In fiction</b> lists films, TV, novels and plays set in the event or period. Attributions in every layer were independently verified.</p>
     <h4>Images</h4>

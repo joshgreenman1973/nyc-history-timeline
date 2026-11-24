@@ -2,6 +2,9 @@
 
 An interactive, scroll-driven timeline of New York City history. This document is the single starting point for anyone (human or agent) picking the project up.
 
+## Read this first (November 2026)
+`data.js` is now the source of truth. The September and November 2026 fact-checks edited it directly, so the files in `parts/` are stale and running `parts/merge.py` would undo about 80 corrections, 500-plus inline source links and the copy edits. Edit `data.js` (it round-trips losslessly through `json.loads`/`json.dumps(ensure_ascii=False)`, one event per line). Card text may contain inline links written as `[words](https://url)`; `app.js` renders them with `rich()`.
+
 ## Live
 - **Site:** https://joshgreenman1973.github.io/nyc-history-timeline/
 - **Repo:** `joshgreenman1973/nyc-history-timeline` (public), branch `main`, GitHub Pages from `/` root

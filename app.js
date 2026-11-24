@@ -161,7 +161,7 @@
         : '';
       var h = e.historian;
       var histHtml = h ? '<div class="hist"><span class="hist-label">Historian’s lens</span>'
-        +'<p class="hist-take">'+esc(h.take)+'</p>'
+        +'<p class="hist-take">'+rich(h.take)+'</p>'
         +(h.who ? '<a class="hist-who"'+(h.url?' href="'+esc(h.url)+'" target="_blank" rel="noopener"':'')+'>'+esc(h.who)+(h.work?', <em>'+esc(h.work)+'</em>':'')+'</a>' : '')
         +'</div>' : '';
       var KIND_ICON = {Film:'🎬',TV:'📺',Novel:'📖',Musical:'🎭',Play:'🎭'};
@@ -170,21 +170,21 @@
             return '<div class="ework"><span class="ework-ic">'+(KIND_ICON[w.kind]||'🎬')+'</span><span class="ework-body">'
               +(w.url?'<a href="'+esc(w.url)+'" target="_blank" rel="noopener"><em>'+esc(w.work)+'</em></a>':'<em>'+esc(w.work)+'</em>')
               +' <span class="ework-meta">'+esc(w.kind)+(w.year?', '+esc(w.year):'')+(w.by?' · '+esc(w.by):'')+'</span>'
-              +'<span class="ework-note">'+esc(w.note||'')+'</span></span></div>';
+              +'<span class="ework-note">'+rich(w.note||'')+'</span></span></div>';
           }).join('')+'</div>' : '';
       var readingHtml = (e.reading && e.reading.length)
         ? '<div class="extra"><span class="extra-label">Further reading</span>'+e.reading.map(function(b){
             return '<div class="ework"><span class="ework-ic">📚</span><span class="ework-body">'
               +(b.url?'<a href="'+esc(b.url)+'" target="_blank" rel="noopener"><em>'+esc(b.book)+'</em></a>':'<em>'+esc(b.book)+'</em>')
               +' <span class="ework-meta">'+esc(b.author||'')+(b.year?', '+esc(b.year):'')+'</span>'
-              +'<span class="ework-note">'+esc(b.note||'')+'</span></span></div>';
+              +'<span class="ework-note">'+rich(b.note||'')+'</span></span></div>';
           }).join('')+'</div>' : '';
       var hasExpand = !!(e.detail || h || fictionHtml || readingHtml);
-      var detailHtml = hasExpand ? '<div class="detail">'+(e.detail?'<p>'+esc(e.detail)+'</p>':'')+histHtml+fictionHtml+readingHtml+'</div>' : '';
+      var detailHtml = hasExpand ? '<div class="detail">'+(e.detail?'<p>'+rich(e.detail)+'</p>':'')+histHtml+fictionHtml+readingHtml+'</div>' : '';
       var moreBtn = hasExpand ? '<button class="more" type="button">Read more <span class="chev">↓</span></button>' : '';
       var hasDetail = hasExpand;
       var extraTxt = (e.fiction?e.fiction.map(function(w){return w.work+' '+w.by;}).join(' '):'')+' '+(e.reading?e.reading.map(function(b){return b.book+' '+b.author;}).join(' '):'');
-      var searchTxt = (e.title+' '+e.blurb+' '+(e.detail||'')+' '+(h?h.take+' '+h.who+' '+h.work:'')+' '+extraTxt+' '+e.date+' '+e.category).toLowerCase();
+      var searchTxt = plain(e.title+' '+e.blurb+' '+(e.detail||'')+' '+(h?h.take+' '+h.who+' '+h.work:'')+' '+extraTxt+' '+e.date+' '+e.category).toLowerCase();
       var pd = parseDate(e.date);
       html+='<article class="event '+side+(hasDetail?' has-detail':'')+'" data-cat="'+esc(e.category)+'" data-search="'+esc(searchTxt)+'" data-month="'+pd.mo+'" data-day="'+pd.day+'" data-year="'+(pd.yr||Math.floor(e.sortKey/10000))+'" data-weight="'+(e.weight||2)+'" style="--era:'+er.color+'">'
         +'<span class="node"></span>'
@@ -193,7 +193,7 @@
           +'<div class="yr"><span class="ic">'+(e.icon||'•')+'</span><span>'+esc(String(e.date).match(/\d{3,4}|c\.\s?\d+/)?displayYear(e):e.date)+'</span></div>'
           +'<div class="date">'+esc(e.date)+'</div>'
           +'<h3>'+esc(e.title)+'</h3>'
-          +'<p>'+esc(e.blurb)+'</p>'
+          +'<p>'+rich(e.blurb)+'</p>'
           + detailHtml
           +'<div class="meta">'
             +'<span class="tag" style="--tc:'+color+'">'+esc(shortCat(e.category))+'</span>'
@@ -212,6 +212,10 @@
   }
   function shortCat(c){ return c.split(' & ')[0]; }
   function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g,function(m){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m];}); }
+  // card prose may carry inline source links written as [words](https://url)
+  var LINK_RE=/\[([^\[\]]+)\]\((https?:\/\/[^\s()]+(?:\([^\s()]*\)[^\s()]*)*)\)/g;
+  function rich(s){ return esc(s).replace(LINK_RE,function(m,t,u){ return '<a class="cite" href="'+u+'" target="_blank" rel="noopener">'+t+'</a>'; }); }
+  function plain(s){ return String(s==null?'':s).replace(LINK_RE,'$1'); }
   var MONTHS={january:1,february:2,march:3,april:4,may:5,june:6,july:7,august:8,september:9,october:10,november:11,december:12};
   var MONTH_NAMES=['January','February','March','April','May','June','July','August','September','October','November','December'];
   function parseDate(d){
@@ -382,13 +386,13 @@
     touring=true;
     $$("#tourBtn,#tourBtn2").forEach(function(b){b.classList.add('playing');b.textContent='⏸ Pause tour';});
     $("#tourBtn").textContent='⏸';
-    toast('Tour started — sit back and scroll through history');
+    toast('Tour started');
     tourIdx=-1; step();
     function step(){
       if(!touring) return;
       var evs=$$(".event:not(.dim)");
       tourIdx++;
-      if(tourIdx>=evs.length){ stopTour(); toast('Tour complete — that’s four centuries.'); return; }
+      if(tourIdx>=evs.length){ stopTour(); toast('Tour complete'); return; }
       var el=evs[tourIdx];
       var y=el.getBoundingClientRect().top+window.scrollY-window.innerHeight*0.4;
       window.scrollTo({top:y,behavior:'smooth'});
